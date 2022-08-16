@@ -2,14 +2,16 @@
 
 ### Day 1: 08/15/2022
 
-**Today's Progress**: Write what I did.
+**Today's Progress**: Understood what is Unit testing and why we need to do testing.
 
-**Thoughts:** Short comment on my feelings and reflection.
+- Unit testing: Testing the smallest units of code in isolation (fast)
+- Why we test codes: To make sure a software behaves as expected
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** What I'm learning is the basic concepts. I feel a bit in rush wanting to do code exercises but it is okay to spend time in learning the concepts without actually coding as long as I'm learning something new!
 
+**Link to work:** NA
 
-<!-- 
+<!--
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
