@@ -11,6 +11,29 @@
 
 **Link to work:** NA
 
+### Day 2: 08/16/2022
+
+**Today's Progress**: Reviewed the concept of a prototype object, inheritance with the construction of classes. Understand what data structure is and why we need to talk about it.
+
+- Data Structure: it is about how to store data so that it can be used efficiently in completing a certain type of task. (Object, Array, Map, Set, etc.)
+- 'Map' data structure example:
+<code>
+const contacts = new Map()
+contacts.set('Jessie', {phone: "213-555-1234", address: "123 N 1st Ave"})
+contacts.has('Jessie') // true
+contacts.get('Hilary') // undefined
+</code>
+- 'Set' data structure example: 
+<code>
+const repetitiveFruits = ['apple','pear','apple','pear','plum', 'apple'];
+const uniqueFruits = new Set(repetitiveFruits);
+console.log(uniqueFruits); // {'apple', 'pear', 'plum'}
+</code>
+
+**Thoughts:** What I'm learning is the basic concepts. I feel a bit in rush wanting to do code exercises but it is okay to spend time in learning the concepts without actually coding as long as I'm learning something new!
+
+**Link to work:** NA
+
 <!--
 ### Day 1: June 27, Monday
 
