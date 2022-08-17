@@ -17,14 +17,16 @@
 
 - Data Structure: it is about how to store data so that it can be used efficiently in completing a certain type of task. (Object, Array, Map, Set, etc.)
 - 'Map' data structure example:
-<pre><code>
+<pre><code>//👍 Easy to access, remove, add on
 const contacts = new Map()
 contacts.set('Jessie', {phone: "213-555-1234", address: "123 N 1st Ave"})
 contacts.has('Jessie') // true
 contacts.get('Hilary') // undefined
+contacts.delete('Jessie')
+contacts.size // 0
 </code></pre>
 - 'Set' data structure example: 
-<pre><code>
+<pre><code>//👍 Easy to filter out duplicate array items
 const repetitiveFruits = ['apple','pear','apple','pear','plum', 'apple'];
 const uniqueFruits = new Set(repetitiveFruits);
 console.log(uniqueFruits); // {'apple', 'pear', 'plum'}
