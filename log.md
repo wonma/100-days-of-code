@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: 08/15/2022
+### Day 1: August 15, Monday
 
 **Today's Progress**: Understood what is Unit testing and why we need to do testing.
 
@@ -11,7 +11,7 @@
 
 ---
 
-### Day 2: 08/16/2022
+### Day 2: August 16, Tuesday
 
 **Today's Progress**: Reviewed the concept of a prototype object, inheritance with the construction of classes. Understand what data structure is and why we need to talk about it.
 
