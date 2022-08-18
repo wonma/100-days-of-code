@@ -9,6 +9,8 @@
 
 **Thoughts:** What I'm learning is the basic concepts. I feel a bit in rush wanting to do code exercises but it is okay to spend time in learning the concepts without actually coding as long as I'm learning something new!
 
+---
+
 ### Day 2: 08/16/2022
 
 **Today's Progress**: Reviewed the concept of a prototype object, inheritance with the construction of classes. Understand what data structure is and why we need to talk about it.
@@ -31,6 +33,17 @@ console.log(uniqueFruits); // {'apple', 'pear', 'plum'}
 </code></pre>
 
 **Thoughts:** Trying to experience the value of reviewing the basic concepts to retain them. It is interesting to see how many new things I get to see with fresh eyes while going over the content I learned two weeks ago.
+
+---
+### Day 3: August 17, Wednesday
+
+**Today's Progress**: I've gone through two mini exercises about event handler and DOM manipulation.
+
+**Thoughts** I realized however easy the exercise looks, I must try coding it from beginning to end by myself at least once. 
+
+**Link(s) to work**
+[eventHandling_01](/mini-exercises/eventHandling_01.js)
+[eventHandling_02](/mini-exercises/eventHandling_02.js)
 
 
 <!--
