@@ -3,15 +3,15 @@
 
 /********************** Code Plan ***********************/
 // Capture user's input into a variable
-// Create a h1 element and insert the user's input within the h1
-// Append the h1 element to the body element
+// Create a h2 element and insert the user's input within the h1
+// Append the h2 element to the body element
 
 
 /********************** Wrong ***********************/
 // let userInput = prompt('What is your name?')
-// const h1 = document.createElement('h1')
+// const h1 = document.createElement('h2')
 // h1.innerText = userInput
-// document.body.appendChild(h1)
+// document.body.appendChild(h2)
 
 /********************** Correct ***********************/
 let userInput = prompt('What is your name?')

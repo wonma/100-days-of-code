@@ -42,8 +42,26 @@ console.log(uniqueFruits); // {'apple', 'pear', 'plum'}
 **Thoughts** I realized however easy the exercise looks, I must try coding it from beginning to end by myself at least once. 
 
 **Link(s) to work**
-[eventHandling_01](/mini-exercises/eventHandling_01.js)
-[eventHandling_02](/mini-exercises/eventHandling_02.js)
+[eventHandling_01](/exercises/eventHandling/eventHandling_01.js)
+[eventHandling_02](/exercises/eventHandling/eventHandling_02.js)
+
+
+---
+### Day 4: August 18, Thursday
+
+**Today's Progress**
+- Completed one mini exercise about event handler
+- Reviewed JSON: 
+    - JSON is a subset of JavaScript. 
+    - JSON can be a data format but also a file. 
+    - Strings & Keys must be double-quoted.
+    - Functions(methods) cannot be included (silently ignored).
+    - It can be objects or **arrays**.
+
+**Thoughts** I realized that taking it slow is very important in learning the new concepts.
+
+**Link(s) to work**
+[eventHandling_03](/exercises/eventHandling/eventHandling_03.js)
 
 
 <!--
