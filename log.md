@@ -74,7 +74,7 @@ console.log(uniqueFruits); // {'apple', 'pear', 'plum'}
         - You should think about what to display when the arguments are not passed in or not invalid...etc.
         - Implement Test-driven development. Red Green Refactor cycle (test code -> programming -> test -> refactor -> test)
 
-**Thoughts** I realized that taking it slow is very important in learning the new concepts.
+**Thoughts** Although I completed another course of this Meta Front-end developer series, I don't feel confident and this is a natural feeling. I just feel happy that I could learn what I want to learn and I just love the composed state of mind when I'm in coding mode. Let's continue till I cannot physically do it!😊
 
 **Link(s) to work**
 [jest basics](/exercises/jest/addFive.test.js)
