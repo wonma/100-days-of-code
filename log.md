@@ -71,13 +71,13 @@ console.log(uniqueFruits); // {'apple', 'pear', 'plum'}
 - Completed the final assignment of the JavaScript course [Programming with JavaScript taught by Meta, @Coursera](https://www.coursera.org/learn/programming-with-javascript) 
     - Coded a logic for a simple receipt maker using loop and if statements.
     - Learned the basic concept of defensive programming. 
-        - You should think about what to display when the arguments are not passed in or not invalid...etc.
-        - Implement Test-driven development. Red Green Refactor cycle (test code -> programming -> test -> refactor -> test)
+        - You should think about what to display when the arguments are not passed in or invalid...etc.
+        - Implement test-driven development(TDD). Red Green Refactor cycle (test code -> programming -> test -> refactor -> test)
 
 **Thoughts** Although I completed another course of this Meta Front-end developer series, I don't feel confident and this is a natural feeling. I just feel happy that I could learn what I want to learn and I just love the composed state of mind when I'm in coding mode. Let's continue till I cannot physically do it!😊
 
 **Link(s) to work**
-[jest basics](/exercises/jest/addFive.test.js)
+[Jest_basics](/exercises/jest/addFive.test.js)
 [receiptMaker.js](/exercises/littleLemonReceiptMaker/receiptMaker.js)
 
 
