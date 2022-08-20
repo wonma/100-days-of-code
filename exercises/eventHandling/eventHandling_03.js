@@ -37,7 +37,8 @@ function handleClick(){
     }
 }
 
-// Mission condition: use an array that contains all the phrases.
+// ----------------------- Mission Condition Added -----------------------
+// Use an array that contains all the phrases.
 const h5 = document.querySelector('h5')
 const greetings = ['Today was a great day!', 'Tomorrow will be fun', 'Everyday is a good day', 'Live a life']
 h5.addEventListener('click', handleClicks)

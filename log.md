@@ -63,6 +63,24 @@ console.log(uniqueFruits); // {'apple', 'pear', 'plum'}
 **Link(s) to work**
 [eventHandling_03](/exercises/eventHandling/eventHandling_03.js)
 
+---
+### Day 5: August 19, Friday
+
+**Today's Progress**
+- Learned how to implement Jest for unit testing. 
+- Completed the final assignment of the JavaScript course [Programming with JavaScript taught by Meta, @Coursera](https://www.coursera.org/learn/programming-with-javascript) 
+    - Coded a logic for a simple receipt maker using loop and if statements.
+    - Learned the basic concept of defensive programming. 
+        - You should think about what to display when the arguments are not passed in or not invalid...etc.
+        - Implement Test-driven development. Red Green Refactor cycle (test code -> programming -> test -> refactor -> test)
+
+**Thoughts** I realized that taking it slow is very important in learning the new concepts.
+
+**Link(s) to work**
+[jest basics](/exercises/jest/addFive.test.js)
+[receiptMaker.js](/exercises/littleLemonReceiptMaker/receiptMaker.js)
+
+
 
 <!--
 ### Day 1: June 27, Monday
