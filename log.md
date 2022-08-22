@@ -99,6 +99,17 @@
 
 **Thoughts** I feel a bit intimidated with terminologies but I tried to stay open and positive about this new concepts. Also, it seems like communication can be improved by clearly taking a note on each change. Finally, I will practice **'ruthlessly prioritizing tasks'** and differentiate which is important amongst endless flow of tasks.
 
+---
+
+### Day 7: August 21, Sunday
+
+**Today's Progress**
+
+- Learned basics of Unix Commands: cd, ls, ls -a, ls -l, pwd, mv, mkdir, touch
+- Didn't fully get; **cat, cp, vi, vim, less, grep, redirection, pipe**
+
+**Thoughts** I felt a bit bored with using command lines but at the same time I feel like this is a type of hurdle I need to jump over to become a great developer.
+
 <!--
 ### Day 1: June 27, Monday
 
