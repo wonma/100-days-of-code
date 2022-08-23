@@ -76,11 +76,16 @@ console.log(uniqueFruits); // {'apple', 'pear', 'plum'}
 
 **Thoughts** Although I completed another course of this Meta Front-end developer series, I don't feel confident and this is a natural feeling. I just feel happy that I could learn what I want to learn and I just love the composed state of mind when I'm in coding mode. Let's continue till I cannot physically do it!😊
 
-**Link(s) to work**
-[Jest_basics](/exercises/jest/addFive.test.js)
-[receiptMaker.js](/exercises/littleLemonReceiptMaker/receiptMaker.js)
 
 
+---
+### Day 8: August 22, Monday
+
+**Today's Progress**
+- Learned Git and Github
+    - What I didn't understand in 'branch': **git push -u origin feature/lesson** is where it'll come in with a **pull request for peer review**. I got it. However, the teacher said using **-u** means that I'm only going to get updates from the upstream and the result is 'feature/lesson' becoming the **origin**. I need to understand this part better.
+
+**Thoughts** I now understand when (in what context) the (merge) conflict can happen. It's either when I pull or I push. If there's no conflict, it'll automerge. Ah-ha!😊
 
 <!--
 ### Day 1: June 27, Monday
