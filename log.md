@@ -117,6 +117,21 @@
 
 **Thoughts** I now understand when (in what context) the (merge) conflict can happen. It's either when I pull or I push. If there's no conflict, it'll automerge. Ah-ha!😊
 
+---
+### Day 9: August 23, Tuesday
+
+**Today's Progress**
+- Scenario: I and My coworker J both perform **git pull** to get started.
+1. I create a new branch called feature/myTest **git checkout -b feature/myTest** and commit the new code.
+2. I perform **git pull origin main** to check if there is change in the main branch.
+3. I type **git push -u origin feature/myTest** 
+4. My coworker J is still working on his new branch called feature/myTest2.
+5. He now performs **git pull**.
+6. He's prompted with a merge conflict message.
+7. After him and I discuss the conflict issue, he fixes code, add & commit the change, and push **git push -u origin feature/myTest2** 
+
+**Thoughts** I started to feel more comfortable about using git commands. I got the hang of the conflict resolvement process! This feels awesome!!!😊
+
 
 <!--
 ### Day 1: June 27, Monday
