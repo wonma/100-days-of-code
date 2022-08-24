@@ -117,6 +117,22 @@
 
 **Thoughts** I now understand when (in what context) the (merge) conflict can happen. It's either when I pull or I push. If there's no conflict, it'll automerge. Ah-ha!😊
 
+---
+### Day 9: August 23, Tuesday
+
+**Today's Progress**
+- Scenario: I and My coworker J both perform **git pull** to get started.
+1. I commit the new code to a new branch, called feature/myTest **git checkout -b feature/myTest**.
+2. I perform **git pull origin main** to check if there is change in the main branch.
+3. I type **git push -u origin feature/myTest** 
+4. My coworker J works is still working on a branch, called feature/myTest2.
+5. He finally performs **git pull**.
+6. He's prompted with a merge conflict message.
+7. After him and I discuess the code issue, he fixes code, add & commit the change, and push **git push -u origin feature/myTest2** 
+**git push -u origin feature/lesson** is where it'll come in with a **pull request for peer review**. I got it. However, the teacher said using **-u** means that I'm only going to get updates from the upstream and the result is 'feature/lesson' becoming the **origin**. I need to understand this part better.
+
+**Thoughts** I started to feel more comfortable about using git commands. I got the hang of the conflict resolvement process! This feels awesome!!!😊
+
 
 <!--
 ### Day 1: June 27, Monday
