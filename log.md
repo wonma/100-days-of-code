@@ -133,6 +133,25 @@
 **Thoughts** I started to feel more comfortable about using git commands. I got the hang of the conflict resolvement process! This feels awesome!!!😊
 
 
+---
+### Day 10: August 24, Wednesday
+
+**Today's Progress**
+- Learned **HEAD, git diff, git blame**
+  - **git diff HEAD README.md**  ==> Shows the change between the current working tree status and the last commit
+  - **git log --pretty=oneline**  ==> Shows the recent commits with its full ID
+  - **git diff ID1 ID2**  ==> Shows the change between these two commits
+  - **git blame README.md**  ==> Shows all the changes
+  - **git blame -L 5,15 README.md**  ==> Shows the specified scope of lines
+  - **git blame -l README.md**  ==> Commit ID shows in full 
+
+- Common way of using git blame and git commit
+  - 1. Get the ID of the commit with git blame README.md
+  - 2. See the full log of the commit with git log -p 8digits
+
+**Thoughts** 
+I hope I can truly understand why those commits are helpful later by joining an open source project!!
+
 <!--
 ### Day 1: June 27, Monday
 
