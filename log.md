@@ -132,7 +132,6 @@
 
 **Thoughts** I started to feel more comfortable about using git commands. I got the hang of the conflict resolvement process! This feels awesome!!!😊
 
-
 ---
 ### Day 10: August 24, Wednesday
 
@@ -151,6 +150,25 @@
 
 **Thoughts** 
 I hope I can truly understand why those commits are helpful later by joining an open source project!!
+
+---
+### Day 11: August 25, Thursday
+
+**Today's Progress**
+- Learned **Forking**: It is useful when I want to contribute to the other developer's project without directly affecting it. It gives more control to the owner of the original repo.
+- Forking Workflow
+  1. Fork and copy the original repo to my remote repo.
+  2. Clone it to my local repo.
+  3. Create a new branch (my-branch).
+  4. After making some changes, perform git add & commit
+  5. Push the local repo (branch) to my remote repo wit **git push origin my-branch**
+  6. Go to Github and create a new pull requset (PR)
+  7. Click 'compare across forks' link.
+  8. Choose the main branch for the original repo and the my-branch for my repo. 
+
+**Thoughts** 
+I cannot wait to join some open source project someday! 
+
 
 <!--
 ### Day 1: June 27, Monday
