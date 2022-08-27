@@ -169,6 +169,25 @@ I hope I can truly understand why those commits are helpful later by joining an 
 **Thoughts** 
 I cannot wait to join some open source project someday! 
 
+---
+### Day 12: August 27, Friday
+
+**Today's Progress**
+- Completed the Version Control Course by Meta.
+- The concepts I need to learn practical usages of;
+  1. git log, git diff, git blame
+  2. redirection, pipe
+  3. forking and contributing to open sources
+- Started HTML and CSS in Depth by Meta.
+  1. Learend **well-structured web pages** are the key for greate websites to support accessibility and SEO. 
+  2. Semantic tags to add meanings to the content of the web pages.
+  3. Some semantic tags requires the inclusion of the other tags: e.g. **section tag requires a heading in it**. 
+  4. **artical** tag is versatile. As long as it is independently distributable, I can wrap it in article. 
+  5. Ask 'where to'? A heading inside of a section? A heading directly under a main? 
+
+
+**Thoughts** 
+I already learned a lot about the tags. I thought I knew enough but I didn't. There are so much to learn. Stay humble and enjoy this journey! Imagine how cool websites you can create in the future!
 
 <!--
 ### Day 1: June 27, Monday
