@@ -170,7 +170,7 @@ I hope I can truly understand why those commits are helpful later by joining an 
 I cannot wait to join some open source project someday! 
 
 ---
-### Day 12: August 27, Friday
+### Day 12: August 26, Friday
 
 **Today's Progress**
 - Completed the Version Control Course by Meta.
@@ -188,6 +188,22 @@ I cannot wait to join some open source project someday!
 
 **Thoughts** 
 I already learned a lot about the tags. I thought I knew enough but I didn't. There are so much to learn. Stay humble and enjoy this journey! Imagine how cool websites you can create in the future!
+
+---
+### Day 13: August 27, Saturday
+
+**Today's Progress**
+- Learned the importance of **Meta tags** for search engine optimization(SEO).
+- SEO: the process of making improvements to a website's content, semantics, and delivery to improve its ranking in search results.
+- Based on the results of the analysis and the content on your website, the search engine will rank the website for various **search terms**.
+- View port metadata is important for the user experience and it's also important for search engine optimization. This is because **many search engines now include websites mobile experience as a part of their ranking algorithms**.
+- Learend the importance of having a **Template** to be able to start new projects faster.
+
+**Haven't fully understood**
+- meta http-equiv="..." tags: The instructor said "This is rare to see, and it’s recommended to use HTTP headers over HTML http-equiv meta tags."
+
+**Thoughts** 
+I love learning the html in a deeper level. Can't wait to apply all these knowledge in the near future.
 
 <!--
 ### Day 1: June 27, Monday
