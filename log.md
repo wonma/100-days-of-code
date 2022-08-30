@@ -205,6 +205,31 @@ I already learned a lot about the tags. I thought I knew enough but I didn't. Th
 **Thoughts** 
 I love learning the html in a deeper level. Can't wait to apply all these knowledge in the near future.
 
+---
+### Day 14: August 28, Sunday
+
+**Today's Progress**
+- Learned why **social media cards** are important and how **Open Graph Protocol(OGP)** works.
+- Quote of the day!! **User attention is currency.** A caption and image can drive users towards or away from a website. 
+  - For a regular user scrolling through social media, the link provided with the image preview has only one chance and a moment’s attention to make a good impression. In such cases, the role of social media cards becomes very important.
+- Another great tip! **the social media cards also play an important role in boosting the rankings for the web crawlers used by search engines.**
+
+**Thoughts** 
+So happy to finally understand why the other business social media were adding website links to their account's timeline!!!
+
+
+---
+### Day 15: August 29, Monday
+
+**Today's Progress**
+- Learned **Input and Form**
+- label tag is associated with the input field for accessibility and better user experience. (the 'for' attribute in label tag and the 'id' in input tag)
+- When submitting a form, you can use a button tag with type of submit attribute.
+
+**Thoughts** 
+It was refreshing to learn the basics of input and form. I now feel more comfortable and confident about creating a form. 
+
+
 <!--
 ### Day 1: June 27, Monday
 
