@@ -230,6 +230,26 @@ So happy to finally understand why the other business social media were adding w
 It was refreshing to learn the basics of input and form. I now feel more comfortable and confident about creating a form. 
 
 
+---
+### Day 16: August 30, Tuesday
+
+**Today's Progress**
+- Reorganize my understanding of **label** tag. There are two cases when we want to use it.
+1. When I want to simply wrap an input field when bare text is sitting ont the right side of the field (e.g. radio options).
+2. When I want to add the descriptive text right before the input tag for a better user experience. This requires 'for'(in label) and 'id'(in input) association.
+- Learned **datalist** tag. It works together with input tag since datalist contains just the text data.
+  - Datalist is useful when we want to allow users to select the option or type the option.
+  - It is also useful when there's a chance to add options later on.
+  - Interestingly, the input tag doesn't have 'type' attribute for the datalist implementation.
+- Finally understood why sometimes we want to use 'fieldset' tag. It is only when there needs a clear way to group options as in radio inputs.
+ - radio inputs' **name** attributes should associate with the **id** value of the fieldset.
+
+> We expect users to abide by rules. But, Humans are prone to errors. It's our job to ensure the shape of the data we expect in each field is correct. 
+> So, I noticed that the **'name' attribute is almost always used** and I'll keep an eye on it. This is to send data in key/value pair later on. 
+
+**Thoughts** 
+Absolutely loved what I learned today. I finally feel comfortable about using form tags. This is the gift of being consistent in learning Front-end basics!
+
 <!--
 ### Day 1: June 27, Monday
 
