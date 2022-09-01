@@ -245,10 +245,25 @@ It was refreshing to learn the basics of input and form. I now feel more comfort
  - radio inputs' **name** attributes should associate with the **id** value of the fieldset.
 
 > We expect users to abide by rules. But, Humans are prone to errors. It's our job to ensure the shape of the data we expect in each field is correct. 
-> So, I noticed that the **'name' attribute is almost always used** and I'll keep an eye on it. This is to send data in key/value pair later on. 
+I also noticed that the **'name' attribute is almost always used** and I'll keep an eye on it. This is to send data in key/value pair later on. 
 
 **Thoughts** 
 Absolutely loved what I learned today. I finally feel comfortable about using form tags. This is the gift of being consistent in learning Front-end basics!
+
+
+---
+### Day 17: August 31, Wednesday
+
+**Today's Progress**
+Learned how to submit form data to a server. 
+1. form tag can have ==> action='/login', method='POST'  
+2. Full URL vs. absolute path vs. relative path
+- If action attribute is not specified, the current page url will be used.
+- If I'm on the 'https://wonmikwon.com/profile and I submit the form that has '/login', it will send a request to 'https://wonmikwon.com/login'
+ That is, the absolute path is appended to the base URL of the website. 
+
+**Thoughts** 
+Not directly related to the subject (HTTP), but it was great to review how absolute/relative paths work. 
 
 <!--
 ### Day 1: June 27, Monday
