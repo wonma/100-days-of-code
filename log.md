@@ -265,6 +265,20 @@ Learned how to submit form data to a server.
 **Thoughts** 
 Not directly related to the subject (HTTP), but it was great to review how absolute/relative paths work. 
 
+
+---
+### Day 18: September 1, Thursday
+
+**Today's Progress** Reviewed some confusing input attributes and form tags
+- min, max: works for numerical inputs such as number, range, and date
+- minlength, maxlength: works for a length of a text iput
+- Elements that I need to work on more: select, datalist
+- fieldset is used with a set of radio input options. It also groups multiple inputs (first name and last name.)
+- 'input type=submit' vs. 'button type=submit' => the type must be specified for a submission behavior.
+
+**Thoughts** 
+I should not forget a 'name' attribute!
+
 <!--
 ### Day 1: June 27, Monday
 
