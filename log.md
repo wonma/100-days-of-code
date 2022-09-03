@@ -279,6 +279,33 @@ Not directly related to the subject (HTTP), but it was great to review how absol
 **Thoughts** 
 I should not forget a 'name' attribute!
 
+
+---
+### Day 19: September 2, Friday
+
+**Today's Progress** Reviewed 'audio' and 'video' tags
+- It was insightful to learn that iframe element should be used only when you can trust the website 100% since it is very vulnerable to malitious security attacks. (There is a way to prevent it to some extent but there's still a chance to get attacked.)
+- Input type='range' example. I got the hang of the associatation of input's list attribute and datalist's id attribute. 
+  <pre><code>//👍 Easy to access, remove, add on
+ <form>
+    <div>
+      <label for="rating">Rating</label>
+      <input type="range" min="1" max="5" id="rating" name="rating" list="ratings">
+      <datalist id="ratings">
+          <option value="1" label="1"></option>
+          <option value="2"></option>
+          <option value="3"></option>
+          <option value="4"></option>
+          <option value="5" label="5"></option>
+      </datalist>
+    </div>
+    <button type="submit">Submit Rating</button>
+  </form>
+  </code></pre>
+
+**Thoughts** 
+I love being able to experience each element one by one in depth. Love this course!
+
 <!--
 ### Day 1: June 27, Monday
 
