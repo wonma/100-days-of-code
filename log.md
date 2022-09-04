@@ -290,6 +290,18 @@ I should not forget a 'name' attribute!
 **Thoughts** 
 I love being able to experience each element one by one in depth. Love this course!
 
+---
+### Day 20: September 3, Saturday
+
+**Today's Progress** 
+- iframe: Learned how to minimize security vulnerability concerns of using iFrame.
+  - Use 'allow' attribute to limite the broswer features such as camera, microphone, API, geolocation, etc. 
+  - User 'sandbox' attribute to set restrictions to the actions such as downloading a file, popup, modal, running JavaScript, etc. 
+- Canvas: useful when embedding animated graphics (controlled with JavaScript logic!)
+
+**Thoughts** 
+I wonder how much detail of Canvas I need to know and be able to create the graphics.
+
 <!--
 ### Day 1: June 27, Monday
 
