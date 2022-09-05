@@ -302,6 +302,23 @@ I love being able to experience each element one by one in depth. Love this cour
 **Thoughts** 
 I wonder how much detail of Canvas I need to know and be able to create the graphics.
 
+---
+### Day 21: September 4, Sunday
+
+**Today's Progress** 
+Learned the basics of flexbox
+- Flexbox is single-dimensional. Repeat!! Flexbox is single-dimensional.
+- Common use case A: Creating responsive columns in a single row that doesnt change into multiple lines. (Navigation, Searh bar, Main Content of Coursera desktop view)
+- Common use case B: Binding a group of items that will change from one row to multiple rows according to the window size.
+
+Refreshing concepts:
+- flex-flow: set the direction and wrap/nowrap at the same time.
+- flex-direction: if set to 'column' it means the main axis changes. Just like it rotates -90 degrees
+  If this happens, the justify-content and align items properties get to switch their roles.
+
+**Thoughts** 
+I'm very happy that I finally feel like I get the practical usage of flexbox. However, I still need to really get it by coding by myself. Do not skip to the next part until I actually get to practice coding each example in the lesson!!
+
 <!--
 ### Day 1: June 27, Monday
 

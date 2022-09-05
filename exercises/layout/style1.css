@@ -1,0 +1,35 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/**
+.container {
+    background-color: rgba(100, 255, 255, 0.2);
+    width:600px;
+    height: 400px; 자식들은 부모의 세로값만큼 default로 세로를 다 차지함.
+    display: flex; 얘들아 가로로 다 손잡고 모여라! 라고 하는 것과 같아.
+    flex-wrap: wrap; default값인 nowrap은 무시하고 가로로 쭉 서있겠다! 하는거야. 
+    flex-direction: column; 이렇게 하면 -90도로 main axis 기울이겠다는거야.
+}
+**/ 
+
+.container {
+    background-color: rgba(100, 255, 255, 0.2);
+    width:600px;
+    height: 400px; 
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+
+.box {
+    border: 1px solid green;
+}
+
+.box3 {
+    align-self: center;
+}
