@@ -319,6 +319,19 @@ Refreshing concepts:
 **Thoughts** 
 I'm very happy that I finally feel like I get the practical usage of flexbox. However, I still need to really get it by coding by myself. Do not skip to the next part until I actually get to practice coding each example in the lesson!!
 
+---
+### Day 22: September 5, Monday
+
+**Today's Progress** 
+- align-items vs. align-content: align-items is for what's happening in each row, whereas align-content is what's happening to the group of rows in the flex container.
+- flex: a shorthand property applied to flex items.
+  - flex-grow: 0 (Usually set not to take up the available space)
+  - flex-shrink: 1 (Usually set to shrink if necessary, like when the window gets narrower)
+  - flex-basis: auto (Usually set to percentage. It defines the starting size of the item. If the flex-grow set to 1, it means, the size of the element will grow as the window size grows and keeping the percentage ratio.)
+ 
+**Thoughts** 
+I finally, I feel more confident about flex. I'm looking forward to creating a chart using flexbox.
+
 <!--
 ### Day 1: June 27, Monday
 
