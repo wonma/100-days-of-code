@@ -332,6 +332,18 @@ I'm very happy that I finally feel like I get the practical usage of flexbox. Ho
 **Thoughts** 
 I finally, I feel more confident about flex. I'm looking forward to creating a chart using flexbox.
 
+
+---
+### Day 23: September 6, Tuesday
+
+**Today's Progress** 
+- CSS grid: It is common to have 12 or 16 track columns when using CSS grid.
+- Using **grid-column** property to a grid child, we can specify the starting column and spanning columns.
+- Using **grid-auto-rows** or **grid-auto-columns**, with **fraction unit (fr)**, we can make the grid easier to modify.
+ 
+**Thoughts** 
+Still feeling like I'm very new to Grid. I need more practical exercises. 
+
 <!--
 ### Day 1: June 27, Monday
 
