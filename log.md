@@ -344,6 +344,19 @@ I finally, I feel more confident about flex. I'm looking forward to creating a c
 **Thoughts** 
 Still feeling like I'm very new to Grid. I need more practical exercises. 
 
+
+---
+### Day 24: September 7, Wednesday
+
+**Today's Progress** 
+- **grid-template-areas** in the container and **grid-area** when I want to assign each element to a specific cell. 
+  - Let's say I create 4 names for 4 different areas. And I want to assign the html element to be allocated to the "area".
+  - Suppose there are 2 x 3 table of 6 cells. I might want to distribute cells to have a total of 4 areas. This means a set of two cells will share one area and another set of two cells will share another area.
+ 
+**Thoughts** 
+I started to believe that taking a slow step one at a time helps me to examine the subject matter at hand deeper and digest each concept better. This slow and micro improvement approach, I feel, helps me grow confidence and develop small muscles to do a bigger task later. Persistence is the key and to do so, I need to break things down and do really small things each day. 
+
+
 <!--
 ### Day 1: June 27, Monday
 
