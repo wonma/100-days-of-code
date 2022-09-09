@@ -357,6 +357,18 @@ Still feeling like I'm very new to Grid. I need more practical exercises.
 I started to believe that taking a slow step one at a time helps me to examine the subject matter at hand deeper and digest each concept better. This slow and micro improvement approach, I feel, helps me grow confidence and develop small muscles to do a bigger task later. Persistence is the key and to do so, I need to break things down and do really small things each day. 
 
 
+---
+### Day 25: September 8, Thursday
+
+**Today's Progress** 
+- I created 12 column tracks, using **grid-template-columns**
+- I can make the cells span using **grid-column** property.
+- I now understand **1fr**. **fr**is a flexible unit that specifies the proportion of the available space. 
+  - e.g.) 'grid-template-rows: auto 1fr auto' means the first and third rows will take up the minimum content space while the second row will take up the rest of the available space.
+ 
+**Thoughts** 
+I started to see the value of minimizing each task's workload. For example, if my goal itself is really a small piece rather than a decent chunk, I tend to complete it without feeling pressured. This style of work can be also applied to other work situations beyond this learning context.
+
 <!--
 ### Day 1: June 27, Monday
 
