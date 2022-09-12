@@ -369,6 +369,14 @@ I started to believe that taking a slow step one at a time helps me to examine t
 **Thoughts** 
 I started to see the value of minimizing each task's workload. For example, if my goal itself is really a small piece rather than a decent chunk, I tend to complete it without feeling pressured. This style of work can be also applied to other work situations beyond this learning context.
 
+---
+### Day 26: September 11, Sunday
+
+**Today's Progress** Played with **grid-template-areas** and **grid-area**.
+ 
+**Thoughts** 
+I started to see the value of the grid system! I love grid-template-areas and can't wait to use it for a real-world project. 
+
 <!--
 ### Day 1: June 27, Monday
 

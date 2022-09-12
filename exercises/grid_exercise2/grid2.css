@@ -1,0 +1,125 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: grid;
+    border: 1px solid red;
+    height: 600px;
+    max-width: 1400px;
+    grid-template-areas: "head head"
+                        "nav main"
+                        "footer footer";
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: 30px 1fr 30px;
+}
+
+.header {
+    grid-area: head;
+    background-color: lightsalmon;
+}
+
+.navigation {
+    grid-area: nav;
+    background-color: lightgray;
+}
+
+.main {
+    grid-area: main;
+    background-color: lightseagreen;
+}
+
+.footer {
+    grid-area: footer;
+    background-color: lightcoral;
+}
+
+.container2 {
+    display: grid;
+    border: 1px solid red;
+    height: 600px;
+    max-width: 1400px;
+    grid-template-areas: "head1 head2 . side1"
+                        "main1 main2 . side1"
+                        "footer1 footer1 footer1 footer1";
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 30px 1fr 30px;
+}
+
+.head1 {
+    grid-area: head1;
+    background-color: lightblue;
+}
+.head2 {
+    grid-area: head2;
+    background-color: lightcyan;
+}
+.side1 {
+    grid-area: side1;
+    background-color: lightgrey;
+}
+.main1 {
+    grid-area: main1;
+    background-color: lightseagreen;
+}
+.main2 {
+    grid-area: main2;
+    background-color: lightskyblue;
+}
+.footer1 {
+    grid-area: footer1;
+    background-color: lightgoldenrodyellow;
+}
+
+.container3 {
+    display: grid;
+    grid-template-areas: "cell1 cell3 cell3"
+                        "cell2 cell3 cell3"
+                        "cell4 cell5 cell6"
+                        "cell7 cell8 cell9";
+    grid-auto-flow: column;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    max-width: 600px;
+    height: 600px;
+    border: 1px solid red;
+}
+
+.cell1 {
+    grid-area: cell1;
+    background-color: lightblue;
+}
+.cell2 {
+    grid-area: cell2;
+    background-color: lightcoral;
+}
+.cell3 {
+    grid-area: cell3;
+    background-color: lightgoldenrodyellow;
+}
+.cell4 {
+    grid-area: cell4;
+    background-color: lightgray;
+}
+.cell5 {
+    grid-area: cell5;
+    background-color: lightgreen;
+}
+.cell6 {
+    grid-area: cell6;
+    background-color: lightpink;
+}
+.cell7 {
+    grid-area: cell7;
+    background-color: lightseagreen;
+}
+.cell8 {
+    grid-area: cell8;
+    background-color: lightsteelblue;
+}
+.cell9 {
+    grid-area: cell9;
+    background-color: lightyellow;
+}
