@@ -77,8 +77,7 @@
     display: grid;
     grid-template-areas: "cell1 cell3 cell3"
                         "cell2 cell3 cell3"
-                        "cell4 cell5 cell6"
-                        "cell7 cell8 cell9";
+                        "cell4 ce cell8 cell9";
     grid-auto-flow: column;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;

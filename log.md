@@ -377,6 +377,21 @@ I started to see the value of minimizing each task's workload. For example, if m
 **Thoughts** 
 I started to see the value of the grid system! I love grid-template-areas and can't wait to use it for a real-world project. 
 
+---
+### Day 27: September 12, Monday
+
+**Today's Progress** Learned more about selectors including **psuedo-elements** and **psuedo-classes**.
+- General sibling selectors h1 ~ p
+- Adjacent sibling selectors h1 + p
+  - **General sibling vs. Adjacent sibling**: They both affect elements that follow a specified element. Adjacent combinators will only target the first element and Sibling combinators target all elements of the same type after the specified element.
+  - From what I see, these sibling selectors seem to be useful for adding styles to the list items because the items are grouped under the same container and has a predictable structure with some rules.
+- Psuedo-classes are related to the states of the interaction (user action or form) or specific position-based states
+- Psuedo-elements help style a specific part of an element. They use double colons! 
+  - ::first-letter, ::first-line, ::selection, ::marker, ::before, ::after
+
+**Thoughts** 
+I was fascinated with the usage of the advanced selectors! I will try to implement them in the real-world projects.
+
 <!--
 ### Day 1: June 27, Monday
 
