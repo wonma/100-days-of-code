@@ -392,6 +392,19 @@ I started to see the value of the grid system! I love grid-template-areas and ca
 **Thoughts** 
 I was fascinated with the usage of the advanced selectors! I will try to implement them in the real-world projects.
 
+---
+### Day 28: September 13, Tuesday
+
+**Today's Progress** Learned **transform** and **transition** properties.
+- Transform property modifies the spatial position of an element. (scale, angle). But the change is instantaneous!
+- To create illusion of motion, we need to controle the speed of this effect.
+- That's where the **transition** property kicks in!
+- The change happens gradually over a span of the specified seconds.
+- They are also used with **pseudo classes such as hover or active** to get the change triggered with user's interaction. 
+
+**Thoughts** 
+Now, I clearly understand why and how the transform, transition, and the browser event (user interaction) all work together and which part they are contributing to!!! So happy!!
+
 <!--
 ### Day 1: June 27, Monday
 
