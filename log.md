@@ -405,6 +405,17 @@ I was fascinated with the usage of the advanced selectors! I will try to impleme
 **Thoughts** 
 Now, I clearly understand why and how the transform, transition, and the browser event (user interaction) all work together and which part they are contributing to!!! So happy!!
 
+---
+### Day 29: September 16, Friday
+
+**Today's Progress** 
+- Clearly understood the difference between transform + transition vs. animation + @keyframes.
+  - transform + transition is used for simple animation that improves interactivity (hover effect, click effect, etc.)
+  - animation + keyframes is used literally for animation that is relatively more complex and sophisticated. 
+
+**Thoughts** 
+I wonder what the popular reveal effect uses for its result. I also want to search how I can use the animation with scroll down effect. 
+
 <!--
 ### Day 1: June 27, Monday
 
