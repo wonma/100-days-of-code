@@ -416,6 +416,20 @@ Now, I clearly understand why and how the transform, transition, and the browser
 **Thoughts** 
 I wonder what the popular reveal effect uses for its result. I also want to search how I can use the animation with scroll down effect. 
 
+---
+### Day 1: September 27, Tuesday
+
+**Today's Progress**
+  - Learned about CSS debugging and the importance of following best practices for future inspection and teamwork.
+  - Avoid over-specificity.
+  - Use specificity as broadly as possible (container over content)
+  - Use stylelint to stay consistent with how to write rules
+  - Use CSS reset libraries for browser-consistent CSS
+  - Stay concious of redundancy of rules, selectors, and properties to prevent confusion.  
+
+**Thoughts** 
+ Been away from learning coding due to spending time in other freelancer projects. I'm going through reflective time this week and decided to resume the 100-Day Code sprint again from the Day1! It's okay to fail but I would do my best to complete this 2nd trial!
+
 <!--
 ### Day 1: June 27, Monday
 

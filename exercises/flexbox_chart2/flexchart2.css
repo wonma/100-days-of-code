@@ -11,7 +11,7 @@
 
 .bar-container {
     flex-basis: 5em;
-    border: 1px solid green;
+    border: 1px solid #efefef;
     height: 200px;
     display: flex;
     flex-direction: column;
