@@ -430,6 +430,15 @@ I wonder what the popular reveal effect uses for its result. I also want to sear
 **Thoughts** 
  Been away from learning coding due to spending time in other freelancer projects. I'm going through reflective time this week and decided to resume the 100-Day Code sprint again from the Day1! It's okay to fail but I would do my best to complete this 2nd trial!
 
+
+### Day 2: September 28, Wednesday
+
+**Today's Progress**
+  - Learned about the importance of UI testing. 
+
+**Thoughts** I feel like my time is not being used most efficiently. I will reorganize how I spend my time this Saturday and Sunday. No exceptions!
+
+
 <!--
 ### Day 1: June 27, Monday
 
