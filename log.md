@@ -439,6 +439,22 @@ I wonder what the popular reveal effect uses for its result. I also want to sear
 **Thoughts** I feel like my time is not being used most efficiently. I will reorganize how I spend my time this Saturday and Sunday. No exceptions!
 
 
+### Day 3: September 29, Thursday
+
+**Today's Progress** Learned how to start building layouts for a home page.
+- Three things to remember.
+  1. Plan the visual layout first.
+  2. Then, plan the semantic HTML structure.
+  3. After that, plan how to code CSS with flexbox or grid.
+  4. Finally, choose em or rem and consistently use it.
+
+- To improve the user experience,
+  1. Focus on **Intentional Engagement**. Keep the user interacting with your website and drive revenue through purchases or interaction with advertisements. 
+  2. It is a good exercise to list what customers will be looking for when they visit the website and try to make it as easy as possible for your users to get that information. 
+
+**Thoughts** I love the approach to start building the website. Many times, it is challenging to get the foundation ready in a proper way. Always keep in mind. Spending enough time in planning and building the foundation is the key to success.
+
+
 <!--
 ### Day 1: June 27, Monday
 
