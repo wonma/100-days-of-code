@@ -455,6 +455,20 @@ I wonder what the popular reveal effect uses for its result. I also want to sear
 **Thoughts** I love the approach to start building the website. Many times, it is challenging to get the foundation ready in a proper way. Always keep in mind. Spending enough time in planning and building the foundation is the key to success.
 
 
+### Skipped Friday. 
+Reflection: My little excuse is that I had to put all my effort to make the prospect meeting successful (which I made it) and had to join the important gathering + joining another important online meeting. I couldn't put all these things behind. I think I should have started the day by completing 100-Day missions first. And my brain is asking 'why?'. I'm saying this. **"Disciplining myself is the only way I can get closer to my goal."**
+
+### Day 4: October 1, Saturday
+
+
+**Today's Progress** Finished coding the barebone HTML document.
+- In the process, I got to review...
+  1. the usage of meta tags
+  2. SEO mindset. Thinking of the difference between semantic tags vs. container tags is a must. 
+
+**Thoughts** I feel my foundation of HTML/CSS is getting stronger.
+
+
 <!--
 ### Day 1: June 27, Monday
 
