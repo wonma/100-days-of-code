@@ -458,8 +458,8 @@ I wonder what the popular reveal effect uses for its result. I also want to sear
 ### Skipped Friday. 
 Reflection: My little excuse is that I had to put all my effort to make the prospect meeting successful (which I made it) and had to join the important gathering + joining another important online meeting. I couldn't put all these things behind. I think I should have started the day by completing 100-Day missions first. And my brain is asking 'why?'. I'm saying this. **"Disciplining myself is the only way I can get closer to my goal."**
 
-### Day 4: October 1, Saturday
 
+### Day 4: October 1, Saturday
 
 **Today's Progress** Finished coding the barebone HTML document.
 - In the process, I got to review...
@@ -467,6 +467,17 @@ Reflection: My little excuse is that I had to put all my effort to make the pros
   2. SEO mindset. Thinking of the difference between semantic tags vs. container tags is a must. 
 
 **Thoughts** I feel my foundation of HTML/CSS is getting stronger.
+
+
+### Day 5: October 2, Sunday
+
+**Today's Progress** Congratulations! I've completed 'HTML and CSS in Depth' by Meta course on Coursera.
+- Finished the little lemon 'home' page project.
+  1. I'm now more confident using flexbox.
+  2. I started to pay more attention to semantic markup of HTML to improve accessibility.
+
+**Thoughts** 
+I still need to review the learning content a lot but I'm more confident that learning front-end development is valuable not only for engineers but also for UX/UI designers.
 
 
 <!--
