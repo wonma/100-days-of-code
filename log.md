@@ -480,6 +480,17 @@ Reflection: My little excuse is that I had to put all my effort to make the pros
 I still need to review the learning content a lot but I'm more confident that learning front-end development is valuable not only for engineers but also for UX/UI designers.
 
 
+### Day 6: October 3, Monday
+
+**Today's Progress** Started 'React Basics' by Meta course on Coursera.
+- Learned the overview of the key concepts of React.
+  1. Components are standalone UI that eventually merge into the whole website.
+  2. States are the values of the variables at any given time
+
+**Thoughts** 
+I'm excited that I start learning React from Meta engineers!
+
+
 <!--
 ### Day 1: June 27, Monday
 
