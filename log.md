@@ -491,6 +491,14 @@ I still need to review the learning content a lot but I'm more confident that le
 I'm excited that I start learning React from Meta engineers!
 
 
+### Day 7: October 5, Tuesday
+
+**Today's Progress** (Sideway refresh!) Reviewed how to build a basic server using the http module.
+
+**Thoughts** 
+Until the course opens, I will review the content I learned from Udemy, ZTM course. 
+
+
 <!--
 ### Day 1: June 27, Monday
 
