@@ -499,6 +499,16 @@ I'm excited that I start learning React from Meta engineers!
 Until the course opens, I will review the content I learned from Udemy, ZTM course. 
 
 
+---
+### Day 1: October 12, Wednesday
+
+**Today's Progress**
+  - Started the React Basics course by Meta (Coursera).
+  - Learned what modules mean and its relation to React components. 
+
+**Thoughts** I'm starting Day 1 again. I think this is the progress. Rather than feeling guilty, I gave myself permission to restart.
+
+
 <!--
 ### Day 1: June 27, Monday
 
