@@ -508,6 +508,17 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Thoughts** I'm starting Day 1 again. I think this is the progress. Rather than feeling guilty, I gave myself permission to restart.
 
+---
+### Day 2: October 13, Thursday
+
+**Today's Progress**
+  - Learned about basic concepts of functional compoments and how to create and render one.
+  - We use JSX syntax. It is extension of Javascript. However, it looks like HTML. It is a way of calling the functional component! (you return the JSX code)
+  - All UI is composed of components!
+  - The component-based UI is a design concept that had existed before React. However, React made it easy to render these compoments using what's called virtual DOM. It updates the minimum part of the page. 
+  - A Component is a stand-alone piece of code that contains HTML, CSS, and Javascript. It's independent, resuable and composable.  
+  
+**Thoughts** I should admit that I feel at peace I lose the track of time when I learn front-end development..! I was so happy to learn the basic concept of React and get to see new things that I haven't recognized before.
 
 <!--
 ### Day 1: June 27, Monday
