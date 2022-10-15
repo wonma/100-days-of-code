@@ -520,6 +520,17 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
   
 **Thoughts** I should admit that I feel at peace I lose the track of time when I learn front-end development..! I was so happy to learn the basic concept of React and get to see new things that I haven't recognized before.
 
+
+---
+### Day 3: October 14, Friday
+
+**Today's Progress**
+  - Created my first functional component 'Heading'!
+  - Transfiling: Browsers cannot understand JSX syntax. It must be transfiled to plain Javascript for the browsers to understand.
+  - Don't forget to import and export the component!
+  
+**Thoughts** I'm just happy that I didn't give up learning this React! Let's just keep playing!
+
 <!--
 ### Day 1: June 27, Monday
 
