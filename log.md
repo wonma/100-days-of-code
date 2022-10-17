@@ -531,6 +531,18 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
   
 **Thoughts** I'm just happy that I didn't give up learning this React! Let's just keep playing!
 
+
+---
+### Day 4: October 16, Sunday
+
+**Today's Progress**
+  - Learned the difference between modules and components: they are very similar but a component is a small piece of code that has a certain functionality whereas a module is something that is seen in the context of a series of other modules. I think the same piece of code can be called a component or a module depending on the context or perspective of the statement of scripting operation.
+  - Learned that internal links are not achieved with anchor tags in React. I need to learn the concept o f router.
+  - Creating a reusable code for the repetitve HTML structure? (e.g. list items) We'll talk about 'data' later for this topic.
+  - When do we need to use props? We'll learn about this on later lessons too!
+**Thoughts** I really feel like I'm learning the foundation of React one by one. 
+
+
 <!--
 ### Day 1: June 27, Monday
 
