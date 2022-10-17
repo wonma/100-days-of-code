@@ -543,6 +543,17 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 **Thoughts** I really feel like I'm learning the foundation of React one by one. 
 
 
+---
+### Day 5: October 17, Monday
+
+**Today's Progress**
+  - In React, props is a data object that can be passed from a parent component to a child component.
+  - In the parent compoment, we can pass the data using attributes in JSX syntax.
+  - In the child component, We can access the value of the data using dot notation in JSX syntax.
+  - In a nut shell, props make the compoments resuable and render dynamic data.
+  - Limitations: we cannot modify the props in the functions. Also the props can only flow in one direction: parent to child.
+**Thoughts** I love the usage of props!
+
 <!--
 ### Day 1: June 27, Monday
 
