@@ -554,6 +554,19 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
   - Limitations: we cannot modify the props in the functions. Also the props can only flow in one direction: parent to child.
 **Thoughts** I love the usage of props!
 
+
+---
+### Day 6: October 18, Tuesday
+
+**Today's Progress**
+  - Started to see the React mechanism in two aspects: function declaration on one side and the components references on the other side.
+  - Learned that when I see a JSX element wrapping some other JSX element, it's all just **props.children** in the background. 
+  - Learned how to style components: camelCase and wrapping the values as strings are important!
+  - Learned how to take CSS style rules from an external CSS file and add it inside a component as an internal style. (The style rules can then be referenced by the code inside the return statement of the component.)
+
+**Thoughts** I love that I'm learning React one by one like this. Can't wait to use all these concepts to create a real app in the future!
+
+
 <!--
 ### Day 1: June 27, Monday
 
