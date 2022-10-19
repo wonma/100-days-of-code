@@ -566,6 +566,17 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Thoughts** I love that I'm learning React one by one like this. Can't wait to use all these concepts to create a real app in the future!
 
+---
+### Day 7: October 19, Wednesday
+
+**Today's Progress**
+  - Learned how to embed an image to the HTML attribute src using a JSX expression.
+  - Functions all return something even if it's 'undefined'.
+  - Function declaration vs. Function expression (anonymous function) vs. arrow function
+  - I can assign the JSX element (component) to a variable.
+
+**Thoughts** I love learning basics one by one in this pace. It's also amazing how many good things you can pick up when you review the same content you checked out yesterday.
+
 
 <!--
 ### Day 1: June 27, Monday
