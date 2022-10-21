@@ -578,6 +578,15 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 **Thoughts** I love learning basics one by one in this pace. It's also amazing how many good things you can pick up when you review the same content you checked out yesterday.
 
 
+---
+### Day 8: October 20, Thursday
+
+**Today's Progress**
+  - Understanding the concept of reuse by passing different data to multiple indentical components. 
+
+**Thoughts** I'm super duper excited to learn the state management in the upcoming lessons!!!
+
+
 <!--
 ### Day 1: June 27, Monday
 
