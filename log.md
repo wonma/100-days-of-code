@@ -592,10 +592,20 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Today's Progress**
   - An event handler(onClick, onMouseOver, ...e) is placed inside of a JSX expression as an attribute and the value is set inside of the curly braces with the name of the function. (without parenthesis)
-  - The function can be defined as a separate (function) expression and assigned to a const. (very common way!)
+  - The function can be defined as a separate anonymous expression and assigned to a const. (very common way!)
   - When we say 'function is declared', it means the function is defined by using the keyword 'function'. 
 
 **Thoughts** I imagined that someday I can build a React Native App that handles mobile touch events! Who knows!
+
+
+---
+### Day 10: October 22, Saturday
+
+**Today's Progress**
+  - Practiced event handling in React with Mini Nnumber Guessing Game
+  - Learned how to achieve a toggle logic with ternary operator and NOT operator(!).
+
+**Thoughts** Learning how to make things happen functionally is so fascinating. I'm curious about what potential is openin up for me in the future. I feel more motivated to build practice apps! Let's stay focused, appreciate & enjoy the journey.
 
 
 <!--
