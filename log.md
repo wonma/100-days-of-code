@@ -608,6 +608,23 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 **Thoughts** Learning how to make things happen functionally is so fascinating. I'm curious about what potential is openin up for me in the future. I feel more motivated to build practice apps! Let's stay focused, appreciate & enjoy the journey.
 
 
+---
+### Day 11: October 23, Sunday
+
+**Today's Progress**
+  - Learned how to organize/keep the data as a single source of truth in a parent component, and pass it down to a child component or a grandchild component. (Unidirectional data flow)
+  - There are two data types: Props and States.
+    - Props: immutable, stays outside of component (in parent components)
+    - States: mutable, stays inside of the component itself
+  - The prop data are belongs to the parent that renders the components. The state data belongs to the component itself.
+  - There are concepts of 'stateless' component and 'stateful' component.
+  - Hooks are functions that let you hook into React state or component life cycle features.
+  - Learned one of the popular built-in hook function: useState() 
+    - This hook is used to manage the state within a component and keep track of it (it's built directly into React. That is, it's a special function or API that React provides at default. You need to import it from 'react')
+
+**Thoughts** I feel thirsty to start building a functional React app! But, I will remain calm to get more confident with the general concepts and mechanism of how React works. 
+
+
 <!--
 ### Day 1: June 27, Monday
 
