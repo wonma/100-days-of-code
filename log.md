@@ -624,6 +624,19 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Thoughts** I feel thirsty to start building a functional React app! But, I will remain calm to get more confident with the general concepts and mechanism of how React works. 
 
+---
+### Day 12: October 24, Monday
+
+**Today's Progress**
+  - State vs. Props
+  - Both hold data.
+  - The props object represent data that is external to a component, and state represents data that is internal to a component.
+  - props make the data flow to the children.
+  - state makes it possible to update the data. 
+  - setState function must be insie of the other function (usually event handling function)
+  - useRef: makes it possible to access the child element directly, by presetting the element detector with the help of 'ref' attribute'.
+
+**Thoughts** I'm even more excited to continue learning JavaScript and React. It's not going to be easy to make some useful app but I'll keep at it. 
 
 <!--
 ### Day 1: June 27, Monday
