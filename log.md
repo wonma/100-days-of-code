@@ -638,6 +638,16 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Thoughts** I'm even more excited to continue learning JavaScript and React. It's not going to be easy to make some useful app but I'll keep at it. 
 
+---
+### Day 13: October 25, Tuesday
+
+**Today's Progress**
+  - Learned the concept of Prop Drilling and its problem.
+  - Learned how to manage state efficiently using Context API
+  - I can create Context component (provider) and import/use the state data needed on the consumer components.
+
+**Thoughts** Things are getting a little bit more complicated but I believe all these will become comfortable as long as I keep practicing them. 
+
 <!--
 ### Day 1: June 27, Monday
 
