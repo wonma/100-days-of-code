@@ -645,6 +645,7 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
   - Learned the concept of Prop Drilling and its problem.
   - Learned how to manage state efficiently using Context API
   - I can create Context component (provider) and import/use the state data needed on the consumer components.
+  - Learned react-router-dom for serving multiple templates(views) within a single component.
 
 **Thoughts** Things are getting a little bit more complicated but I believe all these will become comfortable as long as I keep practicing them. 
 
