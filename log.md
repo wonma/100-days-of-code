@@ -649,6 +649,15 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Thoughts** Things are getting a little bit more complicated but I believe all these will become comfortable as long as I keep practicing them. 
 
+
+---
+### Day 14: October 26, Wednesday
+
+**Today's Progress**
+  - Learned the concept of 'Conditional Rendering'
+
+**Thoughts** It's great to know that with this simple A or B logic using ternary operator, I can create fun mini apps like changing sun or moon image depending on the time of the day! So fun.....!
+
 <!--
 ### Day 1: June 27, Monday
 
