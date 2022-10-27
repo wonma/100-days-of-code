@@ -658,6 +658,20 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Thoughts** It's great to know that with this simple A or B logic using ternary operator, I can create fun mini apps like changing sun or moon image depending on the time of the day! So fun.....!
 
+
+
+---
+### Day 15: October 27, Thursday
+
+**Today's Progress**
+  - Show A or Not: AND operator
+  - Show A or B:  Ternary operator
+  - Show A, B, or C..: if else statement or switch statement
+  - For assets like images and audios, store them in 'Asset's folder inside of 'src' folder.
+
+**Thoughts** When the instructor took an example of a imaginary app for adopting a pet, I felt some excitement and hope are triggered from my heart. I love all the potential that development brings to me. I'm thankful and will try to stay brave to step into this field.
+
+
 <!--
 ### Day 1: June 27, Monday
 
