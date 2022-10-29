@@ -672,6 +672,17 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 **Thoughts** When the instructor took an example of a imaginary app for adopting a pet, I felt some excitement and hope are triggered from my heart. I love all the potential that development brings to me. I'm thankful and will try to stay brave to step into this field.
 
 
+
+---
+### Day 15: October 28, Friday
+
+**Today's Progress**
+  - Learned how to add image assets to the component
+  - Three ways: using import name reference, using require keyword and adding it inline, and using a variable name (const) for other online resources.
+  - Learned what webpack does. It bundles different files into one or multiple bundles so that the browser can download it faster. However, if the complexity is higher, it may actually slow down the app. In that case, we can use something called 'lazy loading'. 
+
+**Thoughts** I haven't understood how lazy loading works but I'll keep my curiosity for now.
+
 <!--
 ### Day 1: June 27, Monday
 
