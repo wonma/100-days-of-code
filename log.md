@@ -692,6 +692,15 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Thoughts** I made the App work without using the base code. It was a bit challenging but I will try to see the essense of how they work together.
 
+
+---
+### Day 17: October 30, Sunday
+
+**Today's Progress**
+  - Rebuilt the simple calculation app with the useRef hook.
+
+**Thoughts** One of the peers' calculation app really got me amazing. I was a bit overwhelmed to see the code and even visited his portfolio website. I saw some impressive projects. I'm way behind his knowledge and skills but I really hope I could reach that point someday.
+
 <!--
 ### Day 1: June 27, Monday
 
