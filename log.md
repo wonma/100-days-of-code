@@ -683,6 +683,15 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Thoughts** I haven't understood how lazy loading works but I'll keep my curiosity for now.
 
+
+---
+### Day 16: October 29, Saturday
+
+**Today's Progress**
+  - Built a simple calculation app using React (useState).
+
+**Thoughts** I made the App work without using the base code. It was a bit challenging but I will try to see the essense of how they work together.
+
 <!--
 ### Day 1: June 27, Monday
 
