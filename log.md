@@ -701,6 +701,16 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 
 **Thoughts** One of the peers' calculation app really got me amazing. I was a bit overwhelmed to see the code and even visited his portfolio website. I saw some impressive projects. I'm way behind his knowledge and skills but I really hope I could reach that point someday.
 
+---
+### Day 18: October 31, Monday
+
+**Today's Progress**
+  - Initiated my first self-study React app, [Calculator App with React](https://github.com/wonma/calculator-app-v2).
+  - Working on the keypress functions for 4 basic mathematical calculations. 
+
+**Thoughts** This is my first time getting motivated to build an app by myself with reference to someone else's app and its code. (I'm thankful to [Madza](https://www.madza.dev/), a web developer whose portfolio has ignited my motivation!) I realized with a little bit of help and self-initiated planning with a pencil and paper, I can start to see the micro aspects of the flow of the app and the required states and functions kinda arise from that point. I'm so happy that I finally know by experiencing the importance of seeing other people's code and challenge myeself with a project that seems a bit intimidating but doable with a calm mind and a strategy to break the problem into small pieces by seeing the flow of the execution in micro steps across the whole journey. 
+
+
 <!--
 ### Day 1: June 27, Monday
 
