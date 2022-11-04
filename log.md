@@ -721,6 +721,17 @@ Until the course opens, I will review the content I learned from Udemy, ZTM cour
 **Thoughts** 
 Today it was very challenging to achieve an intended function. I almost felt like I need to clean up all the code and start from the clean slate again. I feel like I'm somehow working on developing mental endurance and serenity (lol) under a tough situation.
 
+
+---
+### Day 20: November 3, Thursday
+
+**Today's Progress**
+  - Calculator App V2 Progress: playing with useRef
+**Thoughts** 
+Decided to go for a slightly different track. Revisualizing each step and trying to find the pattern.
+
+
+
 <!--
 ### Day 1: June 27, Monday
 
