@@ -731,6 +731,14 @@ Today it was very challenging to achieve an intended function. I almost felt lik
 Decided to go for a slightly different track. Revisualizing each step and trying to find the pattern.
 
 
+---
+### Day 21: November 4, Friday
+
+**Today's Progress**
+  - Calculator App V2 Progress: I finally got the basic functions work as I intended!!!! I am so proud of myself....! 
+
+**Thoughts** 
+It was an eye-opening moment when I started to understand what we type in and what the app needs to know can be viewed differently. For example, typing of the number keys were not the focus of the functionality of this app. The essence of the problem was in how the pressed sign (+,-,*,/) key will process the available data at that moment. I can't explain how I could be able to reach this level of compliated logic as a newbie, but I learned that persistence pays off!
 
 <!--
 ### Day 1: June 27, Monday
