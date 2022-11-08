@@ -740,6 +740,15 @@ Decided to go for a slightly different track. Revisualizing each step and trying
 **Thoughts** 
 It was an eye-opening moment when I started to understand what we type in and what the app needs to know can be viewed differently. For example, typing of the number keys were not the focus of the functionality of this app. The essence of the problem was in how the pressed sign (+,-,*,/) key will process the available data at that moment. I can't explain how I could be able to reach this level of compliated logic as a newbie, but I learned that persistence pays off!
 
+---
+### Day 22: November 7, Monday
+
+**Today's Progress**
+  - Calculator App V2 Progress: Fixed the 'backspace' error
+
+**Thoughts** 
+- I realized that understanding one concept fully takes a lot of trials and errors with different senarios. I thought I got the hang of 'useRef', but it seemed like it's different from referencing the element and accessing the value directly.
+
 <!--
 ### Day 1: June 27, Monday
 
