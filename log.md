@@ -749,6 +749,17 @@ It was an eye-opening moment when I started to understand what we type in and wh
 **Thoughts** 
 - I realized that understanding one concept fully takes a lot of trials and errors with different senarios. I thought I got the hang of 'useRef', but it seemed like it's different from referencing the element and accessing the value directly.
 
+
+---
+### Day 23: November 8, Tuesday
+
+**Today's Progress** Advanced React(Coursera)
+- Learned how to use maps() to create a new array populated with the results of calling a transformation function on every element out of a collection of data
+- If the list items are prone to changing the order, the unique keys must be set up for the map() method so that React can keep track of each item regardless of operations such as item removal, addition, sorting, or filtering.
+
+**Thoughts** 
+- I'm happy to meet these array methods again! I need to understand 'sort' method better. 
+
 <!--
 ### Day 1: June 27, Monday
 
