@@ -763,11 +763,14 @@ It was an eye-opening moment when I started to understand what we type in and wh
 ---
 ### Day 24: November 9, Wednesday
 
-**Today's Progress** Advanced React(Coursera): Controlled Form Component
+**Today's Progress** 
+(1) Advanced React(Coursera): Controlled Form Component
 - Learned how to create a controlled form using React state.
 - Implemented PasswordValidationCheck message component 
 - Learned how to setup 'select' element for updating its values
 - Learned how to make the submit button disabled until the form values are all valid.
+(2) Calculation App
+- Added logic to handle edge cases
 
 **Thoughts** 
 - I'm getting more comfortable working with form elements. This mini project left me with a lot of questions. I'll take a deeper look at them and ask a question to the course dicussion room!
