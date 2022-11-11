@@ -775,6 +775,19 @@ It was an eye-opening moment when I started to understand what we type in and wh
 **Thoughts** 
 - I'm getting more comfortable working with form elements. This mini project left me with a lot of questions. I'll take a deeper look at them and ask a question to the course dicussion room!
 
+
+---
+### Day 25: November 10, Thursday
+
+**Today's Progress** 
+(1) Advanced React(Coursera): Controlled Form Component
+- Rebuiling the sign up form (ongoing)
+(2) Calculation App
+- Simplified the sign press logic
+
+**Thoughts** 
+- It is amazing that I can learn this type of valuable knowledge and imagine the potential projects I can create!
+
 <!--
 ### Day 1: June 27, Monday
 
