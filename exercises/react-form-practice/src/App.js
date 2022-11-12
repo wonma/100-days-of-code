@@ -10,10 +10,23 @@ function App() {
   const [ password, setPassword ] = useState('');
   const [ role, setRole] = useState('role');
 
+  function isFormValid () {
+    return (
+      firstName && 
+      validateEmail(email) &&
+      password.length >= 8 &&
+      role !== 'role'
+    )
+  }
 
   function handleSubmit (e){
     e.preventDefault();
-
+    alert('Account has been created!')
+    setFirstName('')
+    setLastName('')
+    setEmail('')
+    setPassword('')
+    setRole('role')
   }
 
   return (
@@ -44,7 +57,7 @@ function App() {
             <option value="company">Company</option>
           </select>
         </field><br/>
-        <button type="submit">Create Account</button>
+        <button type="submit" disabled={!isFormValid()}>Create Account {console.log('button is rendering!')}</button>
       </form>
     </div>
   );

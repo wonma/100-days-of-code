@@ -788,6 +788,16 @@ It was an eye-opening moment when I started to understand what we type in and wh
 **Thoughts** 
 - It is amazing that I can learn this type of valuable knowledge and imagine the potential projects I can create!
 
+---
+### Day 26: November 11, Friday
+
+**Today's Progress** 
+Advanced React(Coursera): Controlled Form Component
+- Rebuiling the sign up form: Understood how the 'disabled' attribute switches its value to 'false'.
+
+**Thoughts** 
+- I was tempted to jump to the next learning content but stayed with solidating the new concepts with doing the exercises from scratch again. Good job! Let's focus on building a good habit rather than rushing through.
+
 <!--
 ### Day 1: June 27, Monday
 
