@@ -798,6 +798,17 @@ Advanced React(Coursera): Controlled Form Component
 **Thoughts** 
 - I was tempted to jump to the next learning content but stayed with solidating the new concepts with doing the exercises from scratch again. Good job! Let's focus on building a good habit rather than rushing through.
 
+---
+### Day 27: November 12, Saturday
+
+**Today's Progress** 
+Advanced React(Coursera): Controlled Form Component
+- Rebuiling the sign up form: understood how updating properties within one state object.
+- Used onBlur event listener to control when the error message is rendered.
+
+**Thoughts** 
+- I think only the exercises make me code better. Even though the explanation of the concepts are hard to grasp, I try not to fear because through repetitive trials and errors, I would be able to get it. I believe it!
+
 <!--
 ### Day 1: June 27, Monday
 

@@ -2,31 +2,44 @@ import './App.css';
 import React, { useState } from 'react';
 import { validateEmail } from './utils';
 
+function ShowPasswordErrorMessage() {
+  return (
+    <p>please type at least 8 characters for your password.</p>
+  )
+}
+
 function App() {
   
   const [ firstName, setFirstName ] = useState('');
   const [ lastName, setLastName ] = useState('');
   const [ email, setEmail ] = useState('');
-  const [ password, setPassword ] = useState('');
+  const [ password, setPassword ] = useState({
+    value: '',
+    hasTyped: false
+  });
   const [ role, setRole] = useState('role');
 
   function isFormValid () {
     return (
       firstName && 
       validateEmail(email) &&
-      password.length >= 8 &&
+      password.value.length >= 8 &&
       role !== 'role'
     )
+  }
+
+  function clearForm (){
+    setFirstName('')
+    setLastName('')
+    setEmail('')
+    setPassword({...password, value: '', hasTyped: false})
+    setRole('role')
   }
 
   function handleSubmit (e){
     e.preventDefault();
     alert('Account has been created!')
-    setFirstName('')
-    setLastName('')
-    setEmail('')
-    setPassword('')
-    setRole('role')
+    clearForm()
   }
 
   return (
@@ -47,7 +60,8 @@ function App() {
         </field><br/>
         <field>
           <label>Password<span>*</span></label><br/>
-          <input name="password" type="password" value={password} onChange={(e) => setPassword(e.target.value)} placeholder="First name" />
+          <input name="password" type="password" value={password.value} onBlur={(e) => setPassword({...password, hasTyped: true})} onChange={(e) => setPassword({...password, value: e.target.value})} placeholder="First name" />
+          { password.value.length < 8 && password.hasTyped ? <ShowPasswordErrorMessage /> : '' }
         </field><br/>
         <field>
           <label>Role<span>*</span></label><br/>
