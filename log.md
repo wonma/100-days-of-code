@@ -815,7 +815,8 @@ Advanced React(Coursera): Controlled Form Component
 
 **Today's Progress** 
 (1) Understood how 'key' works with a reverse() function exercise.
-<img src="./exercises/gifs/exercise_reverse-todo-1.gif.jpg" alt="reversing elements in a list" width="400"/>
+![reversing todo items](./exercises/gifs/exercise_reverse-todo-1.gif)
+
 (2) Advanced React(Coursera): Context API
 Context is useful for sharing state information throughout multiple different child components. 
 
