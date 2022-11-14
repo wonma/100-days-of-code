@@ -809,6 +809,19 @@ Advanced React(Coursera): Controlled Form Component
 **Thoughts** 
 - I think only the exercises make me code better. Even though the explanation of the concepts are hard to grasp, I try not to fear because through repetitive trials and errors, I would be able to get it. I believe it!
 
+
+---
+### Day 28: November 13, Sunday
+
+**Today's Progress** 
+(1) Understood how 'key' works with a reverse() function exercise.
+<img src="./exercises/gifs/exercise_reverse-todo-1.gif.jpg" alt="reversing elements in a list" width="400"/>
+(2) Advanced React(Coursera): Context API
+Context is useful for sharing state information throughout multiple different child components. 
+
+**Thoughts** 
+- I'm trying to build a good habit in learning coding. One of them is to write the exercise code from scratch by myself and catch what concepts I didn't understand. I felt a desire to jump to the next learning content, but I paused, opened up my review plan, and started to write the exercise code one by one. I feel this helps me check if I really understood the concept or not. I'm thankful I can enjoy learning coding at my pace.
+
 <!--
 ### Day 1: June 27, Monday
 
