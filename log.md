@@ -823,6 +823,17 @@ Context is useful for sharing state information throughout multiple different ch
 **Thoughts** 
 - I'm trying to build a good habit in learning coding. One of them is to write the exercise code from scratch by myself and catch what concepts I didn't understand. I felt a desire to jump to the next learning content, but I paused, opened up my review plan, and started to write the exercise code one by one. I feel this helps me check if I really understood the concept or not. I'm thankful I can enjoy learning coding at my pace.
 
+
+---
+### Day 29: November 14, Monday
+
+**Today's Progress** 
+Advanced React(Coursera): Context API
+I implemented Context API so that the 'Blog' app can share the global state across different levels of child components without prop drilling.
+
+**Thoughts** 
+- I am enjoying this learning so much! Of course, when I come across some complicated-looking concepts on the documents I feel overwhelmed but I try to stop thinking what I can't do at my level now. I will continuously make small progress! Slowly but steadily.
+
 <!--
 ### Day 1: June 27, Monday
 
