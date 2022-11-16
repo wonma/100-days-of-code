@@ -834,6 +834,18 @@ I implemented Context API so that the 'Blog' app can share the global state acro
 **Thoughts** 
 - I am enjoying this learning so much! Of course, when I come across some complicated-looking concepts on the documents I feel overwhelmed but I try to stop thinking what I can't do at my level now. I will continuously make small progress! Slowly but steadily.
 
+
+---
+### Day 30: November 15, Tuesday
+
+**Today's Progress** 
+Advanced React(Coursera): Theme Switcher with Context API
+Implemented Context using createContext, useContext, and useState. 
+
+**Thoughts** 
+- I still haven't understood clearly how the Context works, but I think the general concept is slowly getting into my head. Looking forward to using this for my own React Portfolio project!
+
+
 <!--
 ### Day 1: June 27, Monday
 
