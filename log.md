@@ -846,6 +846,18 @@ Implemented Context using createContext, useContext, and useState.
 - I still haven't understood clearly how the Context works, but I think the general concept is slowly getting into my head. Looking forward to using this for my own React Portfolio project!
 
 
+---
+### Day 31: November 16, Wednesday
+
+**Today's Progress** 
+Advanced React(Coursera): Theme Switcher with Context API
+Made the theme switcher work. I think utilizing CSS will be much easier than adding styles separately to each component.
+
+**Thoughts** 
+- My understanding about how to structure components is slowly growing! I'm looking forward to challenging myself with more and more exercises!!!
+![theme switcher](./exercises/gifs/exercise_switcher-1.gif)
+
+
 <!--
 ### Day 1: June 27, Monday
 
