@@ -858,6 +858,17 @@ Made the theme switcher work. I think utilizing CSS will be much easier than add
 ![theme switcher](./exercises/gifs/exercise_switcher-1.gif)
 
 
+---
+### Day 32: November 17, Thursday
+
+**Today's Progress** 
+Reviewed the theme switcher code and wrapped up the Context module. 
+
+**Thoughts** 
+- I got to think that one of the valuable skills that a front-end developer can possess and develop continuously is to identify the same pattern and find a way to use less code with 'reusability' always set default in mind.
+
+
+
 <!--
 ### Day 1: June 27, Monday
 
