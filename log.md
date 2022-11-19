@@ -867,6 +867,15 @@ Reviewed the theme switcher code and wrapped up the Context module.
 **Thoughts** 
 - I got to think that one of the valuable skills that a front-end developer can possess and develop continuously is to identify the same pattern and find a way to use less code with 'reusability' always set default in mind.
 
+---
+### Day 33: November 18, Friday
+
+**Today's Progress** 
+Styled the theme switcher and initialized 'Feedback Form' exercise codebase.
+
+**Thoughts** 
+- It's easy to feel overwhelmed when you don't have experience with styling the element as displayed. However, you can style everything as you want if you start from the smallest part. Don't get overwhelmed by all the fancy styled elements you see online! Say, 'If somebody didt, I CAN DO IT TOO!'
+
 
 
 <!--

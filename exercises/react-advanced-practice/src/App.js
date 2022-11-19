@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import FeedbackForm from './FeedbackForm';
 // import SignInForm from './SignInForm';
 // import ReversTodos from './ReverseTodos';
 // import ConditionalSubmit from './ConditionalSubmit';
 // import SimpleBlog from './SimpleBlog';
-import ThemeSwitcher from './ThemeSwitcher';
+// import ThemeSwitcher from './ThemeSwitcher';
 
 function App() {
   return (
@@ -12,8 +13,9 @@ function App() {
       {/* <SignInForm />
       <ReversTodos />
       <ConditionalSubmit />
-      <SimpleBlog /> */}
-      <ThemeSwitcher />
+      <SimpleBlog /> 
+      <ThemeSwitcher /> */}
+      <FeedbackForm />
     </div>
   );
 }
