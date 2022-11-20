@@ -876,6 +876,15 @@ Styled the theme switcher and initialized 'Feedback Form' exercise codebase.
 **Thoughts** 
 - It's easy to feel overwhelmed when you don't have experience with styling the element as displayed. However, you can style everything as you want if you start from the smallest part. Don't get overwhelmed by all the fancy styled elements you see online! Say, 'If somebody didt, I CAN DO IT TOO!'
 
+---
+### Day 34: November 19, Saturday
+
+**Today's Progress** 
+Implemented Feedback Form using 'useState'
+
+**Thoughts** 
+- Great to challenge myself with new small exercises! I really feel like I'm building my small 'coding' muscles.
+![feedback form](./exercises/gifs/exercise_feedback-1.gif)
 
 
 <!--
