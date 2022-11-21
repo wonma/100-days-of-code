@@ -886,6 +886,15 @@ Implemented Feedback Form using 'useState'
 - Great to challenge myself with new small exercises! I really feel like I'm building my small 'coding' muscles.
 ![feedback form](./exercises/gifs/exercise_feedback-1.gif)
 
+---
+### Day 35: November 20, Sunday
+
+**Today's Progress** 
+Learned how to update a specific property value in the state object
+
+**Thoughts** 
+- When I read a React document explaning about hooks, I felt a little bit overwhelmed. I haven't fully grasp the concept of React lifecycle and the difference between class component and function component. It's natural to feel a little bit overwhelmed when I see new concepts (high-order component) and can't really get it. However, the learning content I'm focused on at this moment is quite easy to learn, actually a lot of fun. I should not let myself down with these new puzzly words. 
+
 
 <!--
 ### Day 1: June 27, Monday
