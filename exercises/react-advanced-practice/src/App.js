@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
-import FeedbackForm from './FeedbackForm';
+import GoalTracker from './GoalTracker';
+import CouponRedeem from './CouponRedeem';
+// import FeedbackForm from './FeedbackForm';
 // import SignInForm from './SignInForm';
 // import ReversTodos from './ReverseTodos';
 // import ConditionalSubmit from './ConditionalSubmit';
@@ -9,13 +11,15 @@ import FeedbackForm from './FeedbackForm';
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       {/* <SignInForm />
       <ReversTodos />
       <ConditionalSubmit />
       <SimpleBlog /> 
-      <ThemeSwitcher /> */}
+      <ThemeSwitcher /> 
       <FeedbackForm />
+      <GoalTracker />*/}
+      <CouponRedeem />
     </div>
   );
 }
