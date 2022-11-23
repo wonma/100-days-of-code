@@ -18,8 +18,8 @@ function App() {
       <SimpleBlog /> 
       <ThemeSwitcher /> 
       <FeedbackForm />
-      <GoalTracker />*/}
-      <CouponRedeem />
+      <CouponRedeem />*/}
+      <GoalTracker />
     </div>
   );
 }

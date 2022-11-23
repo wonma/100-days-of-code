@@ -999,6 +999,22 @@ Learned about the basic concepts of prototype, supertype, and subtype.
 
 - I'm getting more confident talking about prototype. Looking forward to applying these concepts in more practical examples.
 
+---
+
+### Day 37: November 22, Tuesday
+
+**Today's Progress**
+
+- Implemented GoalTracker, using useState.
+  ![Goal tracker](./exercises/gifs/exercise-goal-tracker.gif)
+
+- Implemented CouponRedeem, using useState.
+  ![Coupon Redeemer](./exercises/gifs/exercise-coupon-redeem.gif)
+
+**Thoughts**
+
+- I feel at peace when I work on code. I should believe in myself and just keep going. Do not compare myself with others. Do not spend time caring about other people's game. Focus on your game.
+
 <!--
 ### Day 1: June 27, Monday
 
