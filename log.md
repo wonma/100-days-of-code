@@ -1015,6 +1015,16 @@ Learned about the basic concepts of prototype, supertype, and subtype.
 
 - I feel at peace when I work on code. I should believe in myself and just keep going. Do not compare myself with others. Do not spend time caring about other people's game. Focus on your game.
 
+---
+
+### Day 38: November 23, Wednesday
+
+**Today's Progress**
+useEffect is used to perform side effects property in React. For example, I can fetch data from external API using useEffect. I can also return different blocks of elements depending on the result of the fetching action.
+
+**Thoughts**
+I feel more comfortable about understanding new concepts. For example, I can learn a specific syntax of a new built-in function by recognizing the use of a callback function. My coding ability is evolving better than I think, so keep going!
+
 <!--
 ### Day 1: June 27, Monday
 
