@@ -1025,6 +1025,18 @@ useEffect is used to perform side effects property in React. For example, I can 
 **Thoughts**
 I feel more comfortable about understanding new concepts. For example, I can learn a specific syntax of a new built-in function by recognizing the use of a callback function. My coding ability is evolving better than I think, so keep going!
 
+---
+
+### Day 39: November 24, Thursday
+
+**Today's Progress** Custom hooks
+
+- The minimum requirement for the custom hook is that it should use at least one built-in React hook. (useEffect, useRef, ...)
+
+**Thoughts**
+
+- I feel like I need to built a lot of small projects to build what I want to build with React. It's all about baby steps now, nothing super cool. However, what is important is I'm slowly getting there one step forward every single day.
+
 <!--
 ### Day 1: June 27, Monday
 
