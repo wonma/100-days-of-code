@@ -1050,7 +1050,7 @@ Coursera: Learned useReducer hook in React
 - It's easy to feel rushed to reach the state that I'm trying to get at. Often times, it seems like there's no guarantee that we will be able to gain the skills that the other developers already have. However, it's the uncertainty that we need to fully accept in the course of progression. We need to appreciate every step and just be in the zone with the matter at hand. It all helps eventually. Stick to it!
   <!--
 
-### Day 1: June 27, Monday
+<!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -1059,4 +1059,4 @@ Coursera: Learned useReducer hook in React
 **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --> -->
