@@ -1035,9 +1035,21 @@ I feel more comfortable about understanding new concepts. For example, I can lea
 
 **Thoughts**
 
-- I feel like I need to built a lot of small projects to build what I want to build with React. It's all about baby steps now, nothing super cool. However, what is important is I'm slowly getting there one step forward every single day.
+- I feel like I need to code a lot of small projects to build what I want to build with React. It's all about taking baby steps now, nothing that looks super cool. However, what's important is I'm slowly advancing one step forward every single day.
 
-<!--
+---
+
+### Day 40: November 25, Friday
+
+**Today's Progress**
+FCC: Learned how to implement inheritance in Constructors.
+Coursera: Learned useReducer hook in React
+
+**Thoughts**
+
+- It's easy to feel rushed to reach the state that I'm trying to get at. Often times, it seems like there's no guarantee that we will be able to gain the skills that the other developers already have. However, it's the uncertainty that we need to fully accept in the course of progression. We need to appreciate every step and just be in the zone with the matter at hand. It all helps eventually. Stick to it!
+  <!--
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -1045,5 +1057,6 @@ I feel more comfortable about understanding new concepts. For example, I can lea
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
