@@ -2,6 +2,10 @@ import React from 'react';
 import './App.css';
 import GoalTracker from './GoalTracker';
 import CouponRedeem from './CouponRedeem';
+import IncomeExpenseTracker from './IncomeExpenseTracker';
+import LoadUserProfile from './LoadUserProfile';
+import FocusOnInput from './FocusOnInput';
+import DayRotator from './DayRotator';
 // import FeedbackForm from './FeedbackForm';
 // import SignInForm from './SignInForm';
 // import ReversTodos from './ReverseTodos';
@@ -18,8 +22,12 @@ function App() {
       <SimpleBlog /> 
       <ThemeSwitcher /> 
       <FeedbackForm />
-      <CouponRedeem />*/}
+      <CouponRedeem />
       <GoalTracker />
+      <IncomeExpenseTracker />
+      <LoadUserProfile />
+      <FocusOnInput />*/}
+      <DayRotator />
     </div>
   );
 }

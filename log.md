@@ -1048,6 +1048,22 @@ Coursera: Learned useReducer hook in React
 **Thoughts**
 
 - It's easy to feel rushed to reach the state that I'm trying to get at. Often times, it seems like there's no guarantee that we will be able to gain the skills that the other developers already have. However, it's the uncertainty that we need to fully accept in the course of progression. We need to appreciate every step and just be in the zone with the matter at hand. It all helps eventually. Stick to it!
+
+---
+
+### Day 41: November 26, Saturday
+
+**Today's Progress**
+
+- Implemented User Profile Loader with useEffect and fetch.
+  ![User Profile Loader](./exercises/gifs/exercise-load-user.gif)
+
+- Implmented useReducer hook for Income & Expense Tracker.
+  ![Income Expense Tracker](./exercises/gifs/exercise-expense-tracker.gif)
+
+**Thoughts**
+Got more confident in using useReducer!
+
   <!--
 
 <!-- ### Day 1: June 27, Monday
