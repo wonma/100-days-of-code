@@ -1064,7 +1064,20 @@ Coursera: Learned useReducer hook in React
 **Thoughts**
 Got more confident in using useReducer!
 
-  <!--
+---
+
+### Day 42: November 27, Sunday
+
+**Today's Progress**
+
+- Implemented Day Switcher using useRef, useEffect, and useState.
+  (It seems like useRef can be used more flexibly other than extracting the information of the elemenents.)
+- FCC: Started to go over the Basics of JavaScript.
+
+**Thoughts**
+Focus on now. Don't let the worries interfere.
+
+<!--
 
 <!-- ### Day 1: June 27, Monday
 
