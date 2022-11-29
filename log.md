@@ -1077,6 +1077,17 @@ Got more confident in using useReducer!
 **Thoughts**
 Focus on now. Don't let the worries interfere.
 
+---
+
+### Day 43: November 28, Monday
+
+**Today's Progress**
+- Learned how JSX is converted to a JavaScript object, which is called an element in React. 
+
+**Thoughts**
+I enjoyed learning! Can't wait to implement all these knowledge into bulding more practical projects.
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
