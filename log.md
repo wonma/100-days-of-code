@@ -1082,11 +1082,26 @@ Focus on now. Don't let the worries interfere.
 ### Day 43: November 28, Monday
 
 **Today's Progress**
-- Learned how JSX is converted to a JavaScript object, which is called an element in React. 
+
+- Learned how JSX is converted to a JavaScript object, which is called an element in React.
 
 **Thoughts**
 I enjoyed learning! Can't wait to implement all these knowledge into bulding more practical projects.
 
+---
+
+### Day 44: November 29, Tuesday
+
+**Today's Progress**
+
+- Learned the importance of performance to software development.
+- Learned the concept of component composition (confinement and specialization) and why children prop is so useful.
+- Learned Types of Children.
+
+**Thoughts**
+I learned a great lesson from the Meta developer, Murtadha. To make the user's experience enjoyable, we have to make incremental improvements on the performance side rather than only being busy with creating new features.
+
+"Thinking about performance can make a big difference between gaining a user or losing a user. Because if the application is not performing, it's not responsive, it's not fast enough, then people will not use it. It's a big deal for us to think about performance when we're developing these applications." - Murtadha, Engineer at Meta
 
 <!--
 
