@@ -1103,6 +1103,21 @@ I learned a great lesson from the Meta developer, Murtadha. To make the user's e
 
 "Thinking about performance can make a big difference between gaining a user or losing a user. Because if the application is not performing, it's not responsive, it's not fast enough, then people will not use it. It's a big deal for us to think about performance when we're developing these applications." - Murtadha, Engineer at Meta
 
+---
+
+### Day 45: November 30, Wednesday
+
+**Today's Progress**
+- Learned I can manipulate the children by returning the cloned, modified children.
+- **React.Children.map(children, (child, index) => { return .... })**
+- **React.cloneElement(element, props)** : This allows us to add other props to the copy of the element. 
+   Remember the props are immutable! We cannot directly modify them.
+
+**Thoughts**
+Right now, all these concepts are understandable at the concept level, but not at a practical level. I should experiment more with my own mini projects. 
+
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
