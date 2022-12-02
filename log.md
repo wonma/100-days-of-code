@@ -1116,6 +1116,17 @@ I learned a great lesson from the Meta developer, Murtadha. To make the user's e
 **Thoughts**
 Right now, all these concepts are understandable at the concept level, but not at a practical level. I should experiment more with my own mini projects. 
 
+---
+
+### Day 46: December 1, Thursday
+
+**Today's Progress**
+- Coded RadioGroup and RadioOption components using React.cloneElement and React.Children.map APIs. 
+- Learned how to concisely passing props using spread operator and what to be careful of.
+
+**Thoughts**
+When I first saw the RadioGroup exercise prompt, the first idea that hit me was, 'How would I even come up with the idea that I can utilize these APIs for this type of case?' I felt a bit intimidated and worried. However, the positive me is cheering me up! "It will all come with hundreds of code practices! All you can do is just keep going or giving it up. Choose one!" Well, then, I'll choose to continue!
+
 
 
 <!--
