@@ -1127,6 +1127,18 @@ Right now, all these concepts are understandable at the concept level, but not a
 **Thoughts**
 When I first saw the RadioGroup exercise prompt, the first idea that hit me was, 'How would I even come up with the idea that I can utilize these APIs for this type of case?' I felt a bit intimidated and worried. However, the positive me is cheering me up! "It will all come with hundreds of code practices! All you can do is just keep going or giving it up. Choose one!" Well, then, I'll choose to continue!
 
+---
+
+### Day 47: December 2, Friday
+
+**Today's Progress**
+- Cross-cutting concerns: a type of matter that is taken into account throughout the application and affets the entire application. For example: logging, security, data transfer are the concerns which are needed in almost every module of an application.
+- Higher-order Components(HOC): is a function that takes a component and returns a new component. It transforms a component into another component after enhancing the capabilities of the component provided. (From my understanding) we don't need to repeat the implementation of subscribing to certain data in multiple different stateful compoments. Instead, we can encapsulate the subscribing capability into a higher-order component and keep the statefulness in it, and using it to provide the corresponding data that the target component needs.  
+
+**Thoughts**
+This concept was hard to understand but with practical code exercises I believe I will be able to get the hang of it! It takes time for a new concept to sit in my head deeply. 
+
+
 
 
 <!--
