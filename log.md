@@ -1138,6 +1138,25 @@ When I first saw the RadioGroup exercise prompt, the first idea that hit me was,
 **Thoughts**
 This concept was hard to understand but with practical code exercises I believe I will be able to get the hang of it! It takes time for a new concept to sit in my head deeply. 
 
+---
+
+### Day 48: December 3, Saturday
+
+**Today's Progress**
+Learned HOC (Higher-order component) best practices and caveats.
+1. Don't mutate the original component.
+2. Spread and pass through all the original props (unrelated to the specific concern) to the wrapped component.
+3. Maximize the composability('구성력'이라고 해석하면 될듯). Recall HOC is a component returning a component. It's a function returning a function (with enhanced capabilities). With this concept, we can actually fuel multiple capabilities into the wrapped component. 
+	a. Sometimes, HOCs can accept additional arguments that act as extra configuration determining the type of enhancement the component receives.
+	b. Currying is a very common pattern in composing multi-level HOC. (a function that returns HOC.... and then the HOC gets invoked to enhance a wrapped component..) Redux에서도 HOC를 낳는 connect function이 있음. 또, HOC여러개를 묶어주는 compose function도 흔히 발견되는 패턴임. 
+  - compose(f, g, h) is the same as (...args) => f(g(h(...args)))
+
+Caveats
+1. Don't use HOCs inside other components.
+2. Refs aren’t passed through.
+
+**Thoughts**
+Whoa! It's very abstract at this level so I don't think I'm getting all these concepts fully. However, it's the first step to understand the new concepts so I would give my brain some time to play with it. No need to be afraid or overwhelmed. Everything will click eventually. 
 
 
 
