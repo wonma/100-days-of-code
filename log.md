@@ -1158,6 +1158,13 @@ Caveats
 **Thoughts**
 Whoa! It's very abstract at this level so I don't think I'm getting all these concepts fully. However, it's the first step to understand the new concepts so I would give my brain some time to play with it. No need to be afraid or overwhelmed. Everything will click eventually. 
 
+---
+
+### Day 49: December 4, Sunday
+
+**Today's Progress**
+Learned 'render' props. It sets the order of execution like 'provoking whatever function defined in the wrapped component's render props after fetching process is done'.
+And that function will be the presentational componnent. 
 
 
 <!--
