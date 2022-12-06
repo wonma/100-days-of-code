@@ -1108,20 +1108,22 @@ I learned a great lesson from the Meta developer, Murtadha. To make the user's e
 ### Day 45: November 30, Wednesday
 
 **Today's Progress**
+
 - Learned I can manipulate the children by returning the cloned, modified children.
 - **React.Children.map(children, (child, index) => { return .... })**
-- **React.cloneElement(element, props)** : This allows us to add other props to the copy of the element. 
-   Remember the props are immutable! We cannot directly modify them.
+- **React.cloneElement(element, props)** : This allows us to add other props to the copy of the element.
+  Remember the props are immutable! We cannot directly modify them.
 
 **Thoughts**
-Right now, all these concepts are understandable at the concept level, but not at a practical level. I should experiment more with my own mini projects. 
+Right now, all these concepts are understandable at the concept level, but not at a practical level. I should experiment more with my own mini projects.
 
 ---
 
 ### Day 46: December 1, Thursday
 
 **Today's Progress**
-- Coded RadioGroup and RadioOption components using React.cloneElement and React.Children.map APIs. 
+
+- Coded RadioGroup and RadioOption components using React.cloneElement and React.Children.map APIs.
 - Learned how to concisely passing props using spread operator and what to be careful of.
 
 **Thoughts**
@@ -1132,11 +1134,12 @@ When I first saw the RadioGroup exercise prompt, the first idea that hit me was,
 ### Day 47: December 2, Friday
 
 **Today's Progress**
+
 - Cross-cutting concerns: a type of matter that is taken into account throughout the application and affets the entire application. For example: logging, security, data transfer are the concerns which are needed in almost every module of an application.
-- Higher-order Components(HOC): is a function that takes a component and returns a new component. It transforms a component into another component after enhancing the capabilities of the component provided. (From my understanding) we don't need to repeat the implementation of subscribing to certain data in multiple different stateful compoments. Instead, we can encapsulate the subscribing capability into a higher-order component and keep the statefulness in it, and using it to provide the corresponding data that the target component needs.  
+- Higher-order Components(HOC): is a function that takes a component and returns a new component. It transforms a component into another component after enhancing the capabilities of the component provided. (From my understanding) we don't need to repeat the implementation of subscribing to certain data in multiple different stateful compoments. Instead, we can encapsulate the subscribing capability into a higher-order component and keep the statefulness in it, and using it to provide the corresponding data that the target component needs.
 
 **Thoughts**
-This concept was hard to understand but with practical code exercises I believe I will be able to get the hang of it! It takes time for a new concept to sit in my head deeply. 
+This concept was hard to understand but with practical code exercises I believe I will be able to get the hang of it! It takes time for a new concept to sit in my head deeply.
 
 ---
 
@@ -1144,19 +1147,22 @@ This concept was hard to understand but with practical code exercises I believe 
 
 **Today's Progress**
 Learned HOC (Higher-order component) best practices and caveats.
+
 1. Don't mutate the original component.
 2. Spread and pass through all the original props (unrelated to the specific concern) to the wrapped component.
-3. Maximize the composability('구성력'이라고 해석하면 될듯). Recall HOC is a component returning a component. It's a function returning a function (with enhanced capabilities). With this concept, we can actually fuel multiple capabilities into the wrapped component. 
-	a. Sometimes, HOCs can accept additional arguments that act as extra configuration determining the type of enhancement the component receives.
-	b. Currying is a very common pattern in composing multi-level HOC. (a function that returns HOC.... and then the HOC gets invoked to enhance a wrapped component..) Redux에서도 HOC를 낳는 connect function이 있음. 또, HOC여러개를 묶어주는 compose function도 흔히 발견되는 패턴임. 
-  - compose(f, g, h) is the same as (...args) => f(g(h(...args)))
+3. Maximize the composability('구성력'이라고 해석하면 될듯). Recall HOC is a component returning a component. It's a function returning a function (with enhanced capabilities). With this concept, we can actually fuel multiple capabilities into the wrapped component.
+   a. Sometimes, HOCs can accept additional arguments that act as extra configuration determining the type of enhancement the component receives.
+   b. Currying is a very common pattern in composing multi-level HOC. (a function that returns HOC.... and then the HOC gets invoked to enhance a wrapped component..) Redux에서도 HOC를 낳는 connect function이 있음. 또, HOC여러개를 묶어주는 compose function도 흔히 발견되는 패턴임.
+
+- compose(f, g, h) is the same as (...args) => f(g(h(...args)))
 
 Caveats
+
 1. Don't use HOCs inside other components.
 2. Refs aren’t passed through.
 
 **Thoughts**
-Whoa! It's very abstract at this level so I don't think I'm getting all these concepts fully. However, it's the first step to understand the new concepts so I would give my brain some time to play with it. No need to be afraid or overwhelmed. Everything will click eventually. 
+Whoa! It's very abstract at this level so I don't think I'm getting all these concepts fully. However, it's the first step to understand the new concepts so I would give my brain some time to play with it. No need to be afraid or overwhelmed. Everything will click eventually.
 
 ---
 
@@ -1164,8 +1170,20 @@ Whoa! It's very abstract at this level so I don't think I'm getting all these co
 
 **Today's Progress**
 Learned 'render' props. It sets the order of execution like 'provoking whatever function defined in the wrapped component's render props after fetching process is done'.
-And that function will be the presentational componnent. 
+And that function will be the presentational componnent.
 
+---
+
+### Day 50: December 5, Monday
+
+**Today's Progress**
+Reviewed HOC. Almost dissect the HOC example provided.
+
+- Realized that HOC is a function that returns an enhanced component.
+- And since it also technically is in a construct of a component, we can safely say HOC is a component that returns an enhanced component.
+
+**Thoughts**
+I think the process of learning JavaScript/React is a lot similar to the one of learning a language. I form a certain level of understanding with the resources and schema that I have, which may be not complete but becomes the base of the correction and refinement in the future understanding.
 
 <!--
 

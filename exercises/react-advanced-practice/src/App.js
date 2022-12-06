@@ -6,6 +6,7 @@ import IncomeExpenseTracker from './IncomeExpenseTracker';
 import LoadUserProfile from './LoadUserProfile';
 import FocusOnInput from './FocusOnInput';
 import DayRotator from './DayRotator';
+import CursorTracker1 from './CursorTracker1';
 // import FeedbackForm from './FeedbackForm';
 // import SignInForm from './SignInForm';
 // import ReversTodos from './ReverseTodos';
@@ -26,8 +27,9 @@ function App() {
       <GoalTracker />
       <IncomeExpenseTracker />
       <LoadUserProfile />
-      <FocusOnInput />*/}
-      <DayRotator />
+      <FocusOnInput />
+      <DayRotator />*/}
+      <CursorTracker1 />
     </div>
   );
 }
