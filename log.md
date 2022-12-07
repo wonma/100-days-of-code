@@ -1185,6 +1185,17 @@ Reviewed HOC. Almost dissect the HOC example provided.
 **Thoughts**
 I think the process of learning JavaScript/React is a lot similar to the one of learning a language. I form a certain level of understanding with the resources and schema that I have, which may be not complete but becomes the base of the correction and refinement in the future understanding.
 
+---
+
+### Day 51: December 6, Tuesday
+
+**Today's Progress**
+Implemented HOC to build Cursor Tracker.
+![Cursor Tracker 1](./exercises/gifs/exercise-cursor-tracker-1.gif)
+
+**Thoughts**
+If I get stuck in the coding process, it's actually not struggling but a very lucky chance like a free gift box in a game. I will continuously train my mindset this way!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
@@ -1194,6 +1205,8 @@ I think the process of learning JavaScript/React is a lot similar to the one of 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
+
+  ![User Profile Loader](./exercises/gifs/exercise-load-user.gif)
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --> -->
