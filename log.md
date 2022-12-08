@@ -1196,6 +1196,16 @@ Implemented HOC to build Cursor Tracker.
 **Thoughts**
 If I get stuck in the coding process, it's actually not struggling but a very lucky chance like a free gift box in a game. I will continuously train my mindset this way!
 
+---
+
+### Day 52: December 7, Wednesday
+
+**Today's Progress**
+Reviewed the Cursor Tracker code and found some answers to my questions.
+
+**Thoughts**
+It's great that I could get the hang of the new concept, but I feel thirsty for a lot of new exercises that will let me experience a lot of errors and a-ha moments.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
