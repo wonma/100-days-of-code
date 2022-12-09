@@ -7,6 +7,7 @@ import LoadUserProfile from './LoadUserProfile';
 import FocusOnInput from './FocusOnInput';
 import DayRotator from './DayRotator';
 import CursorTracker1 from './CursorTracker1';
+import CursorTracker2 from './CursorTracker2';
 // import FeedbackForm from './FeedbackForm';
 // import SignInForm from './SignInForm';
 // import ReversTodos from './ReverseTodos';
@@ -28,8 +29,9 @@ function App() {
       <IncomeExpenseTracker />
       <LoadUserProfile />
       <FocusOnInput />
-      <DayRotator />*/}
-      <CursorTracker1 />
+      <DayRotator />
+      <CursorTracker1 />*/}
+      <CursorTracker2 />
     </div>
   );
 }

@@ -1206,6 +1206,16 @@ Reviewed the Cursor Tracker code and found some answers to my questions.
 **Thoughts**
 It's great that I could get the hang of the new concept, but I feel thirsty for a lot of new exercises that will let me experience a lot of errors and a-ha moments.
 
+---
+
+### Day 53: December 8, Thursday
+
+**Today's Progress**
+Implemented the Cursor Tracker code using **render props**.
+
+**Thoughts**
+The more I make sure I work on the review, the deeper I feel my understanding gets. I'm so happy that I'm focused on developing a good habit rather than hurrying to create fancy examples right away. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
