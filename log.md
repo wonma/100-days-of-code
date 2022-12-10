@@ -1216,6 +1216,24 @@ Implemented the Cursor Tracker code using **render props**.
 **Thoughts**
 The more I make sure I work on the review, the deeper I feel my understanding gets. I'm so happy that I'm focused on developing a good habit rather than hurrying to create fancy examples right away. 
 
+---
+
+### Day 54: December 9, Friday
+
+**Today's Progress**
+Learned the basic concepts and best practices of testing. (with Jest & react-testing-library)
+1. Avoid including implementation details of components. (구체적으로 어떻게 그 결과를 구현했는지는 포함하지말것)
+2. The more your test resemble the way your software is used, the more confidence they can give you. (사용자입장에서 쓰는 방법과 닮아있을 수록 더 자신감을 준다.)
+3. You want your tests to be maintanable in the long term. (장기적 코드유지 관점에서 테스트를 쓴다.)
+
+Example: Submission is disabled if score is lower than 5 and there is no feedback.
+  - Event: When the target range input is 4 and the submit button is clicked, 
+    a. Expect 'handleSubmit' function is not fired.
+    b. Expect 'submitButton' to have an attribute of 'disabled'
+
+**Thoughts**
+I'm very happy with today's learning because it actually lower the barrier that I had towards the idea of testing. It seemed like a complex matter that I should endure going through in the course of learning programming. However, today, I started to understand why testing is important and what is it about. From my understanding, testing is to check if the code functionalities work as expected in all different scenarios that user may interact with the app. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
