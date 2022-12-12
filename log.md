@@ -1246,6 +1246,20 @@ Practice writing a test code for FeedbackForm, using JEST and React-testing-libr
 **Thoughts**
 I understand what it means to simulate user interactions in the test code. I still need to encounter many different cases and examples, but at least I successfully opened the door of the world of the test! Celebrate little progress!
 
+---
+
+### Day 56: December 11, Sunday
+
+**Today's Progress**
+Day1 for React Portfolio Project.
+![Portfolio Day 1](./exercises/images/portfolio-d1.jpg)
+
+- Created FullScreenSection to wrap all the sections.
+- Builit the skeleton of the Header, LandingSection, ProjectsSection Components.
+
+**Thoughts**
+The code snippet provided as a starting point looked intimidating first. But, I didn't let myself just stay indimidated but decided to build small parts of the app one by one from scratch. I think one of the most valuable qualities that a web developer can possess (or develop) is the ability to stay composed in front of the unfamiliar code and new concepts.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
