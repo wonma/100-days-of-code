@@ -1266,7 +1266,7 @@ The code snippet provided as a starting point looked intimidating first. But, I 
 
 **Today's Progress**
 Day2 for React Portfolio Project.
-![Portfolio Day 2](./exercises/images/portfolio-d2.gif)
+![Portfolio Day 2](./exercises/gif/portfolio-d2.gif)
 
 - Implmented the LandingSection, ProjectsSection components.
 - Growing a better understanding of how to use the Chakra UI components.
