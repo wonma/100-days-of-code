@@ -1255,10 +1255,24 @@ Day1 for React Portfolio Project.
 ![Portfolio Day 1](./exercises/images/portfolio-d1.jpg)
 
 - Created FullScreenSection to wrap all the sections.
-- Builit the skeleton of the Header, LandingSection, ProjectsSection Components.
+- Built the skeleton of the Header, LandingSection, ProjectsSection Components.
 
 **Thoughts**
 The code snippet provided as a starting point looked intimidating first. But, I didn't let myself just stay indimidated but decided to build small parts of the app one by one from scratch. I think one of the most valuable qualities that a web developer can possess (or develop) is the ability to stay composed in front of the unfamiliar code and new concepts.
+
+---
+
+### Day 57: December 12, Monday
+
+**Today's Progress**
+Day2 for React Portfolio Project.
+![Portfolio Day 2](./exercises/images/portfolio-d2.gif)
+
+- Implmented the LandingSection, ProjectsSection components.
+- Growing a better understanding of how to use the Chakra UI components.
+
+**Thoughts**
+I always felt like there is no end in mastering the basic concepts in HTML/CSS/JS. However, I started to feel like at some point, maybe, there is some sweet point where I feel comfortable working with all the key concepts, while casually absorbing new concepts moving forward. It's just not the point that anyone can reach. Only the person who believes in oneself and keeps going no matter what will taste all the sweet things after a long journey of persistent exercises!
 
 <!--
 
