@@ -1274,6 +1274,19 @@ Day2 for React Portfolio Project.
 **Thoughts**
 I always felt like there is no end in mastering the basic concepts in HTML/CSS/JS. However, I started to feel like at some point, maybe, there is some sweet point where I feel comfortable working with all the key concepts, while casually absorbing new concepts moving forward. It's just not the point that anyone can reach. Only the person who believes in oneself and keeps going no matter what will taste all the sweet things after a long journey of persistent exercises!
 
+---
+
+### Day 58: December 13, Tuesday
+
+**Today's Progress**
+Day3 for React Portfolio Project.
+
+- Studied Formik for form component creation.
+
+**Thoughts**
+Definitely another layer of learning, but I believe it's worth using it!
+Can't wait to apply it to the real-life project!!!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
