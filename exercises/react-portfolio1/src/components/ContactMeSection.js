@@ -12,6 +12,7 @@ import {
   Input,
   Button
 } from '@chakra-ui/react';
+
 import * as Yup from 'yup';
 
 const ContactMeSection = () => {
@@ -41,9 +42,9 @@ const ContactMeSection = () => {
         <Heading as='h2' id='contactme-section'>
           Contact Me
         </Heading>
-        <Box p={20} rounded='md' width='100%' backgroundColor='green'>
-          <form onSubmit={formik.handleSubmit} alignItems='flex-start'>
-            <VStack spacing={4}>
+        <Box p={6} rounded='md' width='100%'>
+          <form onSubmit={formik.handleSubmit}>
+            <VStack spacing={4} alignItems='flex-start'>
               <FormControl
                 isInvalid={formik.errors.firstName && formik.touched.firstName}
               >
@@ -55,6 +56,7 @@ const ContactMeSection = () => {
                   value={formik.values.firstName}
                   onChange={formik.handleChange}
                   onBlur={formik.handleBlur}
+
                 />
                 <FormErrorMessage>{formik.errors.firstName}</FormErrorMessage>
               </FormControl>
@@ -90,9 +92,10 @@ const ContactMeSection = () => {
                   <FormErrorMessage>{formik.errors.email}</FormErrorMessage>
                 ) : null}
               </FormControl>
+              <Button type='submit'>Submit</Button>
+
             </VStack>
 
-            <Button type='submit'>Submit</Button>
           </form>
         </Box>
       </VStack>

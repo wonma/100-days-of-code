@@ -1,3 +1,4 @@
+import React from 'react';
 import { Avatar, Heading, VStack } from '@chakra-ui/react';
 import FullScreenSection from './FullScreenSection';
 

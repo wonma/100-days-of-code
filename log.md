@@ -1298,6 +1298,9 @@ Day4 for React Portfolio Project.
 
 **Thoughts**
 Came across a challenge that got me stuck! I want to figure out why the UI styles of the Chakra form components are not being applied.
+**Issue Solved!!!!! Super Happy!!!!**
+- I reinstalled react-script version from 2.x.x to 5.x.x
+- I found out that I didn't wrap the App component with ChakraThemeProvider component! Now everything works very well! I'm gonna cry.. so happy!
 
 <!--
 
