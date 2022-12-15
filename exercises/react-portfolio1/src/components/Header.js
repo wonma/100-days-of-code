@@ -49,11 +49,11 @@ const SocialLinks = () => {
 const MenuItems = [
   {
     label: 'Projects',
-    url: '#projects'
+    url: '#projects-section'
   },
   {
     label: 'Contact Me',
-    url: '#contact-me'
+    url: '#contactme-section'
   }
 ];
 

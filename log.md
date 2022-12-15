@@ -1287,6 +1287,18 @@ Day3 for React Portfolio Project.
 Definitely another layer of learning, but I believe it's worth using it!
 Can't wait to apply it to the real-life project!!!
 
+---
+
+### Day 59: December 14, Wednesday
+
+**Today's Progress**
+Day4 for React Portfolio Project.
+
+- Applied Formik library into Chakra components.
+
+**Thoughts**
+Came across a challenge that got me stuck! I want to figure out why the UI styles of the Chakra form components are not being applied.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
