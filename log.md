@@ -1301,6 +1301,19 @@ Came across a challenge that got me stuck! I want to figure out why the UI style
 **Issue Solved!!!!! Super Happy!!!!**
 - I reinstalled react-script version from 2.x.x to 5.x.x
 - I found out that I didn't wrap the App component with ChakraThemeProvider component! Now everything works very well! I'm gonna cry.. so happy!
+---
+
+### Day 60: December 19, Monday
+
+**Today's Progress**
+Day5 for React Portfolio Project.
+
+- Finally implemented the form submission logic with the Alert modal feature!!!
+
+**Thoughts**
+**Super Happy!!!!**Came across the biggest challenge in this project! I could reach the solution since I debugged one by one and figured out what was the critical issue (once the 'response' state has been updated, the 'onOpen' function needs to be executed!)
+
+- I wrapped onOpen function inside useEffect. 
 
 <!--
 

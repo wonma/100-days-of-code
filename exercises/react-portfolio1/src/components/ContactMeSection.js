@@ -1,6 +1,8 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import FullScreenSection from './FullScreenSection';
 import { useFormik } from 'formik';
+import useSubmit from '../hooks/useSubmit';
+import { useAlertContext } from '../context/alertContext';
 
 import {
   Box,
@@ -9,34 +11,46 @@ import {
   FormControl,
   FormLabel,
   FormErrorMessage,
+  Select,
   Input,
-  Button
+  Button,
+  Textarea
 } from '@chakra-ui/react';
 
 import * as Yup from 'yup';
 
 const ContactMeSection = () => {
+  const { isLoading, response, submit } = useSubmit();
+  const { onOpen } = useAlertContext();
+
+  useEffect(() => {
+    if(response) {
+      onOpen(response.type, response.message)
+    }
+  }, [response])
+
   const formik = useFormik({
     initialValues: {
       firstName: '',
-      lastName: '',
-      email: ''
+      email: '',  
+      type: '',
+      comment: ''
+    },
+    onSubmit:  (values) => {
+      submit('data', values)      
     },
     validationSchema: Yup.object({
       firstName: Yup.string()
         .max(15, 'Must be 15 characters or less')
         .required('Required'),
-      lastName: Yup.string()
-        .max(20, 'Must be 20 characters or less')
-        .required('Required'),
-      email: Yup.string().email('Invalid email address').required('Required')
-    }),
-    onSubmit: values => {
-      alert(JSON.stringify(values, null, 2));
-    }
+      email: Yup.string().email('Invalid email address').required('Required'),
+      type: Yup.string().required('Required'),
+      comment: Yup.string().required('Required')
+    })
   });
 
   return (
+    
     <FullScreenSection isdarkbackground='true' backgroundColor='#512DA8' p={16}>
       <VStack w='1024px' alignItems='flex-start'>
         <Heading as='h2' id='contactme-section'>
@@ -48,7 +62,7 @@ const ContactMeSection = () => {
               <FormControl
                 isInvalid={formik.errors.firstName && formik.touched.firstName}
               >
-                <FormLabel htmlFor='firstName'>First Name</FormLabel>
+                <FormLabel htmlFor='firstName'>Name</FormLabel>
                 <Input
                   type='text'
                   id='firstName'
@@ -59,22 +73,6 @@ const ContactMeSection = () => {
 
                 />
                 <FormErrorMessage>{formik.errors.firstName}</FormErrorMessage>
-              </FormControl>
-              <FormControl
-                isInvalid={formik.errors.lastName && formik.touched.lastName}
-              >
-                <FormLabel htmlFor='lastName'>Last Name</FormLabel>
-                <Input
-                  type='text'
-                  id='lastName'
-                  name='lastName'
-                  value={formik.values.lastName}
-                  onChange={formik.handleChange}
-                  onBlur={formik.handleBlur}
-                />
-                {formik.touched.lastName && formik.errors.lastName ? (
-                  <FormErrorMessage>{formik.errors.lastName}</FormErrorMessage>
-                ) : null}
               </FormControl>
               <FormControl
                 isInvalid={formik.errors.email && formik.touched.email}
@@ -91,8 +89,31 @@ const ContactMeSection = () => {
                 {formik.touched.email && formik.errors.email ? (
                   <FormErrorMessage>{formik.errors.email}</FormErrorMessage>
                 ) : null}
+              </FormControl> 
+              <FormControl isInvalid={formik.errors.type && formik.touched.type}>
+                <FormLabel htmlFor='type'>Type of enquiry</FormLabel>
+                <Select id='type' name='type' 
+                  value={formik.values.type}
+                  onChange={formik.handleChange}
+                  onBlur={formik.handleBlur} 
+                  placeholder='Select an option'>
+                  <option value='hireMe' style={{ color: 'black' }} >Freelance project proposal</option>
+                  <option value='openSource' style={{ color: 'black' }} >Open source consultancy session</option>
+                  <option value='other' style={{ color: 'black' }} >Other</option>
+                </Select>
+                {formik.touched.type && formik.errors.type ? (
+                  <FormErrorMessage>{formik.errors.type}</FormErrorMessage>
+                ) : null}
               </FormControl>
-              <Button type='submit'>Submit</Button>
+              <FormControl isInvalid={formik.errors.comment && formik.touched.comment}>
+                <FormLabel htmlFor='comment'>Your message</FormLabel>
+                <Textarea id='comment' name='comment' height={250} value={formik.values.comment} onChange={formik.handleChange} onBlur={formik.handleBlur} />
+                {formik.touched.comment && formik.errors.comment ? (
+                  <FormErrorMessage>{formik.errors.comment}</FormErrorMessage>
+                ) : null}
+              </FormControl>
+               <Button width='100%' isLoading={isLoading} type='submit' colorScheme='teal' disabled={!(formik.isValid && formik.dirty)}
+ >Submit</Button>
 
             </VStack>
 
