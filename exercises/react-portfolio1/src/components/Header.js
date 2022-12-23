@@ -59,13 +59,23 @@ const MenuItems = [
   }
 ];
 
+const handleLinkClick = (url) => {
+  const element = document.getElementById(url.slice(1, url.length))
+  if(element) {
+    element.scrollIntoView({
+      behavior: "smooth",
+      block: "start"
+    })
+  }
+}
+
 const MenuLinks = () => {
   return MenuItems.map((item, index) => {
     return (
       <a
         key={item.url}
-        href={item.url}
-        style={{ color: 'white', textDecoration: 'none' }}
+        style={{ color: 'white', textDecoration: 'none', cursor: 'pointer' }}
+        onClick={()=> handleLinkClick(item.url)}
       >
         {item.label}
       </a>
@@ -84,8 +94,8 @@ const Header = () => {
     >
       <Box color='white' maxWidth='1280px' margin='0 auto'>
         <HStack
-          px={16}
-          py={16}
+          px={4}
+          py={4}
           justifyContent='space-between'
           alignItems='center'
         >
@@ -93,7 +103,7 @@ const Header = () => {
             <SocialLinks />
           </nav>
           <nav>
-            <HStack spacing={14}>
+            <HStack spacing={4}>
               <MenuLinks />
             </HStack>
           </nav>

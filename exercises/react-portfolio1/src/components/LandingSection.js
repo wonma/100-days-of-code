@@ -14,16 +14,16 @@ const LandingSection = () => {
       isdarkbackground='true'
       backgroundColor='#2A4365'
     >
-      <VStack>
+      <VStack pb='10'>
         <Avatar
           name='Dan Abrahmov'
-          size='2xs'
+          size='xl'
           src='https://i.pravatar.cc/150?img=7'
         />
-        <Heading as='h3'>{greeting}</Heading>
+        <Heading as='h2' size='sm'>{greeting}</Heading>
       </VStack>
       <VStack>
-        <Heading as='h1' size='3xl' textAlign='center'>
+        <Heading as='h1' size='2xl' lineHeight='120%' textAlign='center'>
           {bio1} <br />
           {bio2}
         </Heading>

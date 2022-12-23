@@ -35,10 +35,11 @@ const ProjectsSection = () => {
     <FullScreenSection
       backgroundColor='#14532d'
       isdarkbackground='true'
-      p={16}
+      px={16}
+      py={8}
       alignItems='flex-start'
     >
-      <Heading as='h2' id='projects-section'>
+      <Heading as='h2' id='projects-section' py={14}>
         Featured Projects
       </Heading>
       <Box

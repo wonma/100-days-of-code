@@ -1315,6 +1315,19 @@ Day5 for React Portfolio Project.
 
 - I wrapped onOpen function inside useEffect. 
 
+---
+
+### Day 61: December 22, Thursday
+
+**Today's Progress**
+Day6 for React Portfolio Project.
+
+- Implemented 'smooth scroll on click' feature.
+- Firmly grasped the unit system supported by Chakra UI library.
+
+**Thoughts**
+I will not give up!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
