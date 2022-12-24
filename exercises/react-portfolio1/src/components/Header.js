@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 
 import { Box, HStack } from '@chakra-ui/react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -59,15 +59,15 @@ const MenuItems = [
   }
 ];
 
-const handleLinkClick = (url) => {
-  const element = document.getElementById(url.slice(1, url.length))
-  if(element) {
+const handleLinkClick = url => {
+  const element = document.getElementById(url.slice(1, url.length));
+  if (element) {
     element.scrollIntoView({
-      behavior: "smooth",
-      block: "start"
-    })
+      behavior: 'smooth',
+      block: 'start'
+    });
   }
-}
+};
 
 const MenuLinks = () => {
   return MenuItems.map((item, index) => {
@@ -75,7 +75,7 @@ const MenuLinks = () => {
       <a
         key={item.url}
         style={{ color: 'white', textDecoration: 'none', cursor: 'pointer' }}
-        onClick={()=> handleLinkClick(item.url)}
+        onClick={() => handleLinkClick(item.url)}
       >
         {item.label}
       </a>
@@ -84,13 +84,33 @@ const MenuLinks = () => {
 };
 
 const Header = () => {
+  const headerRef = useRef(undefined);
+  const [headerTranslateY, setHeaderTranslateY] = useState(0);
+  useEffect(() => {
+    const header = headerRef.current;
+    let lastSt = 0;
+    document.addEventListener('scroll', e => {
+      const st = document.documentElement.scrollTop;
+      if (lastSt < st && header.clientHeight < st) {
+        setHeaderTranslateY('-200px');
+      } else {
+        setHeaderTranslateY('0px');
+      }
+      lastSt = st;
+    });
+  }, []);
+
   return (
     <Box
       backgroundColor='#18181b'
       position='fixed'
+      top='0'
       left='0'
       right='0'
       zIndex='1'
+      transform={`translateY(${headerTranslateY})`}
+      transition='transform .5s ease-in-out'
+      ref={headerRef}
     >
       <Box color='white' maxWidth='1280px' margin='0 auto'>
         <HStack

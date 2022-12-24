@@ -1299,8 +1299,10 @@ Day4 for React Portfolio Project.
 **Thoughts**
 Came across a challenge that got me stuck! I want to figure out why the UI styles of the Chakra form components are not being applied.
 **Issue Solved!!!!! Super Happy!!!!**
+
 - I reinstalled react-script version from 2.x.x to 5.x.x
 - I found out that I didn't wrap the App component with ChakraThemeProvider component! Now everything works very well! I'm gonna cry.. so happy!
+
 ---
 
 ### Day 60: December 19, Monday
@@ -1313,7 +1315,7 @@ Day5 for React Portfolio Project.
 **Thoughts**
 **Super Happy!!!!**Came across the biggest challenge in this project! I could reach the solution since I debugged one by one and figured out what was the critical issue (once the 'response' state has been updated, the 'onOpen' function needs to be executed!)
 
-- I wrapped onOpen function inside useEffect. 
+- I wrapped onOpen function inside useEffect.
 
 ---
 
@@ -1327,6 +1329,20 @@ Day6 for React Portfolio Project.
 
 **Thoughts**
 I will not give up!
+
+---
+
+### Day 62: December 23, Friday
+
+**Today's Progress**
+Day7 for React Portfolio Project.
+
+- Implemented 'Hide Header on Scroll Down' feature.
+- Applying dynamic style(transform: transformY(...)) change, using useState.
+- Learned how to detect the scroll down or scroll up event.
+
+**Thoughts**
+So proud that I could implemented this feature fully by my own trials and errors only with the help of online resources that I actively searched for. Gotta give myself some compliments!
 
 <!--
 
