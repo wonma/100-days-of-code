@@ -8,6 +8,7 @@ import {
   Box,
   Heading,
   VStack,
+  Flex, 
   FormControl,
   FormLabel,
   FormErrorMessage,
@@ -51,19 +52,18 @@ const ContactMeSection = () => {
 
   return (
     
-    <FullScreenSection isdarkbackground='true' backgroundColor='#512DA8' p={16}>
-      <VStack w='1024px' alignItems='flex-start'>
-        <Heading as='h2' id='contactme-section'>
+    <FullScreenSection isdarkbackground='true' backgroundColor='#512DA8' px={{base: 4, md: 8}} py={14} width='100%' alignItems='center'>
+       <Heading as='h2' id='contactme-section'>
           Contact Me
         </Heading>
-        <Box p={6} rounded='md' width='100%'>
-          <form onSubmit={formik.handleSubmit}>
-            <VStack spacing={4} alignItems='flex-start'>
+        <Box py={8} width={{base:'full', lg:'70%'}}>
+        <form onSubmit={formik.handleSubmit}>
+        <Flex direction='column' gap='4' alignItems='center'>
               <FormControl
                 isInvalid={formik.errors.firstName && formik.touched.firstName}
               >
-                <FormLabel htmlFor='firstName'>Name</FormLabel>
-                <Input
+                <FormLabel htmlFor='firstName' >Name</FormLabel>
+                <Input 
                   type='text'
                   id='firstName'
                   name='firstName'
@@ -115,11 +115,11 @@ const ContactMeSection = () => {
                <Button width='100%' isLoading={isLoading} type='submit' colorScheme='teal' disabled={!(formik.isValid && formik.dirty)}
  >Submit</Button>
 
-            </VStack>
+            </Flex>
 
           </form>
         </Box>
-      </VStack>
+
     </FullScreenSection>
   );
 };

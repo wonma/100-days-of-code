@@ -15,12 +15,12 @@ const Card = props => {
         objectFit='cover'
         display='block'
       />
-      <Box p={20}>
+      <Box p={6}>
         <VStack alignItems='flex-start'>
-          <Heading as='h3' m={0}>
+          <Heading as='h3' fontSize={24} m={0}>
             {props.title}
           </Heading>
-          <Text pt={10} color='#666'>
+          <Text pt={4} color='#666'>
             {props.description}
           </Text>
           <HStack alignItems='center'>

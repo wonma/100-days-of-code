@@ -1344,6 +1344,19 @@ Day7 for React Portfolio Project.
 **Thoughts**
 So proud that I could implemented this feature fully by my own trials and errors only with the help of online resources that I actively searched for. Gotta give myself some compliments!
 
+---
+
+### Day 63: December 27, Tuesday
+
+**Today's Progress**
+Day8 for React Portfolio Project.
+
+- Fixed styles for forms and cards to apply responsive layout. 
+
+**Thoughts**
+Don't be afraid to not fully grasp all the CSS rules at once!
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
