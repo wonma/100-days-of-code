@@ -1356,6 +1356,17 @@ Day8 for React Portfolio Project.
 **Thoughts**
 Don't be afraid to not fully grasp all the CSS rules at once!
 
+---
+
+### Day 64: December 29, Thursday
+
+**Today's Progress**
+- Completed the Advanced React course on Coursera!! Congrats Wonmi!
+- Started reviewing the key concepts in React. 
+  - When to use 'prevState' functional updates for setState. 
+
+**Thoughts**
+Don't be afraid of delving into your curiosity of HTML, CSS, and JavaScript! Dive into your zone of craziness and nerdiness! It's okay! 
 
 <!--
 
