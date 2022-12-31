@@ -1368,6 +1368,17 @@ Don't be afraid to not fully grasp all the CSS rules at once!
 **Thoughts**
 Don't be afraid of delving into your curiosity of HTML, CSS, and JavaScript! Dive into your zone of craziness and nerdiness! It's okay! 
 
+---
+
+### Day 65: December 30, Friday
+
+**Today's Progress**
+- Reviewed a custom hook with the example of 'useSubmit' hook in the React Portfolio project.
+- Reviewed Promise, async await, and why we should wrap setTimeout with Promise to create a custom asynchronous function. 
+
+**Thoughts**
+- I tried explaning my code verbally. I think this helps grow my confidence as a developer!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
