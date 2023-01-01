@@ -1379,6 +1379,16 @@ Don't be afraid of delving into your curiosity of HTML, CSS, and JavaScript! Div
 **Thoughts**
 - I tried explaning my code verbally. I think this helps grow my confidence as a developer!
 
+---
+
+### Day 66: December 31, Saturday
+
+**Today's Progress**
+- Reviewed a custom hook and the practical usage of useRef with the example of 'usePrevious' hook. (useRef can be used for tracking the previous state value)
+
+**Thoughts**
+- I believe, someday soon, everything will make more sense and I can play with them.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday

@@ -1,39 +1,40 @@
-import React, { useState, useRef, useEffect } from 'react';
-
-function DayRotator() {
-  const [day, setDay] = useState('Monday');
-  const changeDay = () => {
-    if (day === 'Monday') setDay('Tuesday');
-    if (day === 'Tuesday') setDay('Wednesday');
-    if (day === 'Wednesday') setDay('Thursday');
-    if (day === 'Thursday') setDay('Friday');
-    if (day === 'Friday') setDay('Saturday');
-    if (day === 'Saturday') setDay('Sunday');
-    if (day === 'Sunday') setDay('Monday');
-  };
-
-  let prevDay = getPrevDay(day);
-
-  function getPrevDay(val) {
-    let ref = useRef();
-    console.log('Step 1');
-
-    useEffect(() => {
-      ref.current = val;
-      console.log('Step 3');
-    }, [val]);
-    console.log('Step 2');
-    return ref.current;
+import { useState, useEffect, useRef } from "react";
+export default function App() {
+  const [day, setDay] = useState("Monday");
+  const prevDay = usePrevious(day);
+  const getNextDay = () => {
+    if (day === "Monday") {
+      setDay("Tuesday")
+    } else if (day === "Tuesday") {
+      setDay("Wednesday")
+    } else if (day === "Wednesday") {
+      setDay("Thursday")
+    } else if (day === "Thursday") {
+      setDay("Friday")
+    } else if (day === "Friday") {
+      setDay("Monday")
+    }
   }
-
   return (
-    <div>
-      <h1>Weekly challenge</h1>
-      <p>Today is: {day} </p>
-      {prevDay && <p>Previous work day was: {prevDay}</p>}
-      <button onClick={changeDay}>Next</button>
+    <div style={{padding: "40px"}}>
+      <h1>
+        Today is: {day}<br />
+        {
+          prevDay && (
+            <span>Previous work day was: {prevDay}</span>
+          )
+        }
+      </h1>
+      <button onClick={getNextDay}>
+        Get next day
+      </button>
     </div>
   );
 }
-
-export default DayRotator;
+function usePrevious(val) {
+  const ref = useRef();
+  useEffect(() => {
+    ref.current = val;
+  }, [val]);
+  return ref.current;
+}
