@@ -1389,6 +1389,22 @@ Don't be afraid of delving into your curiosity of HTML, CSS, and JavaScript! Div
 **Thoughts**
 - I believe, someday soon, everything will make more sense and I can play with them.
 
+---
+
+### Day 67: January 1, Sunday
+
+**Today's Progress**
+Contents I reviewed:
+
+- **component composition**: component composition is about how to compose a component in a certain pattern to meet specific needs (reusable code, code readablity, etc.). For example, we can create a component in patterns like simple components, container components, higher-order Components, or passing components as props or context.
+
+- Virtual DOM: In ReactJS, for every DOM object, there will be a corresponding in-memory copy created. This copy is called the Virtual DOM(VDOM). In the Virtual DOM tree, each element is represented by a node. A new Virtual DOM tree will be created whenever the element's state changes. The ReactJS's diffing algorithm will compare the current Virtual DOM tree with its previous version. Finally, the VIrtual DOM uses the algorithm to update the actual DOM with the diff.
+
+- Reconciliation: the mechanism to **diff** one tree (a copy of original DOM, the existing virtual DOM) with another (a new virtual DOM) to determine which parts need to be changed and update the original DOM. 
+
+**Thoughts**
+- It's so satisfying to grasp the mechanisms of React one by one! I will continue balancing learning new concent an reviewing what I've learned.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
