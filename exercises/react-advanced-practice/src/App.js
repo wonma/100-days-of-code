@@ -9,6 +9,8 @@ import DayRotator from './DayRotator';
 import CursorTracker1 from './CursorTracker1';
 import CursorTracker2 from './CursorTracker2';
 import DayRotator2 from './DayRotator2';
+import MealTypeRadioGroup from './MealTypeRadioGroup';
+import LoginOrSignUp from './LoginOrSignUp';
 // import FeedbackForm from './FeedbackForm';
 // import SignInForm from './SignInForm';
 // import ReversTodos from './ReverseTodos';
@@ -32,8 +34,10 @@ function App() {
       <FocusOnInput />
       <DayRotator />
       <CursorTracker1 />
-      <CursorTracker2 />*/}
+      <CursorTracker2 />
       <DayRotator2 />
+      <MealTypeRadioGroup />*/}
+      <LoginOrSignUp />
     </div>
   );
 }

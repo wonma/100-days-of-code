@@ -1405,6 +1405,20 @@ Contents I reviewed:
 **Thoughts**
 - It's so satisfying to grasp the mechanisms of React one by one! I will continue balancing learning new concent an reviewing what I've learned.
 
+---
+
+### Day 68: January 2, Monday
+
+**Today's Progress**
+Contents I reviewed:
+- Code Exercise: Create a reusable 'RadioGroup' component and make it concise with 'React.Children' and 'React.cloneElement' APIs.
+- The practical usage of spread operator for forwarding props easily.
+
+Also started the React Native course on Coursera!   
+
+**Thoughts**
+While listening to other female software engineers interview, I felt a bit frustrated since they seemed like they already have a profound, working knowledge and experiences in the field. Well, yes. I accidentally compared myself to them. However, when I started this journey, I did this not to compete against other developers or be the leader of this field. I simply chose to start this because my brain wants this type of work and I genuinely feel extremely happy with the progress I make little by little. Additionally, I have a mission too. Whenever this negative comparision to others happens, remind yourself of this question that made the Yusu Sunim (the student of Pomnyun Sunim), let go of everything before becoming a monk in Jungto Society. **"Can you just type for the rest of your life without doing anything else until you die?"**
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
