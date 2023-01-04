@@ -1419,6 +1419,25 @@ Also started the React Native course on Coursera!
 **Thoughts**
 While listening to other female software engineers interview, I felt a bit frustrated since they seemed like they already have a profound, working knowledge and experiences in the field. Well, yes. I accidentally compared myself to them. However, when I started this journey, I did this not to compete against other developers or be the leader of this field. I simply chose to start this because my brain wants this type of work and I genuinely feel extremely happy with the progress I make little by little. Additionally, I have a mission too. Whenever this negative comparision to others happens, remind yourself of this question that made the Yusu Sunim (the student of Pomnyun Sunim), let go of everything before becoming a monk in Jungto Society. **"Can you just type for the rest of your life without doing anything else until you die?"**
 
+---
+
+### Day 69: January 3, Tuesday
+
+**Today's Progress**
+Reviewed the benefits of using hooks and how useState hook works.
+- Code Exercise: Simple Goal Tracker using useState and useRef.
+
+React Native course
+- Learned the benefits of learning a cross-platform development framework, React Native.
+- React Native provides a lot of useful built-in components to build cross-platform mobile apps.
+- Lightly viewed the example of React Native code.
+- Beginners can use Expo to get started. 
+
+**Thoughts**
+I got touched with the advices and mindset that one of the Meta engineers showed. 
+- **To practice communication is very important.**: This makes me feel more motivated to get into the field as soon as possible rather than keep building technical knowledge.
+- **My biggest joy in being a cross-platform developer is when we actually ship products to people and make a difference in people's lives. .. It feels so good when the product is in somebody's hands and they're using it and you get some feedback such as 'hey this helped me learn some subject material I was struggling with. This helped me figure out how to do this.' You can help people out.**
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
