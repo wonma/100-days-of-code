@@ -63,7 +63,7 @@ function GoalTracker() {
   return (
     <div>
       <h1>Little Lemon Goals</h1>
-      <GoalForm goalList={goalList} handleListUpdate={handleListUpdate} />
+      <GoalForm handleListUpdate={handleListUpdate} />
       <GoalList goalList={goalList} />
     </div>
   );

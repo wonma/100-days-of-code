@@ -1438,6 +1438,18 @@ I got touched with the advices and mindset that one of the Meta engineers showed
 - **To practice communication is very important.**: This makes me feel more motivated to get into the field as soon as possible rather than keep building technical knowledge.
 - **My biggest joy in being a cross-platform developer is when we actually ship products to people and make a difference in people's lives. .. It feels so good when the product is in somebody's hands and they're using it and you get some feedback such as 'hey this helped me learn some subject material I was struggling with. This helped me figure out how to do this.' You can help people out.**
 
+---
+
+### Day 70: January 4, Wednesday
+
+**Today's Progress**
+Reviewed JavaScript Basics. (multi-dimensional arrays, array mutable methods)
+- Code Exercise: Abstracted the GoalTracker2 code.
+
+**Thoughts**
+I felt a bit overwhelmed when I was performing abstraction to my code, because I wasn't sure if I'm making things more complicated.
+However, I think with continuous practice, I'll be able to get seasoned with abstracting components into smaller pieces. Just keep trying even though my trial doesn't make sense at first!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
