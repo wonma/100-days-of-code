@@ -1450,6 +1450,17 @@ Reviewed JavaScript Basics. (multi-dimensional arrays, array mutable methods)
 I felt a bit overwhelmed when I was performing abstraction to my code, because I wasn't sure if I'm making things more complicated.
 However, I think with continuous practice, I'll be able to get seasoned with abstracting components into smaller pieces. Just keep trying even though my trial doesn't make sense at first!
 
+---
+
+### Day 71: January 5, Thursday
+
+**Today's Progress**
+Initialized Capstone project by creating a local and remote repository for the project 'little-lemon'.
+
+**Thoughts**
+Even initializing a project is much easier now since I have gone through trials and errors before.
+I'm so excited to get this new exercise project started!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
