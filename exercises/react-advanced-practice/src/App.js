@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import CouponRedeem2 from './CouponRedeem2';
 // import GoalTracker from './GoalTracker';
 // import CouponRedeem from './CouponRedeem';
 // import IncomeExpenseTracker from './IncomeExpenseTracker';
@@ -38,8 +39,9 @@ function App() {
       <CursorTracker2 />
       <DayRotator2 />
       <MealTypeRadioGroup />
-      <LoginOrSignUp />*/}
-      <GoalTracker2 />
+      <LoginOrSignUp />
+      <GoalTracker2 />*/}
+      <CouponRedeem2 />
     </div>
   );
 }
