@@ -1461,6 +1461,18 @@ Initialized Capstone project by creating a local and remote repository for the p
 Even initializing a project is much easier now since I have gone through trials and errors before.
 I'm so excited to get this new exercise project started!
 
+---
+
+### Day 72: January 6, Friday
+
+**Today's Progress**
+Implemented Coupon Redeeming functionality with the use of prevState object in useState hook.
+Reviewed what side effects are (reviewing useEffect)
+
+**Thoughts**
+Trying to build a habit that when I don't understand something clearly, make a note and make sure I try understanding it again in the future.
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
