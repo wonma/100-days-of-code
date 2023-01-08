@@ -1461,6 +1461,31 @@ Initialized Capstone project by creating a local and remote repository for the p
 Even initializing a project is much easier now since I have gone through trials and errors before.
 I'm so excited to get this new exercise project started!
 
+---
+
+### Day 72: January 6, Friday
+
+**Today's Progress**
+Implemented Coupon Redeeming functionality with the use of prevState object in useState hook.
+Reviewed what side effects are (reviewing useEffect)
+
+**Thoughts**
+Trying to build a habit that when I don't understand something clearly, make a note and make sure I try understanding it again in the future.
+
+---
+
+### Day 73: January 7, Saturday
+
+**Today's Progress**
+Used the useEffect hook to update the text of the browser tab (as practice of performing side effect property)
+Reviewed some basic concepts of JavaScript (FreeCodeCamp): 
+- Global vs. Local scope: This concept of scope is about whether a variable is declared within a function or outside of a function. 
+- Implicit global variable (should be avoided): If a variable is declared without any keyword, it will be implicitly declared in the global scope and be accessible with a property of the globalThis object. This results in unintended consequences!
+
+**Thoughts**
+Consolidating the foundational concepts of JavaScript and React might feel tedious but every time I review the content I already studied, I get to see something new and feels I really get it to the extent I can explain the concept to someone who doesn't know JavaScript! As long as I don't give up, I believe everything will come together in the end and I'll be able to function as a valuable asset in the company I work for (so exciting)!
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday

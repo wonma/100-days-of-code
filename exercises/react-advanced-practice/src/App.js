@@ -19,6 +19,7 @@ import CouponRedeem2 from './CouponRedeem2';
 // import SimpleBlog from './SimpleBlog';
 // import ThemeSwitcher from './ThemeSwitcher';
 import GoalTracker2 from './GoalTracker2';
+import UpdateTitle from './UpdateTitle';
 
 function App() {
   return (
@@ -40,8 +41,9 @@ function App() {
       <DayRotator2 />
       <MealTypeRadioGroup />
       <LoginOrSignUp />
-      <GoalTracker2 />*/}
-      <CouponRedeem2 />
+      <GoalTracker2 />
+      <CouponRedeem2 />*/}
+      <UpdateTitle />
     </div>
   );
 }
