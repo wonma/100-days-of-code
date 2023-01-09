@@ -1472,7 +1472,6 @@ Reviewed what side effects are (reviewing useEffect)
 **Thoughts**
 Trying to build a habit that when I don't understand something clearly, make a note and make sure I try understanding it again in the future.
 
-<<<<<<< HEAD
 ---
 
 ### Day 73: January 7, Saturday
@@ -1486,8 +1485,16 @@ Reviewed some basic concepts of JavaScript (FreeCodeCamp):
 **Thoughts**
 Consolidating the foundational concepts of JavaScript and React might feel tedious but every time I review the content I already studied, I get to see something new and feels I really get it to the extent I can explain the concept to someone who doesn't know JavaScript! As long as I don't give up, I believe everything will come together in the end and I'll be able to function as a valuable asset in the company I work for (so exciting)!
 
-=======
->>>>>>> 44cfe59908a64ffa6fa6fd3a55cd5a4d04669e2c
+---
+
+### Day 74: January 8, Sunday
+**Today's Progress**
+Reviewed how to use fetch API in React
+- Code example: Displaying a user's profile fetched from an external API
+- Learned how to check if an object is empty using 'Object.keys()'method.
+
+**Thoughts**
+Although it is a slow process, I definitely feel more and more confident in understanding the basic concepts. I love learning JavaScript!!!
 
 <!--
 

@@ -20,6 +20,7 @@ import CouponRedeem2 from './CouponRedeem2';
 // import ThemeSwitcher from './ThemeSwitcher';
 import GoalTracker2 from './GoalTracker2';
 import UpdateTitle from './UpdateTitle';
+import LoadUserProfile2 from './LoadUserProfile2';
 
 function App() {
   return (
@@ -42,8 +43,9 @@ function App() {
       <MealTypeRadioGroup />
       <LoginOrSignUp />
       <GoalTracker2 />
-      <CouponRedeem2 />*/}
-      <UpdateTitle />
+      <CouponRedeem2 />
+      <UpdateTitle />*/}
+      <LoadUserProfile2 />
     </div>
   );
 }
