@@ -1351,7 +1351,7 @@ So proud that I could implemented this feature fully by my own trials and errors
 **Today's Progress**
 Day8 for React Portfolio Project.
 
-- Fixed styles for forms and cards to apply responsive layout. 
+- Fixed styles for forms and cards to apply responsive layout.
 
 **Thoughts**
 Don't be afraid to not fully grasp all the CSS rules at once!
@@ -1361,22 +1361,25 @@ Don't be afraid to not fully grasp all the CSS rules at once!
 ### Day 64: December 29, Thursday
 
 **Today's Progress**
+
 - Completed the Advanced React course on Coursera!! Congrats Wonmi!
-- Started reviewing the key concepts in React. 
-  - When to use 'prevState' functional updates for setState. 
+- Started reviewing the key concepts in React.
+  - When to use 'prevState' functional updates for setState.
 
 **Thoughts**
-Don't be afraid of delving into your curiosity of HTML, CSS, and JavaScript! Dive into your zone of craziness and nerdiness! It's okay! 
+Don't be afraid of delving into your curiosity of HTML, CSS, and JavaScript! Dive into your zone of craziness and nerdiness! It's okay!
 
 ---
 
 ### Day 65: December 30, Friday
 
 **Today's Progress**
+
 - Reviewed a custom hook with the example of 'useSubmit' hook in the React Portfolio project.
-- Reviewed Promise, async await, and why we should wrap setTimeout with Promise to create a custom asynchronous function. 
+- Reviewed Promise, async await, and why we should wrap setTimeout with Promise to create a custom asynchronous function.
 
 **Thoughts**
+
 - I tried explaning my code verbally. I think this helps grow my confidence as a developer!
 
 ---
@@ -1384,9 +1387,11 @@ Don't be afraid of delving into your curiosity of HTML, CSS, and JavaScript! Div
 ### Day 66: December 31, Saturday
 
 **Today's Progress**
+
 - Reviewed a custom hook and the practical usage of useRef with the example of 'usePrevious' hook. (useRef can be used for tracking the previous state value)
 
 **Thoughts**
+
 - I believe, someday soon, everything will make more sense and I can play with them.
 
 ---
@@ -1400,9 +1405,10 @@ Contents I reviewed:
 
 - Virtual DOM: In ReactJS, for every DOM object, there will be a corresponding in-memory copy created. This copy is called the Virtual DOM(VDOM). In the Virtual DOM tree, each element is represented by a node. A new Virtual DOM tree will be created whenever the element's state changes. The ReactJS's diffing algorithm will compare the current Virtual DOM tree with its previous version. Finally, the VIrtual DOM uses the algorithm to update the actual DOM with the diff.
 
-- Reconciliation: the mechanism to **diff** one tree (a copy of original DOM, the existing virtual DOM) with another (a new virtual DOM) to determine which parts need to be changed and update the original DOM. 
+- Reconciliation: the mechanism to **diff** one tree (a copy of original DOM, the existing virtual DOM) with another (a new virtual DOM) to determine which parts need to be changed and update the original DOM.
 
 **Thoughts**
+
 - It's so satisfying to grasp the mechanisms of React one by one! I will continue balancing learning new concent an reviewing what I've learned.
 
 ---
@@ -1411,10 +1417,11 @@ Contents I reviewed:
 
 **Today's Progress**
 Contents I reviewed:
+
 - Code Exercise: Create a reusable 'RadioGroup' component and make it concise with 'React.Children' and 'React.cloneElement' APIs.
 - The practical usage of spread operator for forwarding props easily.
 
-Also started the React Native course on Coursera!   
+Also started the React Native course on Coursera!
 
 **Thoughts**
 While listening to other female software engineers interview, I felt a bit frustrated since they seemed like they already have a profound, working knowledge and experiences in the field. Well, yes. I accidentally compared myself to them. However, when I started this journey, I did this not to compete against other developers or be the leader of this field. I simply chose to start this because my brain wants this type of work and I genuinely feel extremely happy with the progress I make little by little. Additionally, I have a mission too. Whenever this negative comparision to others happens, remind yourself of this question that made the Yusu Sunim (the student of Pomnyun Sunim), let go of everything before becoming a monk in Jungto Society. **"Can you just type for the rest of your life without doing anything else until you die?"**
@@ -1425,16 +1432,19 @@ While listening to other female software engineers interview, I felt a bit frust
 
 **Today's Progress**
 Reviewed the benefits of using hooks and how useState hook works.
+
 - Code Exercise: Simple Goal Tracker using useState and useRef.
 
 React Native course
+
 - Learned the benefits of learning a cross-platform development framework, React Native.
 - React Native provides a lot of useful built-in components to build cross-platform mobile apps.
 - Lightly viewed the example of React Native code.
-- Beginners can use Expo to get started. 
+- Beginners can use Expo to get started.
 
 **Thoughts**
-I got touched with the advices and mindset that one of the Meta engineers showed. 
+I got touched with the advices and mindset that one of the Meta engineers showed.
+
 - **To practice communication is very important.**: This makes me feel more motivated to get into the field as soon as possible rather than keep building technical knowledge.
 - **My biggest joy in being a cross-platform developer is when we actually ship products to people and make a difference in people's lives. .. It feels so good when the product is in somebody's hands and they're using it and you get some feedback such as 'hey this helped me learn some subject material I was struggling with. This helped me figure out how to do this.' You can help people out.**
 
@@ -1444,6 +1454,7 @@ I got touched with the advices and mindset that one of the Meta engineers showed
 
 **Today's Progress**
 Reviewed JavaScript Basics. (multi-dimensional arrays, array mutable methods)
+
 - Code Exercise: Abstracted the GoalTracker2 code.
 
 **Thoughts**
@@ -1478,8 +1489,9 @@ Trying to build a habit that when I don't understand something clearly, make a n
 
 **Today's Progress**
 Used the useEffect hook to update the text of the browser tab (as practice of performing side effect property)
-Reviewed some basic concepts of JavaScript (FreeCodeCamp): 
-- Global vs. Local scope: This concept of scope is about whether a variable is declared within a function or outside of a function. 
+Reviewed some basic concepts of JavaScript (FreeCodeCamp):
+
+- Global vs. Local scope: This concept of scope is about whether a variable is declared within a function or outside of a function.
 - Implicit global variable (should be avoided): If a variable is declared without any keyword, it will be implicitly declared in the global scope and be accessible with a property of the globalThis object. This results in unintended consequences!
 
 **Thoughts**
@@ -1488,13 +1500,30 @@ Consolidating the foundational concepts of JavaScript and React might feel tedio
 ---
 
 ### Day 74: January 8, Sunday
+
 **Today's Progress**
 Reviewed how to use fetch API in React
+
 - Code example: Displaying a user's profile fetched from an external API
 - Learned how to check if an object is empty using 'Object.keys()'method.
 
 **Thoughts**
 Although it is a slow process, I definitely feel more and more confident in understanding the basic concepts. I love learning JavaScript!!!
+
+---
+
+### Day 75: January 9, Monday
+
+**Today's Progress**
+Reviewed useReducer hook and useContext API.
+
+- useReducer: It is used for managing complex state. The more complex the state data is, the better it is to use the useReducer hook than the regular state. It features the concepts such as 'action object', 'type' property in the action, dispatch function, and reducer function.
+  - Code exercise: IncomeExpenseTracker
+- useContext: It's an alternative way to pass down data into multiple components without prop-drilling. I can wrap the top-level component with Context Provider and pass the values (data) to any child component. It's useful especially when I need to define a global state.
+  - Code exercise: SimpleBlog
+
+**Thoughts**
+It feels great to consolidate all these key React concepts! I cannot wait to build a real-life project with React.
 
 <!--
 

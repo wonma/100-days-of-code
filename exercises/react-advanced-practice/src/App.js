@@ -22,6 +22,7 @@ import GoalTracker2 from './GoalTracker2';
 import UpdateTitle from './UpdateTitle';
 import LoadUserProfile2 from './LoadUserProfile2';
 import IncomeExpenseTracker2 from './IncomeExpenseTracker2';
+import SimpleBlog2 from './SimpleBlog2';
 
 function App() {
   return (
@@ -46,8 +47,9 @@ function App() {
       <GoalTracker2 />
       <CouponRedeem2 />
       <UpdateTitle />
-      <LoadUserProfile2 />*/}
-      <IncomeExpenseTracker2 />
+      <LoadUserProfile2 />
+      <IncomeExpenseTracker2 />*/}
+      <SimpleBlog2 />
     </div>
   );
 }
