@@ -1525,6 +1525,17 @@ Reviewed useReducer hook and useContext API.
 **Thoughts**
 It feels great to consolidate all these key React concepts! I cannot wait to build a real-life project with React.
 
+---
+
+### Day 76: January 10, Tuesday
+
+**Today's Progress**
+- Reviewed useContext and implemented ThemeSwitcher. 
+- Tried to understand React.memo and useMemo hook, when using Context (They both prevent unnecessary top-level re-rendering for performance optimization)
+
+**Thoughts**
+Some concepts are just not really easily grasped at the time you want to grasp, and that's totally fine. Just get used to the structure and the format first and then later on with better examples and at the better timing, you will be able to get it. Sometimes, it's just not the time yet. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday

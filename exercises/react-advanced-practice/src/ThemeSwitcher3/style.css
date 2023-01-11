@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    padding: 0 3em;
+    transition: all .6s;
+}
+
+.wrapper {
+    padding-top: 3em;
+    max-width: 1040px;
+    margin:0 auto;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1em;
+
+}
+
+.switcher {
+    position: relative;
+    flex: 0 1 auto;
+}
+
+.dark-theme {
+    background-color: rgb(54, 47, 47);
+}
+
+.dark-theme h1 {
+    color: #fff;
+}
+
+.dark-theme p {
+    color: #fff;
+}
+
+.switcher label {
+    position: relative;
+    visibility: hidden;
+    display: block;
+    cursor: pointer;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.switcher label::after {
+    visibility: visible;
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 74px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 50px;
+    transition: all .3s;
+}
+
+.switcher label::before {
+    visibility: visible;
+    content: '';
+    display: block;
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 34px;
+    height: 34px;
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 50px;
+    transform: translateX(0);
+    transition: all .3s;
+}
+
+.dark-theme .switcher label::before {
+    transform: translateX(34px);
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+.dark-theme .switcher label::after {
+    border: 1px solid rgb(255, 255, 255);
+}
+
+
+
+.switcher input {
+    display: none;
+}

@@ -23,6 +23,8 @@ import UpdateTitle from './UpdateTitle';
 import LoadUserProfile2 from './LoadUserProfile2';
 import IncomeExpenseTracker2 from './IncomeExpenseTracker2';
 import SimpleBlog2 from './SimpleBlog2';
+import ThemeSwitcher2 from './ThemeSwitcher2';
+import ThemeSwitcher3 from './ThemeSwitcher3';
 
 function App() {
   return (
@@ -48,8 +50,10 @@ function App() {
       <CouponRedeem2 />
       <UpdateTitle />
       <LoadUserProfile2 />
-      <IncomeExpenseTracker2 />*/}
+      <IncomeExpenseTracker2 />
       <SimpleBlog2 />
+      <ThemeSwitcher2 />*/}
+      <ThemeSwitcher3 />
     </div>
   );
 }
