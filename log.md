@@ -1530,11 +1530,30 @@ It feels great to consolidate all these key React concepts! I cannot wait to bui
 ### Day 76: January 10, Tuesday
 
 **Today's Progress**
-- Reviewed useContext and implemented ThemeSwitcher. 
+
+- Reviewed useContext and implemented ThemeSwitcher.
 - Tried to understand React.memo and useMemo hook, when using Context (They both prevent unnecessary top-level re-rendering for performance optimization)
 
 **Thoughts**
-Some concepts are just not really easily grasped at the time you want to grasp, and that's totally fine. Just get used to the structure and the format first and then later on with better examples and at the better timing, you will be able to get it. Sometimes, it's just not the time yet. 
+Some concepts are just not really easily grasped at the time you want to grasp, and that's totally fine. Just get used to the structure and the format first and then later on with better examples and at the better timing, you will be able to get it. Sometimes, it's just not the time yet.
+
+---
+
+### Day 77: January 11, Wednesday
+
+**Today's Progress**
+
+- Reviewed useRef and Higer-Order Component(HOC)
+- Implemented Live Cursor Position Tracker using HOC
+
+**Thoughts**
+I'm constantly getting surprised by the power of reviewing. It really opens up potential and I feel like learning is happening this way.
+
+1. If there's total 5 concepts(A to E), at the first learning cycle, I don't understand C, D, E among them.
+2. In the next cycle, I 'sense' some pattern in C, D. I don't know what E means but at least I 'saw' its existence.
+3. In the 3rd cycle, I 'sense' another point in C, D and starts to feel more curious about learning them.
+4. In the 4th cycle, I get the hang of C, D and start to feel curious about E too.
+5. And this consolidation and discovery repeat.
 
 <!--
 

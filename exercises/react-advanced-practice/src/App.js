@@ -25,6 +25,8 @@ import IncomeExpenseTracker2 from './IncomeExpenseTracker2';
 import SimpleBlog2 from './SimpleBlog2';
 import ThemeSwitcher2 from './ThemeSwitcher2';
 import ThemeSwitcher3 from './ThemeSwitcher3';
+import FocusOnInput2 from './FocusOnInput2';
+import CursorPosition1 from './CursorPosition1';
 
 function App() {
   return (
@@ -52,8 +54,10 @@ function App() {
       <LoadUserProfile2 />
       <IncomeExpenseTracker2 />
       <SimpleBlog2 />
-      <ThemeSwitcher2 />*/}
+      <ThemeSwitcher2 />
       <ThemeSwitcher3 />
+      <FocusOnInput2 />*/}
+      <CursorPosition1 />
     </div>
   );
 }
