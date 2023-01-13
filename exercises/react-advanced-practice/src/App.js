@@ -27,6 +27,8 @@ import ThemeSwitcher2 from './ThemeSwitcher2';
 import ThemeSwitcher3 from './ThemeSwitcher3';
 import FocusOnInput2 from './FocusOnInput2';
 import CursorPosition1 from './CursorPosition1';
+import InventoryDisplay from './InventoryDisplay';
+import CursorPosition2 from './CursorPosition2';
 
 function App() {
   return (
@@ -56,8 +58,10 @@ function App() {
       <SimpleBlog2 />
       <ThemeSwitcher2 />
       <ThemeSwitcher3 />
-      <FocusOnInput2 />*/}
+      <FocusOnInput2 />
       <CursorPosition1 />
+      <InventoryDisplay />*/}
+      <CursorPosition2 />
     </div>
   );
 }

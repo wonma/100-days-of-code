@@ -1555,6 +1555,16 @@ I'm constantly getting surprised by the power of reviewing. It really opens up p
 4. In the 4th cycle, I get the hang of C, D and start to feel curious about E too.
 5. And this consolidation and discovery repeat.
 
+---
+
+### Day 78: January 12, Thursday
+
+**Today's Progress**
+- Reviewed the use of 'render' prop: it helps share the common functionality across multiple components.
+
+**Thoughts**
+I'm so happy to experiene this feeling of 'Oh, I got the hang of it!'. Let's stick to it. Impossible is nothing. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
