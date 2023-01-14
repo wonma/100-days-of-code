@@ -1565,6 +1565,18 @@ I'm constantly getting surprised by the power of reviewing. It really opens up p
 **Thoughts**
 I'm so happy to experiene this feeling of 'Oh, I got the hang of it!'. Let's stick to it. Impossible is nothing. 
 
+---
+
+### Day 79: January 13, Friday
+
+**Today's Progress**
+- Learned React Native Core Components: View, Text, ScrollView
+- Learned how to abstract styles with StyleSheet API in React Native for cleaner code
+- Started reviewing the concept of testing in React
+
+**Thoughts**
+Just do it! That's all!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
