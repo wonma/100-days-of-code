@@ -1577,6 +1577,16 @@ I'm so happy to experiene this feeling of 'Oh, I got the hang of it!'. Let's sti
 **Thoughts**
 Just do it! That's all!
 
+---
+
+### Day 80: January 14, Saturday
+
+**Today's Progress**
+- Learned React Native Core Components: FlatList and SectionList
+
+**Thoughts**
+Enjoy every moment!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
