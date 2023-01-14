@@ -29,6 +29,7 @@ import FocusOnInput2 from './FocusOnInput2';
 import CursorPosition1 from './CursorPosition1';
 import InventoryDisplay from './InventoryDisplay';
 import CursorPosition2 from './CursorPosition2';
+import FeedbackForm2 from './FeedbackForm2';
 
 function App() {
   return (
@@ -60,8 +61,9 @@ function App() {
       <ThemeSwitcher3 />
       <FocusOnInput2 />
       <CursorPosition1 />
-      <InventoryDisplay />*/}
-      <CursorPosition2 />
+      <InventoryDisplay />
+      <CursorPosition2 />*/}
+      <FeedbackForm2 />
     </div>
   );
 }

@@ -1587,6 +1587,17 @@ Just do it! That's all!
 **Thoughts**
 Enjoy every moment!
 
+---
+
+### Day 81: January 14, Saturday (Doing it for Jan 15 in advance)
+
+**Today's Progress**
+- Coded uncontrolled FeedbackForm component (before converting it into the controlled one). 
+  - Learned that I need to use textarea as an element, and datalist to implement the markers for the range bar. 
+
+**Thoughts**
+Let's wrap my life with code! 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
