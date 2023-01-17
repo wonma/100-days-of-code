@@ -1598,6 +1598,18 @@ Enjoy every moment!
 **Thoughts**
 Let's wrap my life with code! 
 
+---
+
+### Day 82: January 16, Monday
+
+**Today's Progress**
+- Finished implementing Feedback form
+- Create a test using JEST and react-testing-library.
+  - Couldn't figure out the reasons some tests that didn't work. (Need to be revisited later) 
+
+**Thoughts**
+Some code practices didn't work but at least I get more used to the concept of creating a suite of tests in React. I should be proud of my persistency!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
