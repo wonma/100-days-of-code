@@ -1610,6 +1610,23 @@ Let's wrap my life with code!
 **Thoughts**
 Some code practices didn't work but at least I get more used to the concept of creating a suite of tests in React. I should be proud of my persistency!
 
+---
+
+### Day 83: January 17, Tuesday
+
+**Today's Progress**
+- Revisited my old UX/UI designer-oriented portfolio website built with WordPress. 
+- Figured out the difference between Netlify (static web app hosting) and DeployHQ (github to server deployment automation).
+- Dived deep into the WordPress custom code, set up the dev environment for streamlined, automated deployment. 
+  - Used wordpress/scripts package to compile files
+  - Converted POSTCSS to SASS
+  - Added the browser sync package for auto reload
+  - Connected local depo to Github, Github to the staging website server on my hostinger account. 
+
+**Thoughts**
+Started to seriously think about how to organize and streamline my portfolio development process. It was something intimidating because I knew I had to dig into the old code. I learned a lesson. Document my projects in a seperate Google Sheet and stay on the top of them without hassle.
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
