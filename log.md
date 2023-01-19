@@ -1626,6 +1626,15 @@ Some code practices didn't work but at least I get more used to the concept of c
 **Thoughts**
 Started to seriously think about how to organize and streamline my portfolio development process. It was something intimidating because I knew I had to dig into the old code. I learned a lesson. Document my projects in a seperate Google Sheet and stay on the top of them without hassle.
 
+---
+
+### Day 84: January 18, Wednesday
+
+**Today's Progress**
+- Did some exercises of Basic JavaScript module on FCC(FreeCodeCamp)
+
+**Thoughts**
+I can do it.
 
 <!--
 
