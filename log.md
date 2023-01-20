@@ -1560,16 +1560,18 @@ I'm constantly getting surprised by the power of reviewing. It really opens up p
 ### Day 78: January 12, Thursday
 
 **Today's Progress**
+
 - Reviewed the use of 'render' prop: it helps share the common functionality across multiple components.
 
 **Thoughts**
-I'm so happy to experiene this feeling of 'Oh, I got the hang of it!'. Let's stick to it. Impossible is nothing. 
+I'm so happy to experiene this feeling of 'Oh, I got the hang of it!'. Let's stick to it. Impossible is nothing.
 
 ---
 
 ### Day 79: January 13, Friday
 
 **Today's Progress**
+
 - Learned React Native Core Components: View, Text, ScrollView
 - Learned how to abstract styles with StyleSheet API in React Native for cleaner code
 - Started reviewing the concept of testing in React
@@ -1582,6 +1584,7 @@ Just do it! That's all!
 ### Day 80: January 14, Saturday
 
 **Today's Progress**
+
 - Learned React Native Core Components: FlatList and SectionList
 
 **Thoughts**
@@ -1592,20 +1595,22 @@ Enjoy every moment!
 ### Day 81: January 14, Saturday (Doing it for Jan 15 in advance)
 
 **Today's Progress**
-- Coded uncontrolled FeedbackForm component (before converting it into the controlled one). 
-  - Learned that I need to use textarea as an element, and datalist to implement the markers for the range bar. 
+
+- Coded uncontrolled FeedbackForm component (before converting it into the controlled one).
+  - Learned that I need to use textarea as an element, and datalist to implement the markers for the range bar.
 
 **Thoughts**
-Let's wrap my life with code! 
+Let's wrap my life with code!
 
 ---
 
 ### Day 82: January 16, Monday
 
 **Today's Progress**
+
 - Finished implementing Feedback form
 - Create a test using JEST and react-testing-library.
-  - Couldn't figure out the reasons some tests that didn't work. (Need to be revisited later) 
+  - Couldn't figure out the reasons some tests that didn't work. (Need to be revisited later)
 
 **Thoughts**
 Some code practices didn't work but at least I get more used to the concept of creating a suite of tests in React. I should be proud of my persistency!
@@ -1615,13 +1620,14 @@ Some code practices didn't work but at least I get more used to the concept of c
 ### Day 83: January 17, Tuesday
 
 **Today's Progress**
-- Revisited my old UX/UI designer-oriented portfolio website built with WordPress. 
+
+- Revisited my old UX/UI designer-oriented portfolio website built with WordPress.
 - Figured out the difference between Netlify (static web app hosting) and DeployHQ (github to server deployment automation).
-- Dived deep into the WordPress custom code, set up the dev environment for streamlined, automated deployment. 
+- Dived deep into the WordPress custom code, set up the dev environment for streamlined, automated deployment.
   - Used wordpress/scripts package to compile files
   - Converted POSTCSS to SASS
   - Added the browser sync package for auto reload
-  - Connected local depo to Github, Github to the staging website server on my hostinger account. 
+  - Connected local depo to Github, Github to the staging website server on my hostinger account.
 
 **Thoughts**
 Started to seriously think about how to organize and streamline my portfolio development process. It was something intimidating because I knew I had to dig into the old code. I learned a lesson. Document my projects in a seperate Google Sheet and stay on the top of them without hassle.
@@ -1631,10 +1637,24 @@ Started to seriously think about how to organize and streamline my portfolio dev
 ### Day 84: January 18, Wednesday
 
 **Today's Progress**
+
 - Did some exercises of Basic JavaScript module on FCC(FreeCodeCamp)
 
 **Thoughts**
 I can do it.
+
+---
+
+### Day 85: January 19, Thursday
+
+**Today's Progress**
+
+- Basic JavaScript module on FCC(FreeCodeCamp)
+  - Understanding the cases to use bracket notation for accessing a property of an object.
+  - Understanding the key-value format of object makes it a great option for data lookup (if the properties are within a restricted range).
+
+**Thoughts**
+I'm thankful to be able to learn and prepare to work as a web developer.
 
 <!--
 
