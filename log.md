@@ -1656,6 +1656,20 @@ I can do it.
 **Thoughts**
 I'm thankful to be able to learn and prepare to work as a web developer.
 
+---
+
+### Day 86: January 20, Friday
+
+**Today's Progress**
+
+- Basic JavaScript module on FCC(FreeCodeCamp)
+  - Reviewed three types of loop: while loop, for loop, do while loop
+  - It was interesting to get the product of multiplying all items in the sub arrays in an array, using for loop.
+  - I liked the exercise 'Record Collection'. I think I'll be able to apply this same concept to many use real projects. For example, I can think of a game where there are multiple characters and some of them have certain properties while the others don't, etc. Also each character may have a unique ID, which means the top level of the data structure required is an object type. (The ID works as a key) 
+
+**Thoughts**
+I think I started to build a mental model of 'data structure' naturally. It's so interesting!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
