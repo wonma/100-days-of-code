@@ -1670,6 +1670,17 @@ I'm thankful to be able to learn and prepare to work as a web developer.
 **Thoughts**
 I think I started to build a mental model of 'data structure' naturally. It's so interesting!
 
+---
+
+### Day 87: January 21, Saturday
+
+**Today's Progress**
+
+- Worked on code exercises: Sign-up Form without Formik
+
+**Thoughts**
+Getting more confident with the world of form creation!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday

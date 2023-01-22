@@ -30,6 +30,7 @@ import CursorPosition1 from './CursorPosition1';
 import InventoryDisplay from './InventoryDisplay';
 import CursorPosition2 from './CursorPosition2';
 import FeedbackForm2 from './FeedbackForm2';
+import SignupForm from './SignupForm';
 
 function App() {
   return (
@@ -62,8 +63,9 @@ function App() {
       <FocusOnInput2 />
       <CursorPosition1 />
       <InventoryDisplay />
-      <CursorPosition2 />*/}
-      <FeedbackForm2 />
+      <CursorPosition2 />
+      <FeedbackForm2 />*/}
+      <SignupForm />
     </div>
   );
 }
