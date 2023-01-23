@@ -1681,6 +1681,19 @@ I think I started to build a mental model of 'data structure' naturally. It's so
 **Thoughts**
 Getting more confident with the world of form creation!
 
+---
+
+### Day 88: January 22, Sunday
+
+**Today's Progress**
+
+- Finished implementing Sign-up Form without Formik
+  - **New** I added a feature that validates the password and shows the status on the fly. To do so, I created a custom hook that includes useState and imported the related states and functions to the form component. Yay! 
+  - **New** On the course of achieving the password validating feature, I started to get my foot into the world of regular expressions. 
+
+**Thoughts**
+Still feel like it's a slow progress, but I definitely feel like 'I' am actively coding with my own logic and acquired tools, rather than just following lectures and instructions. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
