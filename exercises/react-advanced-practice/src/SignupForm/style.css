@@ -32,3 +32,30 @@ select {
 h1 {
     margin-bottom: 20px;
 }
+
+.Error {
+    font-size: .8em;
+    /* color: red; */
+}
+
+.Field sup {
+    color: red;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(0, 0, 192);
+
+}
+
+button[disabled]{
+    background-color: rgb(113, 113, 113);
+}
