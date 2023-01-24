@@ -1694,6 +1694,18 @@ Getting more confident with the world of form creation!
 **Thoughts**
 Still feel like it's a slow progress, but I definitely feel like 'I' am actively coding with my own logic and acquired tools, rather than just following lectures and instructions. 
 
+---
+
+### Day 89: January 23, Monday
+
+**Today's Progress**
+
+- Reviewed the structure of React portfolio app project.
+- Learned the basic concept of recursion (Replacing a loop with recursion) in FCC.
+
+**Thoughts**
+Didn't feel like I have much mental energy today. I should think about how I can improve my physical energy to enjoy coding for a long time in my life!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
