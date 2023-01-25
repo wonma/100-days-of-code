@@ -1706,6 +1706,18 @@ Still feel like it's a slow progress, but I definitely feel like 'I' am actively
 **Thoughts**
 Didn't feel like I have much mental energy today. I should think about how I can improve my physical energy to enjoy coding for a long time in my life!
 
+---
+
+### Day 90: January 24, Tuesday
+
+**Today's Progress**
+
+- Reviewed Header component of React portfolio 1 project. 
+- Planned what features to experiment for my next project, React portfolio 2. 
+
+**Thoughts**
+I felt like planning features to implement and how to implement each of element's structure would be one of the important skills that I have to improve. I felt like a working developer rather than just a learner. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
