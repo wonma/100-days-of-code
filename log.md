@@ -1718,6 +1718,19 @@ Didn't feel like I have much mental energy today. I should think about how I can
 **Thoughts**
 I felt like planning features to implement and how to implement each of element's structure would be one of the important skills that I have to improve. I felt like a working developer rather than just a learner. 
 
+---
+
+### Day 91: January 25, Wednesday
+
+**Today's Progress**
+
+- Practiced recursion.
+- Finished the first module, 'Basic JavaScript' of 'JavaScript Algorithms and Data Structures' certificate course.
+  [See my progress in FreeCodeCamp](https://www.freecodecamp.org/wonmi)
+
+**Thoughts**
+It was not a fast pace, but I finally completed the first module! I'm so proud of myself. I really enjoyed the learning so far.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
@@ -1731,4 +1744,4 @@ I felt like planning features to implement and how to implement each of element'
   ![User Profile Loader](./exercises/gifs/exercise-load-user.gif)
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --> -->
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --> 
