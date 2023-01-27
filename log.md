@@ -1731,6 +1731,20 @@ I felt like planning features to implement and how to implement each of element'
 **Thoughts**
 It was not a fast pace, but I finally completed the first module! I'm so proud of myself. I really enjoyed the learning so far.
 
+---
+
+### Day 92: January 26, Thursday
+
+**Today's Progress**
+
+- Started the second module, 'ES6' of 'JavaScript Algorithms and Data Structures' certificate course.
+  [See my progress in FreeCodeCamp](https://www.freecodecamp.org/wonmi)
+
+- It was interesting to be reminded that objects are mutable, so to prevent data mutation, we need to use 'Object.freeze()'
+
+**Thoughts**
+I'm learning basic concepts and it's stil a valide learning process, but I feel a big need to actually work on a project every day. I need to revisit my priorities and strategies again.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
