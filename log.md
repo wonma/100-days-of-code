@@ -1745,6 +1745,17 @@ It was not a fast pace, but I finally completed the first module! I'm so proud o
 **Thoughts**
 I'm learning basic concepts and it's stil a valide learning process, but I feel a big need to actually work on a project every day. I need to revisit my priorities and strategies again.
 
+---
+
+### Day 93: January 27, Friday
+
+**Today's Progress**
+
+- To put yesterday's reflection into actions, I decided to work on the portfolio website progressively as I spend time honing the key concepts of JavaScript and React.  
+
+**Thoughts**
+It's great to run into real-projet based problems!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
