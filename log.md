@@ -1756,6 +1756,20 @@ I'm learning basic concepts and it's stil a valide learning process, but I feel 
 **Thoughts**
 It's great to run into real-projet based problems!
 
+---
+
+### Day 94: January 28, Saturday
+
+**Today's Progress**
+
+- Worked on my portfolio website
+  - Cleaned up the markup in front-page.php and navigation SCSS module.
+
+**Thoughts**
+I realied I get so happy when I'm working on the real project! :D
+Let's keep believing in myself and continue, no matter what! 
+I love this journey of becoming a front-end developer!!!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
