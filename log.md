@@ -1770,6 +1770,23 @@ I realied I get so happy when I'm working on the real project! :D
 Let's keep believing in myself and continue, no matter what! 
 I love this journey of becoming a front-end developer!!!
 
+---
+
+### Day 95: January 29, Sunday
+
+**Today's Progress**
+
+- Started: Rebuilding 'Trillo' Advanced CSS Project
+  - Set up dev environment with Webpack for SCSS compiling and Hot Module Replacement. 
+  - Learned how to style header and sidebar using Flexbox
+    - **NEW** custom CSS variable
+    - **New** fill:currentColor
+    - **New** Using svg sprite for icons
+    - **New** Using transition delay to implement step-by-step property animation
+
+**Thoughts**
+It was such a wonderful dev Sunday!😊 There were two big achievements: Understanding webpack dev mode configuration for SASS and starting to rebuild the advanced CSS projects! 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
