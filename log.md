@@ -1787,6 +1787,17 @@ I love this journey of becoming a front-end developer!!!
 **Thoughts**
 It was such a wonderful dev Sunday!😊 There were two big achievements: Understanding webpack dev mode configuration for SASS and starting to rebuild the advanced CSS projects! 
 
+---
+
+### Day 96: January 30, Monday
+
+**Today's Progress**
+
+- In Progress: Rebuilding 'Trillo' Advanced CSS Project
+
+**Thoughts**
+Omg.. I love CSS. I'm so thankful that I met this course by Jonas and made a decision to review it after 4 years. :)
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
