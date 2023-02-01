@@ -1798,6 +1798,17 @@ It was such a wonderful dev Sunday!😊 There were two big achievements: Underst
 **Thoughts**
 Omg.. I love CSS. I'm so thankful that I met this course by Jonas and made a decision to review it after 4 years. :)
 
+---
+
+### Day 97: January 31, Tuesday
+
+**Today's Progress**
+
+- Worked on the final assignment of Principle of UX/UI course (part of Meta front-end specialization certificate series)
+
+**Thoughts**
+It's a slow progress but I see that everything I've known so far is all coming together. Let's keep enjoying this journey!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
