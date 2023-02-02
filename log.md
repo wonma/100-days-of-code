@@ -1809,6 +1809,17 @@ Omg.. I love CSS. I'm so thankful that I met this course by Jonas and made a dec
 **Thoughts**
 It's a slow progress but I see that everything I've known so far is all coming together. Let's keep enjoying this journey!
 
+---
+
+### Day 98: February 1, Wednesday
+
+**Today's Progress**
+
+- Worked on the Trillo CSS project. 70% has been done.
+
+**Thoughts**
+I've developed more practical knowledge of how to organize components in HTML/CSS. It feels great to be able to mark up in the BEM style with some confidence.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
