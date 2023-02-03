@@ -1820,6 +1820,19 @@ It's a slow progress but I see that everything I've known so far is all coming t
 **Thoughts**
 I've developed more practical knowledge of how to organize components in HTML/CSS. It feels great to be able to mark up in the BEM style with some confidence.
 
+---
+
+### Day 99: February 2, Thursday
+
+**Today's Progress**
+
+- Finished the Trillo CSS project. 
+- Configured 'production' mode for webpack and pushed it to Github. Project published successfully!
+
+**Thoughts**
+Even though this is an imaginary case project, I felt a great sense of achievement! I'm now confident implementing SASS, hover effects, CSS variables, flexbox, responsive layout and more importantly how to structure CSS in the BEM approach and organize modular files! Great job, Wonmi!
+[Trillo](https://wonma.github.io/trillo/)
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
