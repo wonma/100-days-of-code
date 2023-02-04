@@ -1833,6 +1833,17 @@ I've developed more practical knowledge of how to organize components in HTML/CS
 Even though this is an imaginary case project, I felt a great sense of achievement! I'm now confident implementing SASS, hover effects, CSS variables, flexbox, responsive layout and more importantly how to structure CSS in the BEM approach and organize modular files! Great job, Wonmi!
 [Trillo](https://wonma.github.io/trillo/)
 
+---
+
+### Day 100: February 3, Friday
+
+**Today's Progress**
+
+- Started the 'Natour' advanced CSS project.
+
+**Thoughts**
+Slow but steady. First time making a 100-day mark! Congratulations! Let's continue enjoying the coding journey.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
