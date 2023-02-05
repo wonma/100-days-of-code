@@ -1844,6 +1844,22 @@ Even though this is an imaginary case project, I felt a great sense of achieveme
 **Thoughts**
 Slow but steady. First time making a 100-day mark! Congratulations! Let's continue enjoying the coding journey.
 
+---
+
+### Day 101: February 4, Saturday
+
+**Today's Progress**
+
+- Initiated the 'Natour' advanced CSS project.
+- Learned how to create responsive layout using the float property (old way) to support the old browsers.
+  - Learned how **attribute selectors** can be beneficial to avoid redundant class markups. 
+  - Learned how **:last-child** and **:last-of-type** are different and how to use it when creating the float grid system with CSS.
+  - Practiced SASS: **variables, calc function, mixin, nesting**. So cool!
+
+**Thoughts**
+I'm a happy coding practitioner. :)
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
