@@ -1859,6 +1859,18 @@ Slow but steady. First time making a 100-day mark! Congratulations! Let's contin
 **Thoughts**
 I'm a happy coding practitioner. :)
 
+---
+
+### Day 102: February 5, Sunday
+
+**Today's Progress**
+
+- Working on header part of the Natours project. (70% completed)
+[Natours](https://wonma.github.io/natours/)
+
+**Thoughts**
+I'm a happy coding practitioner. :)
+
 
 <!--
 
