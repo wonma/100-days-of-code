@@ -1871,6 +1871,16 @@ I'm a happy coding practitioner. :)
 **Thoughts**
 I'm a happy coding practitioner. :)
 
+---
+
+### Day 103: February 6, Monday
+
+**Today's Progress**
+
+- Learned how to set up icons using icon fonts.
+
+**Thoughts**
+Don't compare yourself with others. Let's take it easy!
 
 <!--
 
