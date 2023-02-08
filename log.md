@@ -1882,6 +1882,19 @@ I'm a happy coding practitioner. :)
 **Thoughts**
 Don't compare yourself with others. Let's take it easy!
 
+---
+
+### Day 104: February 7, Tuesday
+
+**Today's Progress**
+
+- Built the basic HTML structure for the Little Lemon practice webiste and added meta tags applying OGP(Open Graph Protocol).
+- Styled the top level components.
+- Reviewed CSS Grid. 
+
+**Thoughts**
+- CSS grid has not been my go-to layout tool but, I love what CSS Grid can do! I will definitely enjoy this little journey to master CSS Grid!!! 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
