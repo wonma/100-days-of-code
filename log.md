@@ -1895,6 +1895,20 @@ Don't compare yourself with others. Let's take it easy!
 **Thoughts**
 - CSS grid has not been my go-to layout tool but, I love what CSS Grid can do! I will definitely enjoy this little journey to master CSS Grid!!! 
 
+---
+
+### Day 105: February 8, Wednesday
+
+**Today's Progress**
+
+- Split code into components and modular scss files for the Little Lemon project.
+- Learned how to deploy a static website on Github when working with the create-react-app package.
+[Little Lemon](https://wonma.github.io/little-lemon/)
+
+
+**Thoughts**
+- I really started to think in a component-oriented way. It's a great signal of me becoming a real front-end developer I believe!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
