@@ -1252,7 +1252,7 @@ I understand what it means to simulate user interactions in the test code. I sti
 
 **Today's Progress**
 Day1 for React Portfolio Project.
-![Portfolio Day 1](./exercises/images/portfolio-d1.jpg)
+![Portfolio Day 1](./exercises/screenshots/portfolio-d1.jpg)
 
 - Created FullScreenSection to wrap all the sections.
 - Built the skeleton of the Header, LandingSection, ProjectsSection Components.
@@ -1909,6 +1909,18 @@ Don't compare yourself with others. Let's take it easy!
 **Thoughts**
 - I really started to think in a component-oriented way. It's a great signal of me becoming a real front-end developer I believe!
 
+---
+
+### Day 106: February 9, Thursday
+
+**Today's Progress**
+
+- Created Hero, Specials, Testimonials, and AboutBusiness components.
+![Little Lemon - Today's Progress](./exercises/screenshots/2023-02-09.gif)
+[View Little Lemon Site](https://wonma.github.io/little-lemon/)
+
+**Thoughts**
+- Let's keep it on.
 <!--
 
 <!-- ### Day 1: June 27, Monday
