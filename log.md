@@ -1921,6 +1921,18 @@ Don't compare yourself with others. Let's take it easy!
 
 **Thoughts**
 - Let's keep it on.
+
+---
+
+### Day 107: February 10, Friday
+
+**Today's Progress**
+
+- Coded the basic HTML structure for the form element. Reviewed React reducer function as an substitue of state.
+
+**Thoughts**
+- Let's keep it on.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
