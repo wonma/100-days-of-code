@@ -1933,6 +1933,16 @@ Don't compare yourself with others. Let's take it easy!
 **Thoughts**
 - Let's keep it on.
 
+---
+
+### Day 108: February 11, Saturday
+
+**Today's Progress**
+
+- Implemented useReducer hook to manage the form state for a reserve-a-table function.
+
+**Thoughts**
+- Let's keep it on.
 <!--
 
 <!-- ### Day 1: June 27, Monday
