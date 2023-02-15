@@ -1943,6 +1943,18 @@ Don't compare yourself with others. Let's take it easy!
 
 **Thoughts**
 - Let's keep it on.
+
+---
+
+### Day 108: February 14, Tuesday
+
+**Today's Progress**
+
+- Wrote unit tests for initializeTimes and updateTimes functions for a reserve-a-table feature.
+
+**Thoughts**
+- Every code practice is the practice of staying calm and search for solutions with persistence. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
