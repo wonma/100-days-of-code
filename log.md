@@ -1955,6 +1955,17 @@ Don't compare yourself with others. Let's take it easy!
 **Thoughts**
 - Every code practice is the practice of staying calm and search for solutions with persistence. 
 
+---
+
+### Day 109: February 15, Wednesday
+
+**Today's Progress**
+
+- Little Lemon Project: Connected BookingPage to the fetchAPI and submitAPI.
+
+**Thoughts**
+- I want to learn more about writing unit tests. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
