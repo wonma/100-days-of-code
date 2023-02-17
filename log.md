@@ -1966,6 +1966,17 @@ Don't compare yourself with others. Let's take it easy!
 **Thoughts**
 - I want to learn more about writing unit tests. 
 
+---
+
+### Day 110: February 16, Thursday
+
+**Today's Progress**
+
+- Little Lemon Project: Implemented localStorage and useContext to simulate serving and saving the Bookin data, and use Formik for form validation.
+
+**Thoughts**
+- I love when I'm into the zone!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
