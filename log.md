@@ -1988,6 +1988,18 @@ Don't compare yourself with others. Let's take it easy!
 **Thoughts**
 - Happy to finish the project requirements! However, I still want to improve this app even though it's a practice project. I think it's a good desire to have as a front-end developer!
 
+---
+
+### Day 112: February 18, Saturday
+
+**Today's Progress**
+
+- Learned what a typical job interview is like.
+- Did coding exercises on FreeCodeCamp. 
+
+**Thoughts**
+- It feels intimidating to think about applying for a job and being in the interview, especially technical one. However, I will do my best to prepare for each interview and focus on the growth and the journey itself and will take every step as an opportunity for learning. I'm ready for a new challenge.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
