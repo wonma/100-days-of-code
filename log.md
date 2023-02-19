@@ -1977,6 +1977,17 @@ Don't compare yourself with others. Let's take it easy!
 **Thoughts**
 - I love when I'm into the zone!
 
+---
+
+### Day 111: February 17, Friday
+
+**Today's Progress**
+
+- Completed Little Lemon Project (Round 1): Added unit tests for form validation and wrapped up the project. 
+
+**Thoughts**
+- Happy to finish the project requirements! However, I still want to improve this app even though it's a practice project. I think it's a good desire to have as a front-end developer!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
