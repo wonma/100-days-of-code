@@ -2020,6 +2020,23 @@ Don't compare yourself with others. Let's take it easy!
 **Thoughts**
 - It can be quite intimidiating, but keep calm and learn one by one!
 
+---
+
+### Day 114: February 20, Monday
+
+**Today's Progress**
+
+1. [Coding Interview Preparation]
+Learned about a good practice of designing a solution: Problem statement, Formulating a solution, and Finetuning the solution. 
+- Problem statement: consider as many questions as possible by visualizing how the app is used
+- Formulating a solution: plot out algorithm by outlining steps for the solution (start by writing down general steps)
+- Finetuning the solution: draw a flow chart. Create a precise procedure of how the app will flow under multiple different conditions.
+
+2. Learned about regular expressions. (FreeCodeCamp)
+
+**Thoughts**
+- It is all about developing my problem solving ability! Don't be scared and keep going to get every corner of your skills improved little by little!
+
 
 <!--
 
