@@ -2000,6 +2000,27 @@ Don't compare yourself with others. Let's take it easy!
 **Thoughts**
 - It feels intimidating to think about applying for a job and being in the interview, especially technical one. However, I will do my best to prepare for each interview and focus on the growth and the journey itself and will take every step as an opportunity for learning. I'm ready for a new challenge.
 
+---
+
+### Day 113: February 19, Sunday
+
+**Today's Progress**
+
+- [Coding Interview Preparation]
+  - Each byte consists of 8 bits (a series of ones and zeros).
+  - A bit is the simplest form of computing memory.
+  - CPU handles instrutions and information. 
+  - Memory: Cache memory, Main memory, Secondary memory
+    - Cache memory: stores recently accessed information (CPU checks the cache memory first when it reads some intruction.)
+    - Main memory: ROM and RAM. 
+      - ROM: Read-only memory. Cannot be overwritten. Used when the computer starts and the app is loaded.
+      - RAM: Read-access memory. Programmable. Holds the current data and instructions that are currently in use. It can run a number of apps at once. 
+    - Secondary memory: Cloud storage, external hard drive, memory sticks.
+
+**Thoughts**
+- It can be quite intimidiating, but keep calm and learn one by one!
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
