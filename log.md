@@ -1252,7 +1252,7 @@ I understand what it means to simulate user interactions in the test code. I sti
 
 **Today's Progress**
 Day1 for React Portfolio Project.
-![Portfolio Day 1](./exercises/images/portfolio-d1.jpg)
+![Portfolio Day 1](./exercises/screenshots/portfolio-d1.jpg)
 
 - Created FullScreenSection to wrap all the sections.
 - Built the skeleton of the Header, LandingSection, ProjectsSection Components.
@@ -1694,6 +1694,365 @@ Getting more confident with the world of form creation!
 **Thoughts**
 Still feel like it's a slow progress, but I definitely feel like 'I' am actively coding with my own logic and acquired tools, rather than just following lectures and instructions. 
 
+---
+
+### Day 89: January 23, Monday
+
+**Today's Progress**
+
+- Reviewed the structure of React portfolio app project.
+- Learned the basic concept of recursion (Replacing a loop with recursion) in FCC.
+
+**Thoughts**
+Didn't feel like I have much mental energy today. I should think about how I can improve my physical energy to enjoy coding for a long time in my life!
+
+---
+
+### Day 90: January 24, Tuesday
+
+**Today's Progress**
+
+- Reviewed Header component of React portfolio 1 project. 
+- Planned what features to experiment for my next project, React portfolio 2. 
+
+**Thoughts**
+I felt like planning features to implement and how to implement each of element's structure would be one of the important skills that I have to improve. I felt like a working developer rather than just a learner. 
+
+---
+
+### Day 91: January 25, Wednesday
+
+**Today's Progress**
+
+- Practiced recursion.
+- Finished the first module, 'Basic JavaScript' of 'JavaScript Algorithms and Data Structures' certificate course.
+  [See my progress in FreeCodeCamp](https://www.freecodecamp.org/wonmi)
+
+**Thoughts**
+It was not a fast pace, but I finally completed the first module! I'm so proud of myself. I really enjoyed the learning so far.
+
+---
+
+### Day 92: January 26, Thursday
+
+**Today's Progress**
+
+- Started the second module, 'ES6' of 'JavaScript Algorithms and Data Structures' certificate course.
+  [See my progress in FreeCodeCamp](https://www.freecodecamp.org/wonmi)
+
+- It was interesting to be reminded that objects are mutable, so to prevent data mutation, we need to use 'Object.freeze()'
+
+**Thoughts**
+I'm learning basic concepts and it's stil a valide learning process, but I feel a big need to actually work on a project every day. I need to revisit my priorities and strategies again.
+
+---
+
+### Day 93: January 27, Friday
+
+**Today's Progress**
+
+- To put yesterday's reflection into actions, I decided to work on the portfolio website progressively as I spend time honing the key concepts of JavaScript and React.  
+
+**Thoughts**
+It's great to run into real-projet based problems!
+
+---
+
+### Day 94: January 28, Saturday
+
+**Today's Progress**
+
+- Worked on my portfolio website
+  - Cleaned up the markup in front-page.php and navigation SCSS module.
+
+**Thoughts**
+I realied I get so happy when I'm working on the real project! :D
+Let's keep believing in myself and continue, no matter what! 
+I love this journey of becoming a front-end developer!!!
+
+---
+
+### Day 95: January 29, Sunday
+
+**Today's Progress**
+
+- Started: Rebuilding 'Trillo' Advanced CSS Project
+  - Set up dev environment with Webpack for SCSS compiling and Hot Module Replacement. 
+  - Learned how to style header and sidebar using Flexbox
+    - **NEW** custom CSS variable
+    - **New** fill:currentColor
+    - **New** Using svg sprite for icons
+    - **New** Using transition delay to implement step-by-step property animation
+
+**Thoughts**
+It was such a wonderful dev Sunday!😊 There were two big achievements: Understanding webpack dev mode configuration for SASS and starting to rebuild the advanced CSS projects! 
+
+---
+
+### Day 96: January 30, Monday
+
+**Today's Progress**
+
+- In Progress: Rebuilding 'Trillo' Advanced CSS Project
+
+**Thoughts**
+Omg.. I love CSS. I'm so thankful that I met this course by Jonas and made a decision to review it after 4 years. :)
+
+---
+
+### Day 97: January 31, Tuesday
+
+**Today's Progress**
+
+- Worked on the final assignment of Principle of UX/UI course (part of Meta front-end specialization certificate series)
+
+**Thoughts**
+It's a slow progress but I see that everything I've known so far is all coming together. Let's keep enjoying this journey!
+
+---
+
+### Day 98: February 1, Wednesday
+
+**Today's Progress**
+
+- Worked on the Trillo CSS project. 70% has been done.
+
+**Thoughts**
+I've developed more practical knowledge of how to organize components in HTML/CSS. It feels great to be able to mark up in the BEM style with some confidence.
+
+---
+
+### Day 99: February 2, Thursday
+
+**Today's Progress**
+
+- Finished the Trillo CSS project. 
+- Configured 'production' mode for webpack and pushed it to Github. Project published successfully!
+
+**Thoughts**
+Even though this is an imaginary case project, I felt a great sense of achievement! I'm now confident implementing SASS, hover effects, CSS variables, flexbox, responsive layout and more importantly how to structure CSS in the BEM approach and organize modular files! Great job, Wonmi!
+[Trillo](https://wonma.github.io/trillo/)
+
+---
+
+### Day 100: February 3, Friday
+
+**Today's Progress**
+
+- Started the 'Natour' advanced CSS project.
+
+**Thoughts**
+Slow but steady. First time making a 100-day mark! Congratulations! Let's continue enjoying the coding journey.
+
+---
+
+### Day 101: February 4, Saturday
+
+**Today's Progress**
+
+- Initiated the 'Natour' advanced CSS project.
+- Learned how to create responsive layout using the float property (old way) to support the old browsers.
+  - Learned how **attribute selectors** can be beneficial to avoid redundant class markups. 
+  - Learned how **:last-child** and **:last-of-type** are different and how to use it when creating the float grid system with CSS.
+  - Practiced SASS: **variables, calc function, mixin, nesting**. So cool!
+
+**Thoughts**
+I'm a happy coding practitioner. :)
+
+---
+
+### Day 102: February 5, Sunday
+
+**Today's Progress**
+
+- Working on header part of the Natours project. (70% completed)
+[Natours](https://wonma.github.io/natours/)
+
+**Thoughts**
+I'm a happy coding practitioner. :)
+
+---
+
+### Day 103: February 6, Monday
+
+**Today's Progress**
+
+- Learned how to set up icons using icon fonts.
+
+**Thoughts**
+Don't compare yourself with others. Let's take it easy!
+
+---
+
+### Day 104: February 7, Tuesday
+
+**Today's Progress**
+
+- Built the basic HTML structure for the Little Lemon practice webiste and added meta tags applying OGP(Open Graph Protocol).
+- Styled the top level components.
+- Reviewed CSS Grid. 
+
+**Thoughts**
+- CSS grid has not been my go-to layout tool but, I love what CSS Grid can do! I will definitely enjoy this little journey to master CSS Grid!!! 
+
+---
+
+### Day 105: February 8, Wednesday
+
+**Today's Progress**
+
+- Split code into components and modular scss files for the Little Lemon project.
+- Learned how to deploy a static website on Github when working with the create-react-app package.
+[Little Lemon](https://wonma.github.io/little-lemon/)
+
+
+**Thoughts**
+- I really started to think in a component-oriented way. It's a great signal of me becoming a real front-end developer I believe!
+
+---
+
+### Day 106: February 9, Thursday
+
+**Today's Progress**
+
+- Created Hero, Specials, Testimonials, and AboutBusiness components.
+![Little Lemon - Today's Progress](./exercises/screenshots/2023-02-09.gif)
+[View Little Lemon Site](https://wonma.github.io/little-lemon/)
+
+**Thoughts**
+- Let's keep it on.
+
+---
+
+### Day 107: February 10, Friday
+
+**Today's Progress**
+
+- Coded the basic HTML structure for the form element. Reviewed React reducer function as an substitue of state.
+
+**Thoughts**
+- Let's keep it on.
+
+---
+
+### Day 108: February 11, Saturday
+
+**Today's Progress**
+
+- Implemented useReducer hook to manage the form state for a reserve-a-table function.
+
+**Thoughts**
+- Let's keep it on.
+
+---
+
+### Day 108: February 14, Tuesday
+
+**Today's Progress**
+
+- Wrote unit tests for initializeTimes and updateTimes functions for a reserve-a-table feature.
+
+**Thoughts**
+- Every code practice is the practice of staying calm and search for solutions with persistence. 
+
+---
+
+### Day 109: February 15, Wednesday
+
+**Today's Progress**
+
+- Little Lemon Project: Connected BookingPage to the fetchAPI and submitAPI.
+
+**Thoughts**
+- I want to learn more about writing unit tests. 
+
+---
+
+### Day 110: February 16, Thursday
+
+**Today's Progress**
+
+- Little Lemon Project: Implemented localStorage and useContext to simulate serving and saving the Bookin data, and use Formik for form validation.
+
+**Thoughts**
+- I love when I'm into the zone!
+
+---
+
+### Day 111: February 17, Friday
+
+**Today's Progress**
+
+- Completed Little Lemon Project (Round 1): Added unit tests for form validation and wrapped up the project. 
+
+**Thoughts**
+- Happy to finish the project requirements! However, I still want to improve this app even though it's a practice project. I think it's a good desire to have as a front-end developer!
+
+---
+
+### Day 112: February 18, Saturday
+
+**Today's Progress**
+
+- Learned what a typical job interview is like.
+- Did coding exercises on FreeCodeCamp. 
+
+**Thoughts**
+- It feels intimidating to think about applying for a job and being in the interview, especially technical one. However, I will do my best to prepare for each interview and focus on the growth and the journey itself and will take every step as an opportunity for learning. I'm ready for a new challenge.
+
+---
+
+### Day 113: February 19, Sunday
+
+**Today's Progress**
+
+- [Coding Interview Preparation]
+  - Each byte consists of 8 bits (a series of ones and zeros).
+  - A bit is the simplest form of computing memory.
+  - CPU handles instrutions and information. 
+  - Memory: Cache memory, Main memory, Secondary memory
+    - Cache memory: stores recently accessed information (CPU checks the cache memory first when it reads some intruction.)
+    - Main memory: ROM and RAM. 
+      - ROM: Read-only memory. Cannot be overwritten. Used when the computer starts and the app is loaded.
+      - RAM: Read-access memory. Programmable. Holds the current data and instructions that are currently in use. It can run a number of apps at once. 
+    - Secondary memory: Cloud storage, external hard drive, memory sticks.
+
+**Thoughts**
+- It can be quite intimidiating, but keep calm and learn one by one!
+
+---
+
+### Day 114: February 20, Monday
+
+**Today's Progress**
+
+1. [Coding Interview Preparation]
+Learned about a good practice of designing a solution: Problem statement, Formulating a solution, and Finetuning the solution. 
+- Problem statement: consider as many questions as possible by visualizing how the app is used
+- Formulating a solution: plot out algorithm by outlining steps for the solution (start by writing down general steps)
+- Finetuning the solution: draw a flow chart. Create a precise procedure of how the app will flow under multiple different conditions.
+
+2. Learned about regular expressions. (FreeCodeCamp)
+
+**Thoughts**
+- It is all about developing my problem solving ability! Don't be scared and keep going to get every corner of your skills improved little by little!
+
+---
+
+### Day 115: February 21, Tuesday
+
+**Today's Progress**
+[Coding Interview Preparation]
+Learned about the concept of time efficiency and big-O notation.
+- It is a metric that helps evaluate the time efficiency of a task. 
+- O(1) is the best, O(log n) is pretty good, O(n) is okay. O(n^2) is heavy.
+- Conclusion: always think about if the code I write reaches a goal with efficiency. Ask yourself if the code can be improved in terms of time efficiency.
+
+**Thoughts**
+I'm so proud that I didn't give up trying to understand this seemingly intimidating concept.
+It turns out that it is just a tool that will help me to communicate with other developers to talk about the efficiency of the code and performance of an app. 
+Note to self: whenever coming across a new, initimidating concept, stay calm and keep trying to understand it throughout multiple trials until you will get it. It's the secret of learning!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
@@ -1707,4 +2066,4 @@ Still feel like it's a slow progress, but I definitely feel like 'I' am actively
   ![User Profile Loader](./exercises/gifs/exercise-load-user.gif)
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --> -->
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --> 

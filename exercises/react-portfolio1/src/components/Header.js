@@ -50,6 +50,10 @@ const SocialLinks = () => {
 
 const MenuItems = [
   {
+    label: 'About',
+    url: '#about-section'
+  },
+  {
     label: 'Projects',
     url: '#projects-section'
   },
@@ -83,7 +87,6 @@ const MenuLinks = () => {
   });
 };
 
-
 const Header = () => {
   const headerRef = useRef(undefined);
   const [headerTranslateY, setHeaderTranslateY] = useState(0);
@@ -96,14 +99,16 @@ const Header = () => {
       const st = document.documentElement.scrollTop;
       if (lastSt < st && header.clientHeight < st) {
         setHeaderTranslateY('-200px');
-      } else {  
+      } else {
         setHeaderTranslateY('0px');
       }
       lastSt = st;
-    }
+    };
 
     document.addEventListener('scroll', handleScroll);
-    return ()=>{document.removeEventListener('scroll', handleScroll)}
+    return () => {
+      document.removeEventListener('scroll', handleScroll);
+    };
   }, []);
 
   return (
