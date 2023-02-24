@@ -2065,6 +2065,18 @@ Note to self: whenever coming across a new, initimidating concept, stay calm and
 **Thoughts**
 - When learning different subjects or working on different projects, switching back and forth between React, JavaScript, and CSS feels a bit challenging. However, I know it is inevitable to have an ability to jump around different subjects smoothly. I believe it's the process of improving the bridges or making the connections smoother. 
 
+---
+
+### Day 117: February 23, Thursday
+
+**Today's Progress**
+[Coding Interview Preparation]
+Learned about the concept of space efficiency and big-O notation.
+- Space complexity consists of auxiliary space and input space.
+
+**Thoughts**
+- I feel like I'm learning this concepts at a very light depth. I want to make a pause and have my own research time so that I can be closer to these concepts. No rush! It's more important to internalize the concepts rather than "sightseeing" them!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
