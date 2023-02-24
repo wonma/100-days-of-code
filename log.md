@@ -2053,6 +2053,18 @@ I'm so proud that I didn't give up trying to understand this seemingly intimidat
 It turns out that it is just a tool that will help me to communicate with other developers to talk about the efficiency of the code and performance of an app. 
 Note to self: whenever coming across a new, initimidating concept, stay calm and keep trying to understand it throughout multiple trials until you will get it. It's the secret of learning!
 
+---
+
+### Day 116: February 22, Wednesday
+
+**Today's Progress**
+[Natours CSS Project]
+- Coded a 4-column float grid system.
+- Reviewed how to use attribute selectors.
+
+**Thoughts**
+- When learning different subjects or working on different projects, switching back and forth between React, JavaScript, and CSS feels a bit challenging. However, I know it is inevitable to have an ability to jump around different subjects smoothly. I believe it's the process of improving the bridges or making the connections smoother. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
