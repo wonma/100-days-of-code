@@ -2077,6 +2077,18 @@ Learned about the concept of space efficiency and big-O notation.
 **Thoughts**
 - I feel like I'm learning this concepts at a very light depth. I want to make a pause and have my own research time so that I can be closer to these concepts. No rush! It's more important to internalize the concepts rather than "sightseeing" them!
 
+---
+
+### Day 118: February 24, Friday
+
+**Today's Progress**
+[Natours CSS Project]
+- Built 3 sections: About, Features, Tours
+- Reviewed how to implement card flipping effect using transform:rotateY(), perpective, and backface-visiblity
+- Reviewed how to implement icon fonts.
+
+**Thoughts**
+- Definitely feeling like I'm getting more confident working with CSS & SCSS! This is precious!
 <!--
 
 <!-- ### Day 1: June 27, Monday
