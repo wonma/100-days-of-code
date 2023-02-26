@@ -2089,6 +2089,19 @@ Learned about the concept of space efficiency and big-O notation.
 
 **Thoughts**
 - Definitely feeling like I'm getting more confident working with CSS & SCSS! This is precious!
+
+---
+
+### Day 119: February 25, Saturday
+
+**Today's Progress**
+[Natours CSS Project]
+- Built Reviews section.
+- Reviewed how to add a video background and use **shape-outside** property to customize the wrapping of the inline text around a shape.
+
+**Thoughts**
+- No need to feel overwhelmed! Trust yourself!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
