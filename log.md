@@ -2102,6 +2102,18 @@ Learned about the concept of space efficiency and big-O notation.
 **Thoughts**
 - No need to feel overwhelmed! Trust yourself!
 
+---
+
+### Day 120: February 26, Sunday
+
+**Today's Progress**
+[Natours CSS Project]
+- Built Form and Footer sections.
+- Tried creating the floating hamburger menu by myself without referencing the lecture.
+
+**Thoughts**
+- I realized how important creating an effective, efficient HTMl structure is. It inevitably affects the CSS markup accordingly. I need to see many good examples and practice them repeatedly. Again, where the patience matters the most.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
