@@ -2114,6 +2114,16 @@ Learned about the concept of space efficiency and big-O notation.
 **Thoughts**
 - I realized how important creating an effective, efficient HTMl structure is. It inevitably affects the CSS markup accordingly. I need to see many good examples and practice them repeatedly. Again, where the patience matters the most.
 
+---
+
+### Day 121: February 27, Monday
+
+**Today's Progress**
+[Natours CSS Project]
+- Corrected the HTML structure and CSS of the hamburger menu.
+
+**Thoughts**
+- Right mindset is everything. Start with gratitude that I can learn this technology with great resources and assure yourself that you will get there as long as you stick to it. 
 <!--
 
 <!-- ### Day 1: June 27, Monday
