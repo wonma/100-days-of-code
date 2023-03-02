@@ -2124,6 +2124,17 @@ Learned about the concept of space efficiency and big-O notation.
 
 **Thoughts**
 - Right mindset is everything. Start with gratitude that I can learn this technology with great resources and assure yourself that you will get there as long as you stick to it. 
+
+---
+
+### Day 122: March 1, Wednesday
+
+**Today's Progress**
+[Coursera - Coding Interview]
+- Learned about basic data structures: Integer, Array, Object
+
+**Thoughts**
+- It's okay to not be able to absorb and 'get' all the new concepts at once. Try to accept where I am now and keep moving on. 
 <!--
 
 <!-- ### Day 1: June 27, Monday
