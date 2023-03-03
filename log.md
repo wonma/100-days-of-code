@@ -2135,6 +2135,22 @@ Learned about the concept of space efficiency and big-O notation.
 
 **Thoughts**
 - It's okay to not be able to absorb and 'get' all the new concepts at once. Try to accept where I am now and keep moving on. 
+
+---
+
+### Day 123: March 2, Thursday
+
+**Today's Progress**
+[Coursera - Coding Interview]
+- Learned about collection data structures:
+  - Lists:(Abstract Data Structure. A list refers to an ordered collection of data elements.) Array-based lists vs. Linked lists
+  - Sets: an ordered collection of data elements. A set will only hold unique elements. Great for filtering out duplicates. A set uses a hash table. It provides exceptionally quick search.
+  - Stacks: First-in-last-out (FILO). Example: undo/redo, browser history, a deck of cards
+  - Queues: First-in-first-out (FIFO). Example: printer
+  - Trees: has great flexibility in adding and searching values, it consists of nodes that are linked with one another. (binary trees)
+
+**Thoughts**
+- At least, I'm getting used to all these abstract concepts and most importantly growing more interest in the topic 'data structure'. 
 <!--
 
 <!-- ### Day 1: June 27, Monday
