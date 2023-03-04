@@ -2151,6 +2151,26 @@ Learned about the concept of space efficiency and big-O notation.
 
 **Thoughts**
 - At least, I'm getting used to all these abstract concepts and most importantly growing more interest in the topic 'data structure'. 
+
+---
+
+### Day 124: March 3, Friday
+
+**Today's Progress**
+[Coursera - Coding Interview]
+- Learned about advanced data structures: hash tables, heaps, graphs
+  - Hash tables: reduces the key to a small, manageable size, which acts as the index indicator. Quick search! (e.g. dictionaries, database indexes, caces, sets.)
+  - Heaps: Specialized purpose of heaps is identifying the most important item and returning it in the shortest time possible, queuing the next item of importance. The highest or lowest priority element is always stored at the root. O(1) because the item to retrieve is always at the root whether it's the lowest value or highest value. (e.g. interview scheduling, CPU routers)
+  - Graphs: comprised of nodes and edges. The node is where the data is stored. The edge is a connection between two nodes. (directed vs. undirected / weighted vs. unweighted)
+
+[Natours CSS Project]
+- How to use SASS for media queries (@content, @if)
+- Mobile-first vs. Desktop-first approach (min-width vs. max-width)
+- How to decide breakpoints
+
+**Thoughts**
+- I'm building muscles that help pull me up to the next level. Welcoming the feeling of uncertainty and difficulty.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
