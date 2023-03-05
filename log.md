@@ -2171,6 +2171,23 @@ Learned about the concept of space efficiency and big-O notation.
 **Thoughts**
 - I'm building muscles that help pull me up to the next level. Welcoming the feeling of uncertainty and difficulty.
 
+---
+
+### Day 125: March 4, Saturday
+
+**Today's Progress**
+[Coursera - Coding Interview]
+- Learned about Selection Sort and its implementation with JavaScript.
+  - Selection Sort: repeatedly select the smallest (or largest) element from the unsorted portion of the list and move it into the sorted portion of the list, that is, swap the smallest item with the first element of the unsorted portion. This process is repeated for the remaining unsorted portion of the list until the entire list is sorted. 
+  - Time complexity of Selection Sort is O(N2) as there are two nested loops: 
+    - One loop to select an element of Array one by one = O(N)
+    - Another loop to compare that element with every other Array element = O(N)
+    - Therefore overall complexity = O(N) * O(N) = O(N*N) = O(n^2)
+  - Auxiliary Space: O(1) as the only extra memory used for temporary variables while swapping two values in Array. The selection sort never makes more than O(N) swaps and can be useful when memory write is a costly operation and the scenario is working with small datasets.
+ 
+**Thoughts**
+- It is not the area I've ever been taught but I'm getting it slowly and used to the terms and concepts. It feels difficult. It sounds like a whole new world but I would like to keep going until I feel more comfortable!
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
