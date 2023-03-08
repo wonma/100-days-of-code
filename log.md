@@ -2188,6 +2188,17 @@ Learned about the concept of space efficiency and big-O notation.
 **Thoughts**
 - It is not the area I've ever been taught but I'm getting it slowly and used to the terms and concepts. It feels difficult. It sounds like a whole new world but I would like to keep going until I feel more comfortable!
 
+---
+
+### Day 126: March 7, Tuesday
+
+**Today's Progress**
+[Natours CSS Project]
+- Added media query and added more CSS using mixins.
+ 
+**Thoughts**
+- Remember. Persistency is everything. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
