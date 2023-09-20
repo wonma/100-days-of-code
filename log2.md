@@ -17,6 +17,22 @@
 **To Study Further**
 - Solving the same problem with recursion and the reduce method
 
+### Reset and Resume
+
+### Day 001: September 19, Monday
+
+**Solved**
+- FreeCodeCamp Code Challenge: [Diff Two Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays)
+
+**Today I Learned**
+- .indexOf method: returns the index of the item found in an array. If it is not found, it returns -1.
+- A technique of creating an inner function in an outer function: for DRY! Whenever there's a need to use the same code for different inputs inside of a function.
+- .filter method: returns a new array with items that return true from a callback function
+- .concat method: useful when combining two arrays
+ 
+**To Study Further**
+- Solving the same problem with 'Set' data type and 'Array.from' method
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
