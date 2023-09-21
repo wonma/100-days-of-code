@@ -19,7 +19,7 @@
 
 ### Reset and Resume
 
-### Day 001: September 19, Monday
+### Day 001: September 19, Tuesday
 
 **Solved**
 - FreeCodeCamp Code Challenge: [Diff Two Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays)
@@ -33,6 +33,22 @@
 **To Study Further**
 - Solving the same problem with 'Set' data type and 'Array.from' method
 
+
+### Day 002: September 20, Wednesday
+
+**Solved**
+- FreeCodeCamp Code Challenge: [Seek and Destroy](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
+
+**Today I Learned**
+- arguments object: an object that stores all of the values passed to the function. The arguments object takes on the structure of a JSON Object.
+- .slice method: it copies the part of the array.
+    - .slice() or .slice(0) : copy the entire array
+    - .slice(1) : the first argument means the starting index of the part to copy. The ending index is not specified as a second argument, which then copies all the elements up to the last element of the array.
+    - .slice(1, 4) : it will copy from the 1st indexed element (inclusive) up to the element right before the 4th index.
+- Object.values(someObj) will return an array of a given object's enumerable values. 
+
+**To Study Further**
+- Solving the same problem with FCC's example solutions and compare with my solution.
 <!--
 
 <!-- ### Day 1: June 27, Monday
