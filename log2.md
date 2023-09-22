@@ -49,6 +49,19 @@
 
 **To Study Further**
 - Solving the same problem with FCC's example solutions and compare with my solution.
+
+
+### Day 003: September 21, Thursday
+
+**Solving...**
+- FreeCodeCamp Code Challenge: [Wherefore Art Thou](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
+
+**Today I Learned**
+- Object.keys(someObj) : will return an array of values from the object.
+- for (const i in obj) : will iterate over the object properties.
+
+**To Study Further**
+- Continue studying this challenge.
 <!--
 
 <!-- ### Day 1: June 27, Monday
