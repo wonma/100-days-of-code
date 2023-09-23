@@ -62,6 +62,19 @@
 
 **To Study Further**
 - Continue studying this challenge.
+
+
+### Day 004: September 22, Friday
+
+**Solved**
+- FreeCodeCamp Code Challenge: [Wherefore Art Thou](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
+
+**Today I Learned**
+- How to set a checker using a variable that takes true or false. 
+
+**To Study Further**
+- Solve the same problem using Object.keys() and .filter() method
+- Solve the same problem using .every() method.
 <!--
 
 <!-- ### Day 1: June 27, Monday
