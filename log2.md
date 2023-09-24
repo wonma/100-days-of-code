@@ -75,6 +75,22 @@
 **To Study Further**
 - Solve the same problem using Object.keys() and .filter() method
 - Solve the same problem using .every() method.
+
+
+### Day 005: September 23, Saturday
+
+**Solved**
+- FreeCodeCamp Code Challenge: [Wherefore Art Thou](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
+
+**Today I Learned**
+- **A-ha moment!**
+- To use .filter() method, I used for loop and forEach. 
+- forEach didn't work and I investigated the reason. 
+- Within the filter method, using forEach didn't break the loop since the 'return false' wrapped in the if statement was constrained by forEach. The 'return false' didn't affect the filter method. 
+- Meanwhile, using for loop did break the loop since the 'return false' was not constrained by the for loop. Hence, the 'return false' affected the filter method and it filtered the collectino array as intended.
+
+**To Study Further**
+- Solve the same problem using .every() method.
 <!--
 
 <!-- ### Day 1: June 27, Monday
