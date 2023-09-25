@@ -91,6 +91,17 @@
 
 **To Study Further**
 - Solve the same problem using .every() method.
+
+### Day 005: September 23, Saturday
+
+**Solving...**
+- FreeCodeCamp Code Challenge: [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
+
+**Today I Learned**
+- a taste of .split and .join methods
+
+**To Study Further**
+- Study the regex from the example solutions
 <!--
 
 <!-- ### Day 1: June 27, Monday
