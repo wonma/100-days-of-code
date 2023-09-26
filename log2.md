@@ -92,7 +92,8 @@
 **To Study Further**
 - Solve the same problem using .every() method.
 
-### Day 005: September 23, Saturday
+
+### Day 006: September 24, Sunday
 
 **Solving...**
 - FreeCodeCamp Code Challenge: [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
@@ -102,6 +103,20 @@
 
 **To Study Further**
 - Study the regex from the example solutions
+
+
+### Day 007: September 25, Monday
+
+**Solving...**
+- FreeCodeCamp Code Challenge: [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
+
+**Today I Learned**
+- Started reviewing regular expressions (FreeCodeCamp)
+- I can read what /\s+|_+/g means. 
+
+**To Study Further**
+- Study the regex from the example solutions
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
