@@ -117,6 +117,20 @@
 **To Study Further**
 - Study the regex from the example solutions
 
+
+### Day 008: September 26, Tuesday
+
+**Solved**
+- FreeCodeCamp Code Challenge: [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
+
+**Today I Learned**
+- Studied regular expressions.
+    - Difference between a capturing group and a [non-capturing group](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Non-capturing_group)
+    - The concept of quantifier, token, substring... [RegExr](https://regexr.com/3da8k)
+
+**To Study Further**
+- Study the concept of lookaheads in regex: positive lookahead, negative lookahead
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
