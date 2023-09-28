@@ -118,18 +118,18 @@
 - Study the regex from the example solutions
 
 
-### Day 008: September 26, Tuesday
+### Day 008: September 27, Wednesday
 
 **Solved**
-- FreeCodeCamp Code Challenge: [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
+- FreeCodeCamp Code Challenge: [Pig Latin](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin)
 
 **Today I Learned**
-- Studied regular expressions.
-    - Difference between a capturing group and a [non-capturing group](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Non-capturing_group)
-    - The concept of quantifier, token, substring... [RegExr](https://regexr.com/3da8k)
+- .replace() can be utilized to create a new string where part of the original string has been removed. It doesn't change the original string.
 
 **To Study Further**
-- Study the concept of lookaheads in regex: positive lookahead, negative lookahead
+- Check other example solutions.
+- Understand the use of g flag in the .match() method. [Return value of .match method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match#return_value)
+- Study Capturing groups further in this web page. [Javascript.info](https://javascript.info/regexp-groups)
 
 <!--
 
