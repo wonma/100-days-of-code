@@ -145,6 +145,18 @@
 - Understand the use of g flag in the .match() method. [Return value of .match method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match#return_value)
 - Study Capturing groups further in this web page. [Javascript.info](https://javascript.info/regexp-groups)
 
+
+### Day 010: September 28, Thursday
+
+**Solved**
+- FreeCodeCamp Code Challenge: [Search and Replace](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace)
+
+**Today I Learned**
+- .subString() is almost identical to .slice()
+- String.prototype.indexOf(subStr) returns the beginning index of the occurrence of the substring.
+- .charAt() returns a string the representing the specified index.
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
