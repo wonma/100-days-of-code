@@ -156,6 +156,19 @@
 - String.prototype.indexOf(subStr) returns the beginning index of the occurrence of the substring.
 - .charAt() returns a string the representing the specified index.
 
+### Reset and Resume (Skipped - 1 day)
+
+### Day 01: September 30, Friday
+
+**Solved**
+- FreeCodeCamp Code Challenge: [DNA Pairing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing)
+
+**Today I Learned**
+- How to use switch or object for pair Lookup
+- My mistake: 
+    - A new array cannot be created with variable names as items. Instead, new Array(var1, var2, ...) can be used.
+    - When using **switch**, omitting 'break;' can result in unexpected fallthrough.
+    - When using **map** for an array, it must be assigned to a variable or the whole statement should be returned right away because it doesn't alter the original array. 
 
 <!--
 
