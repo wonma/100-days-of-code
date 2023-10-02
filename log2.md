@@ -158,7 +158,7 @@
 
 ### Reset and Resume (Skipped - 1 day)
 
-### Day 01: September 30, Friday
+### Day 001: September 30, Saturday
 
 **Solved**
 - FreeCodeCamp Code Challenge: [DNA Pairing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing)
@@ -169,6 +169,24 @@
     - A new array cannot be created with variable names as items. Instead, new Array(var1, var2, ...) can be used.
     - When using **switch**, omitting 'break;' can result in unexpected fallthrough.
     - When using **map** for an array, it must be assigned to a variable or the whole statement should be returned right away because it doesn't alter the original array. 
+
+    
+### Day 002: October 1, Sunday
+
+**Solving**
+- FreeCodeCamp Code Challenge: [Mssing letters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters)
+
+**Today I Learned**
+- How to create an array of all alphabets using the combination of the methods below. 
+    - Array(num) : returns an empty array with the length of the number
+    - array.keys() : returns an array iterator, a series of values taken from keys of an array (0, 1, 2, ...) that are ready to be iterated.
+    - Array.from() : creates an array from an array iterator or iterable (array-like) objects (e.g. String is iterable!)
+    - String.fromCharCode(num)
+    Reference: [Create an Array of Alphabet Characters](https://javascript.plainenglish.io/create-an-array-of-alphabet-characters-in-javascript-with-this-simple-trick-930033079dd3)
+
+**Study Further**
+- [JavaScript Iterator](https://www.geeksforgeeks.org/javascript-iterator/)
+- Difference between Object.keys(obj) and array.keys()
 
 <!--
 
