@@ -229,6 +229,22 @@
 
 - Check other developers' example solutions to the same problem.
 
+
+### Day 004: October 3, Tuesday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Mssing letters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters)
+
+**Today I Learned**
+
+- String.fromCharCode(num): is a static method of String. Always use it as String.fromCharCode(). It will return a string created by using the specified Unicode values.
+- 'ABC'.charCodeAt(index): returns the Unicode value of the character at the given index.  
+
+**Study Further**
+
+- Check other developers' example solutions to the same problem.
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
