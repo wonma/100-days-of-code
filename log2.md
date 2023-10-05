@@ -234,12 +234,28 @@
 
 **Solved**
 
-- FreeCodeCamp Code Challenge: [Mssing letters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters)
+- FreeCodeCamp Code Challenge: [Missing letters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters)
 
 **Today I Learned**
 
 - String.fromCharCode(num): is a static method of String. Always use it as String.fromCharCode(). It will return a string created by using the specified Unicode values.
 - 'ABC'.charCodeAt(index): returns the Unicode value of the character at the given index.  
+
+**Study Further**
+
+- Check other developers' example solutions to the same problem.
+
+
+### Day 005: October 4, Wednesday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Sorted Union](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union)
+
+**Today I Learned**
+
+- array.includes(item): this method determines whether an array includes a certain value among its entries, returning true or false.
+- array.reduce((acc, curr) => acc + curr, initialValue): this method returns a value that results from running the "reducer" callback function over the entire array. 
 
 **Study Further**
 
