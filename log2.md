@@ -261,6 +261,21 @@
 
 - Check other developers' example solutions to the same problem.
 
+
+### Day 006: October 5, Thursday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Sorted Union](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union)
+
+**Today I Learned**
+
+- [arguments object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments): it is an iterable, array-like object, which means it can be used with for loop, has a length property and indexed properties, but it doesn't have Array's built-in methods like forEach(), map(), filter().. etc. 
+- arguments object can be converted to a real Array, using one of slice(), Array.from(), or spread syntax.
+- [array.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat): this method creates a new array with all sub-array elements concatenated into it recursively up to the specified depth.
+
+
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
