@@ -280,6 +280,20 @@
 - Review new Set()
 
 
+### Day 007: October 6, Friday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers)
+
+**Today I Learned**
+
+- [Fibonacci program](https://www.geeksforgeeks.org/javascript-program-to-print-fibonacci-series/#): A Fibonacci series in JavaScript is a mathematical series of numbers that starts with fixed numbers 0 and 1. All the next numbers are generated using the sum of the last two numbers. 
+
+
+**Study Further**
+
+- Implementing a fibonacci code using recursion.
 <!--
 
 <!-- ### Day 1: June 27, Monday
