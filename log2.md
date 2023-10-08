@@ -294,6 +294,19 @@
 **Study Further**
 
 - Implementing a fibonacci code using recursion.
+
+
+### Day 008: October 7, Saturday
+
+**Solving**
+
+- FreeCodeCamp Code Challenge: [Sum All Primes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes)
+
+**Today I Learned**
+
+- [Prime number](https://en.wikipedia.org/wiki/Prime_number): A prime number (a prime) is a natural number greater than 1 that is not a product of two smaller natural numbers. The opposite of prime is composite. For example, 4 is composite because it is a product (2 x 2) in which both numbers are smaller than 4. 
+- Primality: The property of being prime is called primality. A method called trial division is checking the primarlity of a given number n by testing whether n is a multiple of any integer between 2 and square root of n. 
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
