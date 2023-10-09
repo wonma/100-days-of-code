@@ -229,7 +229,6 @@
 
 - Check other developers' example solutions to the same problem.
 
-
 ### Day 004: October 3, Tuesday
 
 **Solved**
@@ -239,12 +238,11 @@
 **Today I Learned**
 
 - String.fromCharCode(num): is a static method of String. Always use it as String.fromCharCode(). It will return a string created by using the specified Unicode values.
-- 'ABC'.charCodeAt(index): returns the Unicode value of the character at the given index.  
+- 'ABC'.charCodeAt(index): returns the Unicode value of the character at the given index.
 
 **Study Further**
 
 - Check other developers' example solutions to the same problem.
-
 
 ### Day 005: October 4, Wednesday
 
@@ -255,12 +253,11 @@
 **Today I Learned**
 
 - array.includes(item): this method determines whether an array includes a certain value among its entries, returning true or false.
-- array.reduce((acc, curr) => acc + curr, initialValue): this method returns a value that results from running the "reducer" callback function over the entire array. 
+- array.reduce((acc, curr) => acc + curr, initialValue): this method returns a value that results from running the "reducer" callback function over the entire array.
 
 **Study Further**
 
 - Check other developers' example solutions to the same problem.
-
 
 ### Day 006: October 5, Thursday
 
@@ -270,7 +267,7 @@
 
 **Today I Learned**
 
-- [arguments object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments): it is an iterable, array-like object, which means it can be used with for loop, has a length property and indexed properties, but it doesn't have Array's built-in methods like forEach(), map(), filter().. etc. 
+- [arguments object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments): it is an iterable, array-like object, which means it can be used with for loop, has a length property and indexed properties, but it doesn't have Array's built-in methods like forEach(), map(), filter().. etc.
 - arguments object can be converted to a real Array, using one of slice(), Array.from(), or spread syntax.
 - [array.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat): this method creates a new array with all sub-array elements concatenated into it recursively up to the specified depth.
 - [new Set()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set#using_the_set_object): This constructor function can be used to remove duplicate items in an array. Refer to this to learn more about its [relation to Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set#relation_to_arrays).
@@ -278,7 +275,6 @@
 **Study Further**
 
 - Review new Set()
-
 
 ### Day 007: October 6, Friday
 
@@ -288,13 +284,11 @@
 
 **Today I Learned**
 
-- [Fibonacci program](https://www.geeksforgeeks.org/javascript-program-to-print-fibonacci-series/#): A Fibonacci series in JavaScript is a mathematical series of numbers that starts with fixed numbers 0 and 1. All the next numbers are generated using the sum of the last two numbers. 
-
+- [Fibonacci program](https://www.geeksforgeeks.org/javascript-program-to-print-fibonacci-series/#): A Fibonacci series in JavaScript is a mathematical series of numbers that starts with fixed numbers 0 and 1. All the next numbers are generated using the sum of the last two numbers.
 
 **Study Further**
 
 - Implementing a fibonacci code using recursion.
-
 
 ### Day 008: October 7, Saturday
 
@@ -304,8 +298,19 @@
 
 **Today I Learned**
 
-- [Prime number](https://en.wikipedia.org/wiki/Prime_number): A prime number (a prime) is a natural number greater than 1 that is not a product of two smaller natural numbers. The opposite of prime is composite. For example, 4 is composite because it is a product (2 x 2) in which both numbers are smaller than 4. 
-- Primality: The property of being prime is called primality. A method called trial division is checking the primarlity of a given number n by testing whether n is a multiple of any integer between 2 and square root of n. 
+- [Prime number](https://en.wikipedia.org/wiki/Prime_number): A prime number (a prime) is a natural number greater than 1 that is not a product of two smaller natural numbers. The opposite of prime is composite. For example, 4 is composite because it is a product (2 x 2) in which both numbers are smaller than 4.
+- Primality: The property of being prime is called primality. A method called trial division is checking the primarlity of a given number n by testing whether n is a multiple of any integer between 2 and square root of n.
+
+### Day 009: October 8, Sunday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Sum All Primes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes)
+
+**Today I Learned**
+
+- [Modulo operator %](https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/): The modulo operator in JavaScript, also known as the remainder operator, is used to find the remainder after dividing one number by another.
+- [Dividend, divisor, quotient, and remainder](https://www.geeksforgeeks.org/find-quotient-and-remainder-by-dividing-an-integer-in-javascript/#)
 
 <!--
 
