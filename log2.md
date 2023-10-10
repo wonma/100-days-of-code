@@ -312,6 +312,20 @@
 - [Modulo operator %](https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/): The modulo operator in JavaScript, also known as the remainder operator, is used to find the remainder after dividing one number by another.
 - [Dividend, divisor, quotient, and remainder](https://www.geeksforgeeks.org/find-quotient-and-remainder-by-dividing-an-integer-in-javascript/#)
 
+
+### Day 010: October 9, Monday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Smallest Common Multiple](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)
+
+**Today I Learned**
+
+- Least common multiple (smallest common multiple) of a certain range of numbers is the smallest positive integer that is divisible by all the numbers.
+
+**Study Further**
+- Math.max.apply() vs. Math.max()
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
