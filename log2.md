@@ -312,7 +312,6 @@
 - [Modulo operator %](https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/): The modulo operator in JavaScript, also known as the remainder operator, is used to find the remainder after dividing one number by another.
 - [Dividend, divisor, quotient, and remainder](https://www.geeksforgeeks.org/find-quotient-and-remainder-by-dividing-an-integer-in-javascript/#)
 
-
 ### Day 010: October 9, Monday
 
 **Solved**
@@ -324,7 +323,25 @@
 - Least common multiple (smallest common multiple) of a certain range of numbers is the smallest positive integer that is divisible by all the numbers.
 
 **Study Further**
+
 - Math.max.apply() vs. Math.max()
+
+### Day 011: October 11, Tuesday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Drop it](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it)
+
+**Today I Learned**
+
+- The .splice() method returns the items that have been taken out. The original array will be modified after items are taken out.
+- Using .slice() method with the non-existing index will return [] (an empty array).
+- for loop can be stopped with the 'break' keyword withtout needing to use 'return'.
+- The 'for loop' may show the unexpected result if the target array is modified while it is looped.
+
+**Study Further**
+
+- 'break' keyword in for loop.
 
 <!--
 
