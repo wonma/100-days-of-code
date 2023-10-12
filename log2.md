@@ -343,6 +343,22 @@
 
 - 'break' keyword in for loop.
 
+### Day 012: October 12, Wednesday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Steamroller](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller)
+
+**Today I Learned**
+
+- How to flatten arrays using a recursive method.
+  - Using [].concat(...arr) to flatten the array and useing .some(Array.isArray)check if an element has any inner arrays
+  - Using .push(...steamrollerArr(element)) to create a flattened array recursively.
+
+**Study Further**
+
+- .some() method
+
 <!--
 
 <!-- ### Day 1: June 27, Monday
