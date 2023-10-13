@@ -359,7 +359,24 @@
 
 - .some() method
 
-<!--
+### Day 013: October 13, Thursday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Binary Agent](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)
+
+**Today I Learned**
+
+- String.fromCharCode(num1, ..., numN) : returns a string.
+  e.g.) In 'String.fromCharCode(65)', 65 is a UTF-16 code unit. It returns 'A'.
+- str.charCodeAt(index): the numeric Unicode value of the character at the given index.
+- [parseInt(string, radix)](https://www.freecodecamp.org/news/parseint-in-javascript-js-string-to-int-example/): extracts numbers from strings.
+- arr.join() : without an argument, commas will be used by default when joining the elements in the array.
+
+**Study Further**
+
+- [Unicode Character - What Every Developer Should Know About Encoding](https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/)
+  <!--
 
 <!-- ### Day 1: June 27, Monday
 
