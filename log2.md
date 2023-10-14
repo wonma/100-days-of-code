@@ -376,6 +376,17 @@
 **Study Further**
 
 - [Unicode Character - What Every Developer Should Know About Encoding](https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/)
+
+### Day 014: October 14, Friday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Everything Be True](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true)
+
+**Today I Learned**
+
+- **.every(callbackFn)** method: The every() method is an iterative method. It calls a provided callbackFn function once for each element in an array, until the callbackFn returns a falsy value. If such an element is found, every() immediately returns false and stops iterating through the array. Otherwise, if callbackFn returns a truthy value for all elements, every() returns true.
+
   <!--
 
 <!-- ### Day 1: June 27, Monday
