@@ -326,7 +326,7 @@
 
 - Math.max.apply() vs. Math.max()
 
-### Day 011: October 11, Tuesday
+### Day 011: October 10, Tuesday
 
 **Solved**
 
@@ -343,7 +343,7 @@
 
 - 'break' keyword in for loop.
 
-### Day 012: October 12, Wednesday
+### Day 012: October 11, Wednesday
 
 **Solved**
 
@@ -359,7 +359,7 @@
 
 - .some() method
 
-### Day 013: October 13, Thursday
+### Day 013: October 12, Thursday
 
 **Solved**
 
@@ -377,7 +377,7 @@
 
 - [Unicode Character - What Every Developer Should Know About Encoding](https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/)
 
-### Day 014: October 14, Friday
+### Day 014: October 13, Friday
 
 **Solved**
 
@@ -387,7 +387,30 @@
 
 - **.every(callbackFn)** method: The every() method is an iterative method. It calls a provided callbackFn function once for each element in an array, until the callbackFn returns a falsy value. If such an element is found, every() immediately returns false and stops iterating through the array. Otherwise, if callbackFn returns a truthy value for all elements, every() returns true.
 
-  <!--
+### Day 015: October 14, Saturday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Arguments Optional](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional)
+
+**Today I Learned**
+
+- How to approach the problem:
+  First, there are two consideratiions:
+  - 1. The type of arguments needs to be a number.
+  - 2. The second argument is optional.
+- So, the first condition to check is whether the first argument is a number or not. If it's not a number, the function would not need to process the code any further, which then would return 'undefined'.
+- If the first condition results in 'true', the function will go through the next-level condition.
+
+  - A. If the second argument is a number, return the sum of the two arguments.
+  - B. If the second arguement doesn't exist, return the inner function that takes a new argument and return the calling of the function itself with the two arguments (the new one and the first argument which has been memorized using closure.)
+
+**Study Further**
+
+- How destructuring works with the array-like 'arguments' object
+  e.g.) const [first, second] = arguments
+
+    <!--
 
 <!-- ### Day 1: June 27, Monday
 
