@@ -410,17 +410,13 @@
 - How destructuring works with the array-like 'arguments' object
   e.g.) const [first, second] = arguments
 
-    <!--
+### Day 016: October 15, Sunday
 
-<!-- ### Day 1: June 27, Monday
+**Solved**
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+- FreeCodeCamp Code Challenge: [Make a Person](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today I Learned**
 
-**Link(s) to work**
-
-  ![User Profile Loader](./exercises/gifs/exercise-load-user.gif)
-
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+- **Constructor function**: Constructors use the keyword 'this' to set properties of the object they will create. 'this' refers to the new object it will create.
+- **Local variables** can be defined within the constructor. Using closure, these variables can be accessed by calling a method that returns them. They can be updated with a method as well.
