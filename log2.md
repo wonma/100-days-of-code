@@ -420,3 +420,49 @@
 
 - **Constructor function**: Constructors use the keyword 'this' to set properties of the object they will create. 'this' refers to the new object it will create.
 - **Local variables** can be defined within the constructor. Using closure, these variables can be accessed by calling a method that returns them. They can be updated with a method as well.
+
+### Day 017: October 16, Monday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Map the Debris](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris)
+
+**Today I Learned**
+
+- **Reformatting the Object**: Using '.map({prop1, prop2})' method, we can return the reformatted objects. In this exercise, one of the properties has been replaced with a new property.
+- **A new way of copying an array**
+
+```
+const newArr = JSON.parse(JSON.stringify(arr))
+```
+
+- **Difference between map nad forEach**:
+  1. map returns a new array while forEach has no return value (anything you return from forEach is discarded).
+  2. map does not mutate the original array while forEach may mutate it if you intend to using reassignment or keywords.
+     example 1:
+
+```
+newArr.forEach(function(item) {
+    ...
+    delete item.avgAlt;
+    item.orbitalPeriod = tmp;
+  });
+```
+
+    example 2:
+
+```
+    let array = [1, 2, 3, 4];
+    array.forEach((ele, index) => array[index] = ele * 2);
+```
+
+- [For-in loop](https://www.geeksforgeeks.org/javascript-for-in-loop/):
+  For-in loop is used to iterate over the properties of an object.
+- [What does enumerable property mean in JavaScript?](https://www.geeksforgeeks.org/what-does-enumerable-property-mean-in-javascript/)
+  An enumerable property in JavaScript means that a property can be viewed if it is iterated using the for…in loop or Object.keys() method. All the properties which are created by simple assignment or property initializer are enumerable by default.
+- For-in loop vs. forEach loop:
+  Generally it is recommended not to use for-in loop for iterating over an array. To iterate over an array, for loop is the best to use in terms of performance.
+
+**Study Further**
+[Difference between forEach and for loop in Javascript
+](https://www.geeksforgeeks.org/difference-between-foreach-and-for-loop-in-javascript/)
