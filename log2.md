@@ -439,7 +439,8 @@ const newArr = JSON.parse(JSON.stringify(arr))
 - **Difference between map nad forEach**:
   1. map returns a new array while forEach has no return value (anything you return from forEach is discarded).
   2. map does not mutate the original array while forEach may mutate it if you intend to using reassignment or keywords.
-     example 1:
+
+example 1:
 
 ```
 newArr.forEach(function(item) {
@@ -449,7 +450,7 @@ newArr.forEach(function(item) {
   });
 ```
 
-    example 2:
+example 2:
 
 ```
     let array = [1, 2, 3, 4];
