@@ -467,3 +467,13 @@ example 2:
 **Study Further**
 [Difference between forEach and for loop in Javascript
 ](https://www.geeksforgeeks.org/difference-between-foreach-and-for-loop-in-javascript/)
+
+### Day 018: October 17, Tuesday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Palindrome Checker](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
+
+**Today I Learned**
+
+- In regular expressions, **/\w/** means numbers, alphabets(A-Z, a-z), and underscore.
