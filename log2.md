@@ -477,3 +477,9 @@ example 2:
 **Today I Learned**
 
 - In regular expressions, **/\w/** means numbers, alphabets(A-Z, a-z), and underscore.
+
+### Day 019: October 18, Wednesday
+
+**Solving...**
+
+- FreeCodeCamp Code Challenge: [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
