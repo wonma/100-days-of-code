@@ -483,3 +483,12 @@ example 2:
 **Solving...**
 
 - FreeCodeCamp Code Challenge: [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
+
+**Today I Learned**
+
+- How to assign multiple variables at once.
+  e.g.) const [var1, var2, var3] = [value1, value2, value3]
+- How to convert a number to a string.
+  1. str = '' + num
+  2. String(num)
+  3. num.toString()
