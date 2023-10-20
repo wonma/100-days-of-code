@@ -492,3 +492,14 @@ example 2:
   1. str = '' + num
   2. String(num)
   3. num.toString()
+
+### Day 020: October 19, Thursday
+
+**Solvied**
+
+- FreeCodeCamp Code Challenge: [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
+
+**Today I Learned**
+
+- How to convert a string to a number.
+  Number(str)
