@@ -495,7 +495,7 @@ example 2:
 
 ### Day 020: October 19, Thursday
 
-**Solvied**
+**Solved**
 
 - FreeCodeCamp Code Challenge: [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
 
@@ -503,3 +503,17 @@ example 2:
 
 - How to convert a string to a number.
   Number(str)
+
+### Day 021: October 20, Friday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Caesars Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
+This is a problem that can be solved easily with the knowledge of str.charCodeAt(index) and String.fromCharCode(utf-16 code number). 
+The key is to understand that in the sequence of A to Z, there is a point where the character's code + 13 results in passing the last character 'Z', which then needs being counted from 'A' again. 
+
+**Today I Learned**
+
+- String.fromCharCode(code number) returns a string representing the UTF-16 unit code number.
+- str.charCodeAt(index) returns the UTF-16 unit code number.
+- str.charAt(index) returns the character on the index.
