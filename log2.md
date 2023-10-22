@@ -517,3 +517,8 @@ The key is to understand that in the sequence of A to Z, there is a point where 
 - String.fromCharCode(code number) returns a string representing the UTF-16 unit code number.
 - str.charCodeAt(index) returns the UTF-16 unit code number.
 - str.charAt(index) returns the character on the index.
+
+### Day 022: October 21, Saturday
+
+**Solving**
+- FreeCodeCamp Code Challenge: [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
