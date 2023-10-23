@@ -509,8 +509,8 @@ example 2:
 **Solved**
 
 - FreeCodeCamp Code Challenge: [Caesars Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
-This is a problem that can be solved easily with the knowledge of str.charCodeAt(index) and String.fromCharCode(utf-16 code number). 
-The key is to understand that in the sequence of A to Z, there is a point where the character's code + 13 results in passing the last character 'Z', which then needs being counted from 'A' again. 
+  This is a problem that can be solved easily with the knowledge of str.charCodeAt(index) and String.fromCharCode(utf-16 code number).
+  The key is to understand that in the sequence of A to Z, there is a point where the character's code + 13 results in passing the last character 'Z', which then needs being counted from 'A' again.
 
 **Today I Learned**
 
@@ -521,27 +521,41 @@ The key is to understand that in the sequence of A to Z, there is a point where 
 ### Day 022: October 21, Saturday
 
 **Solving**
+
 - FreeCodeCamp Code Challenge: [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
 
 **Today I Learned**
 
 - [**How to Remove the First Character from a String**](https://tecadmin.net/remove-first-character-from-string-in-javascript/#:~:text=To%20remove%20the%20first%20character%20from%20a%20string%20using%20the,1%20as%20the%20starting%20index.&text=2-,let%20str%20%3D%20%22Hello%20World!%22%3B,%3B%20%2F%2F%20%22ello%20World!%22)
+
 ```
 let str = "Hello World!";
 let newStr = str.substring(1); // "ello World!"
 ```
+
 or
+
 ```
 let str = "Hello World!";
 let newStr = str.replace(/^./, ""); // "ello World!"
 ```
+
 or
+
 ```
 let str = "Hello World!";
 let newStr = str.slice(1); // "ello World!";
 ```
+
 or
+
 ```
 let str = "Hello World!";
 let newStr = str.substr(1, str.length - 1); // "ello World!"
 ```
+
+### Day 023: October 22, Sunday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
