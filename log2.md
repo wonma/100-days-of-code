@@ -559,3 +559,11 @@ let newStr = str.substr(1, str.length - 1); // "ello World!"
 **Solved**
 
 - FreeCodeCamp Code Challenge: [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
+
+
+### Day 024: October 23, Monday
+
+**Solving**
+
+- FreeCodeCamp Code Challenge: [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
