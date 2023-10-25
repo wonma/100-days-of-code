@@ -567,3 +567,13 @@ let newStr = str.substr(1, str.length - 1); // "ello World!"
 
 - FreeCodeCamp Code Challenge: [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 
+
+### Day 025: October 24, Tuesday
+
+**Solved**
+
+- FreeCodeCamp Code Challenge: [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+**Today I Learned**
+- When implmenting subtraction it is important to check if the result is within a certain decimal point. 
+  To limit the number of digits after a decimal point, you can use '.toFixed()'. Note that this method turns a number value to a string. 
