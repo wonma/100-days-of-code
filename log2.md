@@ -576,4 +576,14 @@ let newStr = str.substr(1, str.length - 1); // "ello World!"
 
 **Today I Learned**
 - When implmenting subtraction it is important to check if the result is within a certain decimal point. 
-  To limit the number of digits after a decimal point, you can use '.toFixed()'. Note that this method turns a number value to a string. 
+  To limit the number of digits after a decimal point, you can use '.toFixed()'. Note that this method turns a number value to a string.  
+
+  
+### Day 027: October 25, Wednesday
+
+**Solved**
+
+- Natours CSS Project
+
+**Today I Learned**
+- The image can be adjusted to the size of the surrounding box with object-fit:cover and height:100%.
