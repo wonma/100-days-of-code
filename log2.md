@@ -560,13 +560,11 @@ let newStr = str.substr(1, str.length - 1); // "ello World!"
 
 - FreeCodeCamp Code Challenge: [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
 
-
 ### Day 024: October 23, Monday
 
 **Solving**
 
 - FreeCodeCamp Code Challenge: [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
-
 
 ### Day 025: October 24, Tuesday
 
@@ -575,15 +573,26 @@ let newStr = str.substr(1, str.length - 1); // "ello World!"
 - FreeCodeCamp Code Challenge: [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 
 **Today I Learned**
-- When implmenting subtraction it is important to check if the result is within a certain decimal point. 
-  To limit the number of digits after a decimal point, you can use '.toFixed()'. Note that this method turns a number value to a string.  
 
-  
-### Day 027: October 25, Wednesday
+- When implmenting subtraction it is important to check if the result is within a certain decimal point.
+  To limit the number of digits after a decimal point, you can use '.toFixed()'. Note that this method turns a number value to a string.
 
-**Solved**
+### Day 026: October 25, Wednesday
+
+**Improved**
 
 - Natours CSS Project
 
 **Today I Learned**
+
 - The image can be adjusted to the size of the surrounding box with object-fit:cover and height:100%.
+
+### Day 027: October 26, Thursday
+
+**Improved**
+
+- Natours CSS Project
+
+**Today I Learned**
+
+- **Common bug fix**: when a click on an element doesn't work, check the element's HTML markup. There's a chance some other element's area is covering the clickable element.
