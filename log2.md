@@ -596,3 +596,10 @@ let newStr = str.substr(1, str.length - 1); // "ello World!"
 **Today I Learned**
 
 - **Common bug fix**: when a click on an element doesn't work, check the element's HTML markup. There's a chance some other element's area is covering the clickable element.
+
+
+### Day 028: October 27, Friday
+
+**Today I Learned**
+
+- Reviewed responsive images in the Advanced CSS and Sass course.
