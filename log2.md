@@ -602,4 +602,16 @@ let newStr = str.substr(1, str.length - 1); // "ello World!"
 
 **Today I Learned**
 
-- Reviewed responsive images in the Advanced CSS and Sass course.
+Reviewed responsive images in the Advanced CSS and Sass course.
+- The 3 use cases of responsive images:
+ 1. Resolution switching: an image doesn't need to be high-resolution in a small screen.
+ 2. Density switching: an image may not look sharp enough if the image with the regular resolution is used for high-dpi devices. 
+ 3. Art direction: a different image can be served for a smaller screen while the key details are preserved. 
+
+### Day 029: October 28, Saturday
+
+**Today I Learned**
+
+Reviewed a few concepts related to responsive images
+- Resolution: Resolution is a measurement of the number of pixels that can be contained on a display screen or in a camera sensor.
+- [DPR (Density Pixel Ratio)](https://docs.imgix.com/apis/rendering/pixel-density/dpr): Device Pixel Ratio (DPR) is the ratio between the physical pixel density of a device and its logical pixel density. The dpr parameter is best used with techniques such as srcset, so that you can define when you want high-DPR images to be served and at what ratios.
