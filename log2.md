@@ -615,3 +615,22 @@ Reviewed responsive images in the Advanced CSS and Sass course.
 Reviewed a few concepts related to responsive images
 - Resolution: Resolution is a measurement of the number of pixels that can be contained on a display screen or in a camera sensor.
 - [DPR (Density Pixel Ratio)](https://docs.imgix.com/apis/rendering/pixel-density/dpr): Device Pixel Ratio (DPR) is the ratio between the physical pixel density of a device and its logical pixel density. The dpr parameter is best used with techniques such as srcset, so that you can define when you want high-DPR images to be served and at what ratios.
+
+### Day 030: October 29, Sunday
+
+**Today I Learned**
+Two cases of serving responsive images while accounting for DPR, Device Pixel Ratio.
+1. Forcing the browser to use different images for different viewports & different DPRs (Density switching + Art direction switching).
+```
+<picture> 
+  <source sercset="...-small-1x.png 1x, ....-small-2x.png 2x" media="(max-width: 37.5em)">
+  <img srcset="...1x.png 1x, ...2x.png 2x">
+</picture>
+
+```
+2. Letting the browser choose one of the two different images of different resolutions for different viewports & different DPRs (Density switching + Resolution switching) 
+```
+<img srcset="img/nature.jpg 300w, img/nature-large.jpg 1000w"
+    sizes="(max-width:600px) 30vw, (max-width:900px) 20vw, 300px"
+    src="img/logo-green-large.png">
+```
