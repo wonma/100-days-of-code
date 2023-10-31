@@ -620,7 +620,7 @@ Reviewed a few concepts related to responsive images
 
 **Today I Learned**
 Two cases of serving responsive images while accounting for DPR, Device Pixel Ratio.
-1. Forcing the browser to use different images for different viewports & different DPRs (Density switching + Art direction switching).
+1. Forcing the browser to use different images for different viewports & displays of different density (Density switching + Art direction switching).
 ```
 <picture> 
   <source sercset="...-small-1x.png 1x, ....-small-2x.png 2x" media="(max-width: 37.5em)">
@@ -628,9 +628,34 @@ Two cases of serving responsive images while accounting for DPR, Device Pixel Ra
 </picture>
 
 ```
-2. Letting the browser choose one of the two different images of different resolutions for different viewports & different DPRs (Density switching + Resolution switching) 
+2. Letting the browser choose one of the two images of different resolutions to serve different viewports & different DPRs (Density switching + Resolution switching) 
 ```
 <img srcset="img/nature.jpg 300w, img/nature-large.jpg 1000w"
     sizes="(max-width:600px) 30vw, (max-width:900px) 20vw, 300px"
     src="img/logo-green-large.png">
+```
+
+### Day 031: October 30, Monday
+
+**Today I Learned**
+How to offering a high-density version of an image for the background image written in CSS
+- Take into consideration two scenarios
+- Scenario 1: High-density display
+  - Use the high-density version image of 2000px from 600px viewport width. 
+- Scenerio 2: Standard display
+  - Use the high-density version image from 2000px viewport width.
+```
+.header{
+    /* Standard display until 2000px viewport*/
+    background-image: linear-gradient(to right bottom, orange, red), 
+        url(../img/hero-small.jpg)
+    background-size: cover;
+
+    /* minimum 600px viewport of High-res display or wide screen of standard display*/
+    @media (min-resolution: 192dpi) and (min-width: 600px),
+    (min-width: 2000px) { 
+    background-image: linear-gradient(to right bottom, orange, red),
+        url(../img/hero.jpg);
+    }
+}
 ```
