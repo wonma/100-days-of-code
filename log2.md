@@ -659,3 +659,27 @@ How to offering a high-density version of an image for the background image writ
     }
 }
 ```
+
+### Day 032: October 31, Tuesday
+
+**Today I Learned**
+- Feature query
+```
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba($color-black, .8);
+    visibility: hidden;
+    opacity: 0;
+    transition: all .3s;
+    
+    @supports (backdrop-filter:blur(0)) or (-webkit-backdrop-filter:blur(0)) {
+        background-color: rgba($color-black, .3);
+        backdrop-filter:blur(10px);
+    }
+  ...
+}
+```
