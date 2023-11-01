@@ -646,12 +646,12 @@ How to offering a high-density version of an image for the background image writ
   - Use the high-density version image from 2000px viewport width.
 ```
 .header{
-    /* Standard display until 2000px viewport*/
+    /* Apply only if the viewport width is less than 2000px*/
     background-image: linear-gradient(to right bottom, orange, red), 
         url(../img/hero-small.jpg)
-    background-size: cover;
 
-    /* minimum 600px viewport of High-res display or wide screen of standard display*/
+    /* Apply only if the device is high-res with a viewport width of at least 600px or
+    if it is standard resolution with viewport width of at least 2000px */
     @media (min-resolution: 192dpi) and (min-width: 600px),
     (min-width: 2000px) { 
     background-image: linear-gradient(to right bottom, orange, red),
@@ -659,11 +659,12 @@ How to offering a high-density version of an image for the background image writ
     }
 }
 ```
+[**Related Link: Media queries**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 
 ### Day 032: October 31, Tuesday
 
 **Today I Learned**
-- Feature query
+- Feature query using @supports
 ```
 .popup {
     position: fixed;
@@ -675,7 +676,7 @@ How to offering a high-density version of an image for the background image writ
     visibility: hidden;
     opacity: 0;
     transition: all .3s;
-    
+
     @supports (backdrop-filter:blur(0)) or (-webkit-backdrop-filter:blur(0)) {
         background-color: rgba($color-black, .3);
         backdrop-filter:blur(10px);
