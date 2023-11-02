@@ -685,7 +685,7 @@ How to offering a high-density version of an image for the background image writ
 }
 ```
 
-### Day 033: October 32, Wednesday
+### Day 033: November 1, Wednesday
 
 **Today I Learned**
 1. When to use **<figure></figure>**
