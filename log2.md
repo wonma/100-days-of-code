@@ -688,10 +688,10 @@ How to offering a high-density version of an image for the background image writ
 ### Day 033: November 1, Wednesday
 
 **Today I Learned**
-1. When to use **<figure></figure>**
-The <figure> tag can optionally have a caption using <figcaption> for an image, a video, a graph, or even a table. It can be useful when there is a need to group multiple images and semantically provide clear information to them. 
+1. When to use **`<figure></figure>`**
+The `<figure>` tag can optionally have a caption using `<figcaption>` for an image, a video, a graph, or even a table. It can be useful when there is a need to group multiple images and semantically provide clear information to them. 
 
-2. How to specify data in sizes attribute of <img> tag.
+2. How to specify data in sizes attribute of `<img>` tag.
 The source size value is a CSS length, which means it may be specified using font-relative unites (em), absolute units (px), or the vw unit which lets you specify the width as a percentage of the viewport width. (1vw being 1% of the viewport width) Lengths such as 50% or 100% are not allowed.
 
 [HTML Image Element: sizes property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes)
