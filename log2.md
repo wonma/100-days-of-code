@@ -697,6 +697,7 @@ The source size value is a CSS length, which means it may be specified using fon
 [HTML Image Element: sizes property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes)
 
 ```
+// This code was written only for practice purposes and is not complete.
   <figure class="composition">
       <img
           src="./assets/images/nat-1-large.jpg"
@@ -712,3 +713,22 @@ The source size value is a CSS length, which means it may be specified using fon
       <img src="./assets/images/nat-3-large.jpg" alt="Top of the mountain during sunset" class="composition__img composition__img--3">
   </figure>
 ```
+
+### Day 034: November 2, Thursday
+
+**Today I Learned**
+How to implement responsive images with srcset and sizes attributes using calc()
+```
+<img
+    srcset="
+        ./assets/images/nat-1.jpg 300w,
+        ./assets/images/nat-1-large.jpg 1000w, 
+    " 
+    sizes="(max-width:900px) calc((100vw - 12rem)/3), 
+        (max-width:1199px) calc(((100vw - 22rem)/2)*0.55), 
+        302.5px"
+    src="./assets/images/nat-1-large.jpg"
+    alt="Rocky mountains and lake" 
+    class="composition__img composition__img--1">
+```
+The video I got help from: [**Responsive Images Tutorial by Austin Shelby**](https://www.youtube.com/watch?v=4VUfk464vzk)
