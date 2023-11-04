@@ -732,3 +732,15 @@ How to implement responsive images with srcset and sizes attributes using calc()
     class="composition__img composition__img--1">
 ```
 The video I got help from: [**Responsive Images Tutorial by Austin Shelby**](https://www.youtube.com/watch?v=4VUfk464vzk)
+
+### Day 035: November 3, Friday
+
+**Today I Learned**
+Reviewing the webpack configuration of the Natour project.
+ - css-loader, style-loader, HTMLWebpackPlugin, MiniCssExtractPlugin...
+
+### Day 036: November 4, Saturday
+
+**Today I Learned**
+Reviewing the webpack configuration of the Natour project.
+- babel-loader and autoprefixer
