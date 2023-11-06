@@ -744,3 +744,10 @@ Reviewing the webpack configuration of the Natour project.
 **Today I Learned**
 Reviewing the webpack configuration of the Natour project.
 - babel-loader and autoprefixer
+
+### Day 037: November 5, Sunday
+
+**Today I Learned**
+Worked on the Natour project.
+- Added responsive images
+- Fixed padding issues on popup
