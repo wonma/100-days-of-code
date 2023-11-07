@@ -751,3 +751,9 @@ Reviewing the webpack configuration of the Natour project.
 Worked on the Natour project.
 - Added responsive images
 - Fixed padding issues on popup
+
+### Day 038: November 6, Monday
+
+**Today I Learned**
+Worked on the Natour project.
+- Fixed the reviews section for a responsive layout.
