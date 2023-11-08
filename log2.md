@@ -597,22 +597,24 @@ let newStr = str.substr(1, str.length - 1); // "ello World!"
 
 - **Common bug fix**: when a click on an element doesn't work, check the element's HTML markup. There's a chance some other element's area is covering the clickable element.
 
-
 ### Day 028: October 27, Friday
 
 **Today I Learned**
 
 Reviewed responsive images in the Advanced CSS and Sass course.
+
 - The 3 use cases of responsive images:
- 1. Resolution switching: an image doesn't need to be high-resolution in a small screen.
- 2. Density switching: an image may not look sharp enough if the image with the regular resolution is used for high-dpi devices. 
- 3. Art direction: a different image can be served for a smaller screen while the key details are preserved. 
+
+1.  Resolution switching: an image doesn't need to be high-resolution in a small screen.
+2.  Density switching: an image may not look sharp enough if the image with the regular resolution is used for high-dpi devices.
+3.  Art direction: a different image can be served for a smaller screen while the key details are preserved.
 
 ### Day 029: October 28, Saturday
 
 **Today I Learned**
 
 Reviewed a few concepts related to responsive images
+
 - Resolution: Resolution is a measurement of the number of pixels that can be contained on a display screen or in a camera sensor.
 - [DPR (Density Pixel Ratio)](https://docs.imgix.com/apis/rendering/pixel-density/dpr): Device Pixel Ratio (DPR) is the ratio between the physical pixel density of a device and its logical pixel density. The dpr parameter is best used with techniques such as srcset, so that you can define when you want high-DPR images to be served and at what ratios.
 
@@ -620,15 +622,19 @@ Reviewed a few concepts related to responsive images
 
 **Today I Learned**
 Two cases of serving responsive images while accounting for DPR, Device Pixel Ratio.
+
 1. Forcing the browser to use different images for different viewports & displays of different density (Density switching + Art direction switching).
+
 ```
-<picture> 
+<picture>
   <source sercset="...-small-1x.png 1x, ....-small-2x.png 2x" media="(max-width: 37.5em)">
   <img srcset="...1x.png 1x, ...2x.png 2x">
 </picture>
 
 ```
-2. Letting the browser choose one of the two images of different resolutions to serve different viewports & different DPRs (Density switching + Resolution switching) 
+
+2. Letting the browser choose one of the two images of different resolutions to serve different viewports & different DPRs (Density switching + Resolution switching)
+
 ```
 <img srcset="img/nature.jpg 300w, img/nature-large.jpg 1000w"
     sizes="(max-width:600px) 30vw, (max-width:900px) 20vw, 300px"
@@ -639,32 +645,37 @@ Two cases of serving responsive images while accounting for DPR, Device Pixel Ra
 
 **Today I Learned**
 How to offering a high-density version of an image for the background image written in CSS
+
 - Take into consideration two scenarios
 - Scenario 1: High-density display
-  - Use the high-density version image of 2000px from 600px viewport width. 
+  - Use the high-density version image of 2000px from 600px viewport width.
 - Scenerio 2: Standard display
   - Use the high-density version image from 2000px viewport width.
+
 ```
 .header{
     /* Apply only if the viewport width is less than 2000px*/
-    background-image: linear-gradient(to right bottom, orange, red), 
+    background-image: linear-gradient(to right bottom, orange, red),
         url(../img/hero-small.jpg)
 
     /* Apply only if the device is high-res with a viewport width of at least 600px or
     if it is standard resolution with viewport width of at least 2000px */
     @media (min-resolution: 192dpi) and (min-width: 600px),
-    (min-width: 2000px) { 
+    (min-width: 2000px) {
     background-image: linear-gradient(to right bottom, orange, red),
         url(../img/hero.jpg);
     }
 }
 ```
+
 [**Related Link: Media queries**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 
 ### Day 032: October 31, Tuesday
 
 **Today I Learned**
+
 - Feature query using @supports
+
 ```
 .popup {
     position: fixed;
@@ -688,11 +699,12 @@ How to offering a high-density version of an image for the background image writ
 ### Day 033: November 1, Wednesday
 
 **Today I Learned**
+
 1. When to use **`<figure></figure>`**
-The `<figure>` tag can optionally have a caption using `<figcaption>` for an image, a video, a graph, or even a table. It can be useful when there is a need to group multiple images and semantically provide clear information to them. 
+   The `<figure>` tag can optionally have a caption using `<figcaption>` for an image, a video, a graph, or even a table. It can be useful when there is a need to group multiple images and semantically provide clear information to them.
 
 2. How to specify data in sizes attribute of `<img>` tag.
-The source size value is a CSS length, which means it may be specified using font-relative unites (em), absolute units (px), or the vw unit which lets you specify the width as a percentage of the viewport width. (1vw being 1% of the viewport width) Lengths such as 50% or 100% are not allowed.
+   The source size value is a CSS length, which means it may be specified using font-relative unites (em), absolute units (px), or the vw unit which lets you specify the width as a percentage of the viewport width. (1vw being 1% of the viewport width) Lengths such as 50% or 100% are not allowed.
 
 [HTML Image Element: sizes property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes)
 
@@ -702,12 +714,12 @@ The source size value is a CSS length, which means it may be specified using fon
       <img
           src="./assets/images/nat-1-large.jpg"
           srcset="
-              ./assets/images/nat-1-large.jpg 1000w, 
-              ./assets/images/nat-1.jpg 300w" 
-          sizes="(max-width:900px) 27vw, 
-              (max-width:1200px) 20vw, 
-              (min-width:1200px) 302px" 
-          alt="Rocky mountains and lake" 
+              ./assets/images/nat-1-large.jpg 1000w,
+              ./assets/images/nat-1.jpg 300w"
+          sizes="(max-width:900px) 27vw,
+              (max-width:1200px) 20vw,
+              (min-width:1200px) 302px"
+          alt="Rocky mountains and lake"
           class="composition__img composition__img--1">
       <img src="./assets/images/nat-2-large.jpg" alt="Bike tour spot with hills" class="composition__img composition__img--2">
       <img src="./assets/images/nat-3-large.jpg" alt="Top of the mountain during sunset" class="composition__img composition__img--3">
@@ -718,37 +730,42 @@ The source size value is a CSS length, which means it may be specified using fon
 
 **Today I Learned**
 How to implement responsive images with srcset and sizes attributes using calc()
+
 ```
 <img
     srcset="
         ./assets/images/nat-1.jpg 300w,
-        ./assets/images/nat-1-large.jpg 1000w, 
-    " 
-    sizes="(max-width:900px) calc((100vw - 12rem)/3), 
-        (max-width:1199px) calc(((100vw - 22rem)/2)*0.55), 
+        ./assets/images/nat-1-large.jpg 1000w,
+    "
+    sizes="(max-width:900px) calc((100vw - 12rem)/3),
+        (max-width:1199px) calc(((100vw - 22rem)/2)*0.55),
         302.5px"
     src="./assets/images/nat-1-large.jpg"
-    alt="Rocky mountains and lake" 
+    alt="Rocky mountains and lake"
     class="composition__img composition__img--1">
 ```
+
 The video I got help from: [**Responsive Images Tutorial by Austin Shelby**](https://www.youtube.com/watch?v=4VUfk464vzk)
 
 ### Day 035: November 3, Friday
 
 **Today I Learned**
 Reviewing the webpack configuration of the Natour project.
- - css-loader, style-loader, HTMLWebpackPlugin, MiniCssExtractPlugin...
+
+- css-loader, style-loader, HTMLWebpackPlugin, MiniCssExtractPlugin...
 
 ### Day 036: November 4, Saturday
 
 **Today I Learned**
 Reviewing the webpack configuration of the Natour project.
+
 - babel-loader and autoprefixer
 
 ### Day 037: November 5, Sunday
 
 **Today I Learned**
 Worked on the Natour project.
+
 - Added responsive images
 - Fixed padding issues on popup
 
@@ -756,4 +773,13 @@ Worked on the Natour project.
 
 **Today I Learned**
 Worked on the Natour project.
+
 - Fixed the reviews section for a responsive layout.
+
+### Day 039: November 7, Tuesday
+
+**Today I Learned**
+Worked on the Natour project.
+
+- Fixed the form component for a responsive layout.
+- Added a hover ainmation to the composition images.
