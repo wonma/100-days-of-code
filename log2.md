@@ -783,3 +783,38 @@ Worked on the Natour project.
 
 - Fixed the form component for a responsive layout.
 - Added a hover ainmation to the composition images.
+
+### Day 040: November 8, Wednesday
+
+**Today I Learned**
+Reviewed the CSS Selectors below.
+
+- Pseudo-classes: state-based selectors
+- Examples of Pseudo-classes
+  - User action states: `:hover`, `:active`, `:focus`
+  - Form states: `:disabled`, `checked` `invalid`
+  - Specific position-based states:`:first-of-type`, `:last-of-type`, `:nth-of-type(odd)`, `:nth-last-of-type(2)`
+  - Negation: `:not(.someClass)`
+- Attribute Selectors
+  - `[attribute^=value]`, `[attribute$=value]`, `[attribute*=value]`, `[attribute~=value]`
+- Adjacent Sibling Selector: useful when creating an input & label interaction
+```
+.form {
+  ...
+  // Case1. The label reveals when the text input gets typed, which means the placeholder-shown state becomes false.
+  &__input--text:not(:placeholder-shown) + &__label--text {
+    transform: translateY(4.5rem);
+    opacity: 1;
+    visibility: visible;
+  }
+
+  // Case2. The circle indicator of the radio input is controlled.
+  &__input--radio:not(:checked) + &__label--radio::before {
+    opacity: 0;
+  }
+
+  &__input--radio:checked + &__label--radio::before {
+    opacity: 1;
+  }
+}
+```
