@@ -818,3 +818,9 @@ Reviewed the CSS Selectors below.
   }
 }
 ```
+
+### Day 041: November 9, Thursday
+
+**Today I Learned**
+Worked on the Natour project.
+- Upgraded the current hamburger menu using JavaScript so that each menu link can show the user the targeted section.
