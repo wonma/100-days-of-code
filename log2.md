@@ -824,3 +824,13 @@ Reviewed the CSS Selectors below.
 **Today I Learned**
 Worked on the Natour project.
 - Upgraded the current hamburger menu using JavaScript so that each menu link can show the user the targeted section.
+
+### Day 042: November 10, Friday
+
+**Today I Learned**
+Custom WordPress Portfolio Site
+- Checked the current development structure (Github - DeployHQ - Stating site on Hostinger)
+- Checked the folder structure of the portfolio site
+
+Natour CSS Project
+- Brainstormed the content details of the project to put on my portfolio website.
