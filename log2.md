@@ -839,3 +839,9 @@ Natour CSS Project
 
 **Today I Learned**
 Reviewed ins and outs of the flex-item property of flexbox: flex, flex-grow, flex-shrink, and flex-basis.
+
+### Day 044: November 12, Sunday
+
+**Today I Learned**
+Reviewed ins and outs of the flexbox.
+[Codepen - Flexbox basic 01](https://codepen.io/wonma/pen/eYxRdaQ)
