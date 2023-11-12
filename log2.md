@@ -834,3 +834,8 @@ Custom WordPress Portfolio Site
 
 Natour CSS Project
 - Brainstormed the content details of the project to put on my portfolio website.
+
+### Day 043: November 11, Saturday
+
+**Today I Learned**
+Reviewed ins and outs of the flex-item property of flexbox: flex, flex-grow, flex-shrink, and flex-basis.
