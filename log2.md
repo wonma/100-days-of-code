@@ -845,3 +845,8 @@ Reviewed ins and outs of the flex-item property of flexbox: flex, flex-grow, fle
 **Today I Learned**
 Reviewed ins and outs of the flexbox.
 [Codepen - Flexbox basic 01](https://codepen.io/wonma/pen/eYxRdaQ)
+
+### Day 045: November 13, Monday
+
+**Today I Learned**
+Finding the real applications of the flexbox on the Coursera website. 
