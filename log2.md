@@ -850,3 +850,8 @@ Reviewed ins and outs of the flexbox.
 
 **Today I Learned**
 Finding the real applications of the flexbox on the Coursera website. 
+
+### Day 046: November 14, Tuesday
+
+**Today I Learned**
+Analyzed how the elements on Coursera websites are using flexbox.
