@@ -855,3 +855,8 @@ Finding the real applications of the flexbox on the Coursera website.
 
 **Today I Learned**
 Analyzed how the elements on Coursera websites are using flexbox.
+
+### Day 047: November 15, Wednesday
+
+**Today I Learned**
+Reviewed and organized what I learned in the Natour project.
