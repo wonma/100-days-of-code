@@ -885,3 +885,8 @@ ZTM Web Developer Course
 ```
 
 [CSS Grid Cheatsheet](https://grid.malven.co/)
+
+### Day 049: November 17, Friday
+
+**Today I Learned**
+Practiced CSS Grid - Building the minimum website layout.
