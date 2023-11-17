@@ -798,6 +798,7 @@ Reviewed the CSS Selectors below.
 - Attribute Selectors
   - `[attribute^=value]`, `[attribute$=value]`, `[attribute*=value]`, `[attribute~=value]`
 - Adjacent Sibling Selector: useful when creating an input & label interaction
+
 ```
 .form {
   ...
@@ -823,16 +824,19 @@ Reviewed the CSS Selectors below.
 
 **Today I Learned**
 Worked on the Natour project.
+
 - Upgraded the current hamburger menu using JavaScript so that each menu link can show the user the targeted section.
 
 ### Day 042: November 10, Friday
 
 **Today I Learned**
 Custom WordPress Portfolio Site
+
 - Checked the current development structure (Github - DeployHQ - Stating site on Hostinger)
 - Checked the folder structure of the portfolio site
 
 Natour CSS Project
+
 - Brainstormed the content details of the project to put on my portfolio website.
 
 ### Day 043: November 11, Saturday
@@ -849,7 +853,7 @@ Reviewed ins and outs of the flexbox.
 ### Day 045: November 13, Monday
 
 **Today I Learned**
-Finding the real applications of the flexbox on the Coursera website. 
+Finding the real applications of the flexbox on the Coursera website.
 
 ### Day 046: November 14, Tuesday
 
@@ -860,3 +864,24 @@ Analyzed how the elements on Coursera websites are using flexbox.
 
 **Today I Learned**
 Reviewed and organized what I learned in the Natour project.
+
+### Day 048: November 16, Thursday
+
+**Today I Learned**
+ZTM Web Developer Course
+
+- Learned the basics of CSS Grid.
+
+```
+    // Frequently used value:
+    grid-template-columns: repeat(3, 1fr)
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))
+    gap: 20px;
+    grid-template-rows: 1fr;
+
+    // Individual cell spanning control:
+    grid-column: 1/3 (== grid-column-start:1 + grid-column-end:3)
+    grid-column: span 2;
+```
+
+[CSS Grid Cheatsheet](https://grid.malven.co/)
