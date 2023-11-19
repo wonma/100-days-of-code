@@ -890,3 +890,8 @@ ZTM Web Developer Course
 
 **Today I Learned**
 Practiced CSS Grid - Building the minimum website layout.
+
+### Day 050: November 18, Saturday
+
+**Today I Learned**
+Practiced CSS Grid - Building the minimum website layout.
