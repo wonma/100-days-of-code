@@ -895,3 +895,22 @@ Practiced CSS Grid - Building the minimum website layout.
 
 **Today I Learned**
 Practiced CSS Grid - Building the minimum website layout.
+
+### Day 051: November 19, Sunday
+
+**Today I Reviewed**
+4 Ways of Creating a Function
+- Function declaration
+- Function expression (named or anonymous)
+  - Arrow function (anonymous)
+  - IIFE (== Immediately Invoked Function Expression)
+[JavaScript Functions Tutorial by Oluwatobi Sofela](https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/)
+
+Difference between `grid-template` and `grid-auto`
+- Concept of implicit vs. explicit grids
+[Understanding the difference between grid-template and grid-auto by bitsofcode](https://bitsofco.de/understanding-the-difference-between-grid-template-and-grid-auto/)
+
+CSS Grid Units
+[CSS Grid Track Options](https://mastery.games/post/grid-track-options/)
+- fr over %:
+Percentages are based on the grid container size, so they don't care what else is going on in the grid. Adding a small gap may cause a grid container to overflow. - mastery.games
