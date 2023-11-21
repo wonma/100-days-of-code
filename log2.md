@@ -914,3 +914,28 @@ CSS Grid Units
 [CSS Grid Track Options](https://mastery.games/post/grid-track-options/)
 - fr over %:
 Percentages are based on the grid container size, so they don't care what else is going on in the grid. Adding a small gap may cause a grid container to overflow. - mastery.games
+
+
+### Day 052: November 20, Monday
+
+**Today I Reviewed**
+Loop
+- for loop, while, do while, forEach
+
+DOM Manipulation
+- Rendering list items with a given todo list (array)
+- getElementsByTagName, getElementsByClassName, getElementById
+- querySelector
+- querySelectorAll
+- Note: Cache the selectors in variables!
+```
+const list = document.querySelector('ul')
+```
+Change the style by classes, not by someElement.style
+- ele.className: this clears up the whole classes of the element and add the new class to it.
+- ele.classList: this is used a lot! 
+  ele.classList.add
+  ele.classList.remove
+  ele.classList.toggle
+- ele.getAttribute(attributeName): this returns a value of the attribute
+- ele.setAttribute(attributeName, value)
