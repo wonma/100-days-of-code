@@ -900,40 +900,47 @@ Practiced CSS Grid - Building the minimum website layout.
 
 **Today I Reviewed**
 4 Ways of Creating a Function
+
 - Function declaration
 - Function expression (named or anonymous)
   - Arrow function (anonymous)
   - IIFE (== Immediately Invoked Function Expression)
-[JavaScript Functions Tutorial by Oluwatobi Sofela](https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/)
+    [JavaScript Functions Tutorial by Oluwatobi Sofela](https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/)
 
 Difference between `grid-template` and `grid-auto`
+
 - Concept of implicit vs. explicit grids
-[Understanding the difference between grid-template and grid-auto by bitsofcode](https://bitsofco.de/understanding-the-difference-between-grid-template-and-grid-auto/)
+  [Understanding the difference between grid-template and grid-auto by bitsofcode](https://bitsofco.de/understanding-the-difference-between-grid-template-and-grid-auto/)
 
 CSS Grid Units
 [CSS Grid Track Options](https://mastery.games/post/grid-track-options/)
-- fr over %:
-Percentages are based on the grid container size, so they don't care what else is going on in the grid. Adding a small gap may cause a grid container to overflow. - mastery.games
 
+- fr over %:
+  Percentages are based on the grid container size, so they don't care what else is going on in the grid. Adding a small gap may cause a grid container to overflow. - mastery.games
 
 ### Day 052: November 20, Monday
 
 **Today I Reviewed**
 Loop
+
 - for loop, while, do while, forEach
 
 DOM Manipulation
+
 - Rendering list items with a given todo list (array)
 - getElementsByTagName, getElementsByClassName, getElementById
 - querySelector
 - querySelectorAll
 - Note: Cache the selectors in variables!
+
 ```
 const list = document.querySelector('ul')
 ```
+
 Change the style by classes, not by someElement.style
+
 - ele.className: this clears up the whole classes of the element and add the new class to it.
-- ele.classList: this is used a lot! 
+- ele.classList: this is used a lot!
   ele.classList.add
   ele.classList.remove
   ele.classList.toggle
@@ -943,9 +950,20 @@ Change the style by classes, not by someElement.style
 ### Day 053: November 21, Tuesday
 
 **Today I Reviewed**
+
 - Simple To-do list logic with `addEventListener`
 
 ### Day 054: November 22, Wednesday
 
 **Today I Reviewed**
+
 - Tried to understand Promise.
+
+### Day 055: November 23, Thursday
+
+**Today I Reviewed**
+
+- Reviewed the concept of 'scope' in JavaScript.
+  - scope is about variable access.
+  - root scope: the variable is added to the window object.
+  - child scope: any variable created inside functions are in child scope. The variable checks if its definition is in the same scope first and then check in the parent scope.
