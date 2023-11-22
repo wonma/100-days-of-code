@@ -939,3 +939,8 @@ Change the style by classes, not by someElement.style
   ele.classList.toggle
 - ele.getAttribute(attributeName): this returns a value of the attribute
 - ele.setAttribute(attributeName, value)
+
+### Day 053: November 21, Tuesday
+
+**Today I Reviewed**
+- Simple To-do list logic with `addEventListener`
