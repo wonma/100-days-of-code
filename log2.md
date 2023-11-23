@@ -944,3 +944,8 @@ Change the style by classes, not by someElement.style
 
 **Today I Reviewed**
 - Simple To-do list logic with `addEventListener`
+
+### Day 054: November 22, Wednesday
+
+**Today I Reviewed**
+- Tried to understand Promise.
