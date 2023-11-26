@@ -967,3 +967,21 @@ Change the style by classes, not by someElement.style
   - scope is about variable access.
   - root scope: the variable is added to the window object.
   - child scope: any variable created inside functions are in child scope. The variable checks if its definition is in the same scope first and then check in the parent scope.
+
+### Day 056: November 24, Friday
+
+**Today I Reviewed**
+
+- the ES6 syntax on ZTM.
+
+### Day 057: November 25, Saturday
+
+**Today I Reviewed**
+
+- Coursera Coding Interview quiz
+
+### Day 058: November 26, Sunday
+
+**Today I Reviewed**
+
+- How to use `Promise`. Implemented it for avfake login logic.
