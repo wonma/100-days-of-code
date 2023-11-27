@@ -984,4 +984,67 @@ Change the style by classes, not by someElement.style
 
 **Today I Reviewed**
 
-- How to use `Promise`. Implemented it for avfake login logic.
+- Implemented a basic login simulator using `new Promise()` and `for loop`.
+[Login Simulator - by Wonmi Kwon](https://codepen.io/wonma/pen/LgwPdv)
+[Using Promises - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+[Error Handling with Promises](https://javascript.info/promise-error-handling)
+
+- Successfully wrote a code that detects the browser's preferred language and change a target word into the translated text using `navigator.language`.
+```
+
+// 1. Add the class to the mobile target link
+const mobileTarget = document.querySelector('#menu-bottombar li:first-child a');
+mobileTarget.classList.add('nav-desktop-cta2');
+
+// 2. Apply the language auto changing logic to the selected link elements
+const detectedLang= navigator.language.slice(0, 2);
+console.log(detectedLang);
+const targetLinks = document.querySelectorAll('.nav-desktop-cta2');
+const translateText = (detectedLang) => {
+	let finalText = 'Resources by Language';
+	
+	switch(detectedLang){
+		case 'es':
+		finalText = 'Recursos en español';
+		break;
+
+		case 'fr':
+		finalText = 'Références en français';
+		break;
+
+		case 'de':
+		finalText = 'Archiv für deutsche Sprache';
+		break;
+
+		case 'ja':
+		finalText = 'ライブラリー';
+		break;
+
+		case 'zh':
+		finalText = '中文资料室';
+		break;
+
+		case 'vi':
+		finalText = 'Phòng tài liệu tiếng Việt';
+		break;
+
+		case 'th':
+		finalText = 'แหล่งข้อมูลภาษาไทย';
+		break;
+
+		case 'id':
+		finalText = 'Ruang referensi Bahasa Indonesia';
+		break;
+	}
+
+	return finalText;
+}
+console.log(targetLinks);
+const swapText = (textToInsert) => {
+	targetLinks.forEach((linkEl)=>{
+		linkEl.textContent = textToInsert;
+	})
+}
+swapText(translateText(detectedLang));
+
+``` 
