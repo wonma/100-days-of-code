@@ -1047,4 +1047,10 @@ const swapText = (textToInsert) => {
 }
 swapText(translateText(detectedLang));
 
-``` 
+```
+
+### Day 058: November 27, Monday
+
+**Today I Reviewed**
+- The concept of pure functions
+- The array methods: filter, map, reduce
