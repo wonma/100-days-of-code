@@ -1054,3 +1054,10 @@ swapText(translateText(detectedLang));
 **Today I Reviewed**
 - The concept of pure functions
 - The array methods: filter, map, reduce
+
+### Day 059: November 28, Tuesday
+
+**Today I Reviewed**
+- Reference type(Object, Array) vs. primitive type (String, Number, Null, undefined, Symbol, Boolean)
+- Context (what `this` means)
+- Instantiation (How to use `Class` to create objects)
