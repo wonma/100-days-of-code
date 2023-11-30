@@ -1061,3 +1061,10 @@ swapText(translateText(detectedLang));
 - Reference type(Object, Array) vs. primitive type (String, Number, Null, undefined, Symbol, Boolean)
 - Context (what `this` means)
 - Instantiation (How to use `Class` to create objects)
+
+### Day 060: November 29, Wednesday
+
+**Today I Learned**
+- Pass by Value (Primitive Type) vs. Pass by Reference (Object and Array)
+- Shallow cloning objects using `Object.assign({}, objToCopy)` or `{...objToCopy}` - Caution! This is a shallow copy.
+- Deep cloning objects using `JSON.parse(JSON.stringify(objToCopy))` - Caution! Heavy computation.
