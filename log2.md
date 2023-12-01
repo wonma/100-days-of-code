@@ -1068,3 +1068,34 @@ swapText(translateText(detectedLang));
 - Pass by Value (Primitive Type) vs. Pass by Reference (Object and Array)
 - Shallow cloning objects using `Object.assign({}, objToCopy)` or `{...objToCopy}` - Caution! This is a shallow copy.
 - Deep cloning objects using `JSON.parse(JSON.stringify(objToCopy))` - Caution! Heavy computation.
+
+### Day 061: November 30, Thursday
+
+**Today I Learned**
+- Various ES7, ES8, ES10 syntax
+```
+arr.includes()
+str.includes()
+
+str.padStart(number)
+str.padEnd(number)
+
+Object.keys(obj)
+Object.values(obj)
+Object.entries(obj) // This is the opposite of Object.fromEntries(array)
+
+arr.flat(num)
+arr.flatMap((item) => item) // 더 연구해야함.
+['a',,,,'c'].flat() // ['a', 'c']
+
+str.trimStart()
+str.trimEnd()
+str.trim()
+
+try{} catch{}
+try{} catch(error){}
+```
+
+- Advanced loop
+  - `for prop in obj`: used for emmurables (objects, arrays)
+  - `for item of arr`: used for immutables (arrays, strings)
