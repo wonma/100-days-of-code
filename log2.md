@@ -1099,3 +1099,8 @@ try{} catch(error){}
 - Advanced loop
   - `for prop in obj`: used for emmurables (objects, arrays)
   - `for item of arr`: used for immutables (arrays, strings)
+
+### Day 062: December 1, Friday
+
+**Today I Learned**
+- Reviewed and did advanced loop exercises.
