@@ -1104,3 +1104,11 @@ try{} catch(error){}
 
 **Today I Learned**
 - Reviewed and did advanced loop exercises.
+
+### Day 063: December 2, Saturday
+
+**Today I Learned**
+- Nullish Coarcing Operator ??: only checks if the statement is undefined or null (with this, 0 and '' both evaluate truthy.)
+- Optional Chaining Operator ?.: allows us to optionally check if a property exists in an object or if the object itself exists 
+- str.replaceALL('subStrA', 'subStrB')
+- arr.at(index) 
