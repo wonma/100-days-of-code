@@ -1112,3 +1112,14 @@ try{} catch(error){}
 - Optional Chaining Operator ?.: allows us to optionally check if a property exists in an object or if the object itself exists 
 - str.replaceALL('subStrA', 'subStrB')
 - arr.at(index) 
+
+### Day 064: December 3, Sunday
+
+**Today I Learned**
+- New array methods of ES2023
+- array.findLast()
+- array.findLastIndex()
+- array.toReversed()
+- array.toSpliced()
+- array.toSorted()
+- array.with(index, 'newValue')
