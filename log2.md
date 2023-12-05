@@ -1123,3 +1123,19 @@ try{} catch(error){}
 - array.toSpliced()
 - array.toSorted()
 - array.with(index, 'newValue')
+
+### Day 064: December 4, Monday
+
+**Today I Learned**
+- One definition of JavaScript: JavaScript is a single-threaded language that can be non-blocking(asynchronous). 
+- JavaScript Runtime Environment: it compasses the JavaScript engine that includes **memory heap** and **call stack**, and the WebAPI, callback queue, and event loop. 
+  - Memory heap
+  - Call stack
+  - WebAPI
+  - Callback queue
+  - Event loop
+- Module system in JavaScript
+  - The problems of inline script, script tag, and IIFE (immediately invoked function expression)
+    - Code resuability
+    - Polution of global namespace
+    - Dependency resolution
