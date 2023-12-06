@@ -1124,7 +1124,7 @@ try{} catch(error){}
 - array.toSorted()
 - array.with(index, 'newValue')
 
-### Day 064: December 4, Monday
+### Day 065: December 4, Monday
 
 **Today I Learned**
 - One definition of JavaScript: JavaScript is a single-threaded language that can be non-blocking(asynchronous). 
@@ -1139,3 +1139,9 @@ try{} catch(error){}
     - Code resuability
     - Polution of global namespace
     - Dependency resolution
+
+### Day 066: December 5, Tuesday
+
+**Today I Learned**
+- Reviewed module system
+- Reviewed .sort() via this [page](https://www.w3schools.com/js/js_array_sort.asp#:~:text=By%20default%2C%20the%20sort(),incorrect%20result%20when%20sorting%20numbers.)
