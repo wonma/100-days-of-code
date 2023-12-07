@@ -1145,3 +1145,8 @@ try{} catch(error){}
 **Today I Learned**
 - Reviewed module system
 - Reviewed .sort() via this [page](https://www.w3schools.com/js/js_array_sort.asp#:~:text=By%20default%2C%20the%20sort(),incorrect%20result%20when%20sorting%20numbers.)
+
+### Day 067: December 6, Wednesday
+
+**Today I Reviewed**
+- How to start creating a React app
