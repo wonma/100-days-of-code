@@ -1150,3 +1150,9 @@ try{} catch(error){}
 
 **Today I Reviewed**
 - How to start creating a React app
+
+### Day 068: December 7, Thursday
+
+**Today I Reviewed**
+- Started the Robofriends exercise. 
+  - Let's Try Building It by Myself! This is my third time working on the Robofriends React app. Rather than rushing to follow the videos, this time, I decided to do everything by myself only provided with the api information.
