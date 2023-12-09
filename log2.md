@@ -1156,3 +1156,9 @@ try{} catch(error){}
 **Today I Reviewed**
 - Started the Robofriends exercise. 
   - Let's Try Building It by Myself! This is my third time working on the Robofriends React app. Rather than rushing to follow the videos, this time, I decided to do everything by myself only provided with the api information.
+  
+### Day 069: December 8, Friday
+
+**Today I Reviewed**
+- Robofriends React App:
+  - How to use props to pass down data
