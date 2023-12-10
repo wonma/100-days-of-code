@@ -1162,3 +1162,9 @@ try{} catch(error){}
 **Today I Reviewed**
 - Robofriends React App:
   - How to use props to pass down data
+  
+### Day 070: December 9, Saturday
+
+**Today I Reviewed**
+- Robofriends React App:
+  - How to create a list of Card components
