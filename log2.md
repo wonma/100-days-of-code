@@ -1168,3 +1168,9 @@ try{} catch(error){}
 **Today I Reviewed**
 - Robofriends React App:
   - How to create a list of Card components
+  
+### Day 071: December 10, Sunday
+
+**Today I Reviewed**
+- Robofriends React App:
+  - Added event listener to the Search input field with this.setState
