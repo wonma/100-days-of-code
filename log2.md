@@ -1174,3 +1174,11 @@ try{} catch(error){}
 **Today I Reviewed**
 - Robofriends React App:
   - Added event listener to the Search input field with this.setState
+  
+### Reset and Resume
+
+### Day 001: December 15, Friday
+
+**Today I Reviewed**
+- Robofriends React App:
+  - Added the filtering functionality and styling.
