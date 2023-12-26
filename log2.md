@@ -1182,3 +1182,12 @@ try{} catch(error){}
 **Today I Reviewed**
 - Robofriends React App:
   - Added the filtering functionality and styling.
+
+  
+### Reset and Resume
+
+### Day 001: December 25, Monday
+
+**Today I Reviewed**
+- Robofriends React App:
+  - Deployed on Github.
